@@ -20,7 +20,7 @@ The whole-body submodel is available from [`chlorzoxazone_body.xml`](./models/ch
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_body.xml)
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7025683.svg)](https://doi.org/10.5281/zenodo.7025683)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7760665.svg)](https://doi.org/10.5281/zenodo.7760665)
 
 > Küttner, Jonas, & König, Matthias. (2023). 
 > *Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone.*   
