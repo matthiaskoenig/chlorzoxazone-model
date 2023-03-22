@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6976102.svg)](https://doi.org/10.5281/zenodo.6976102)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7760665.svg)](https://doi.org/10.5281/zenodo.7760665)
 
 # chlorzoxazone model
 This repository provides the chlorzoxazone physiologically based pharmacokinetics (PBPK) model.
@@ -22,9 +22,9 @@ The whole-body submodel is available from [`chlorzoxazone_body.xml`](./models/ch
 ## How to cite
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7025683.svg)](https://doi.org/10.5281/zenodo.7025683)
 
-> Küttner, Jonas, & König, Matthias. (2022). 
-> *Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone (v0.9.0).*   
-> Zenodo. [https://doi.org/10.5281/zenodo.7025683](https://doi.org/10.5281/zenodo.7025683)
+> Küttner, Jonas, & König, Matthias. (2023). 
+> *Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone.*   
+> Zenodo. [https://doi.org/10.5281/zenodo.7760665](https://doi.org/10.5281/zenodo.7760665)
 
 ## License
 
