@@ -345,7 +345,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
     </listOfSpecies>
     <listOfParameters>
       <parameter id="PODOSE_ethanol" name="oral ethanol dose [mg]" value="0" units="mg" constant="false"/>
-      <parameter metaid="meta_F_czx_abs" sboTerm="SBO:0000002" id="F_czx_abs" name="fraction absorbed chlorzoxazone (tablet)" value="0.606" units="dimensionless" constant="true">
+      <parameter metaid="meta_F_czx_abs" sboTerm="SBO:0000002" id="F_czx_abs" name="fraction absorbed chlorzoxazone (tablet)" value="0.593" units="dimensionless" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>Fraction absorbed, i.e., only a fraction of the chlorzoxazone in the intestinal lumen
@@ -367,7 +367,7 @@ every round of the enterohepatic circulation.</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_Ka_abs_czx" sboTerm="SBO:0000002" id="Ka_abs_czx" name="Ka_abs [1/hr] absorption chlorzoxazone" value="1.457" units="per_hr" constant="true">
+      <parameter metaid="meta_Ka_abs_czx" sboTerm="SBO:0000002" id="Ka_abs_czx" name="Ka_abs [1/hr] absorption chlorzoxazone" value="1.325" units="per_hr" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_Ka_abs_czx">

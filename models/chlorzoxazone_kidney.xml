@@ -242,7 +242,7 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </species>
     </listOfSpecies>
     <listOfParameters>
-      <parameter metaid="meta_CZXOGLU_EX_k" sboTerm="SBO:0000009" id="CZXOGLU_EX_k" name="rate urinary excretion chlorzoxazone metabolites" value="2.61" units="per_min" constant="true">
+      <parameter metaid="meta_CZXOGLU_EX_k" sboTerm="SBO:0000009" id="CZXOGLU_EX_k" name="rate urinary excretion chlorzoxazone metabolites" value="2.611" units="per_min" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>determined via parameter fitting</p>
