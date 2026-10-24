@@ -1,0 +1,10 @@
+study	count	individual	group	intervention	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	0.51161414	0.0027404420264213252	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	1.0019448	0.04507989148384052	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	2.008806	0.02816245340882283	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	3.003096	0.01636868954942203	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	4.024146	0.007554628450106156	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	5.018374	0.004454709011559329	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	5.9875846	0.002209080266572304	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	6.996935	0.0007751527482896908	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_control_1	control_women	CZX250	Tab1_TC_control_1_control_women_chlorzoxazone	concentration	chlorzoxazone	plasma	8.018234	0.0003377033203585751	hr	HPLC		mole/meter^3	dimensionless

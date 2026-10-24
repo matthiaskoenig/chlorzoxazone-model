@@ -1,0 +1,13 @@
+study	name	parent	measurement_type	group_count	choice	count	min	max	unit	substance	comments
+Ernstgard2004	all	NA	sex	37	M	27	NA	NA	NA	NA	NA
+Ernstgard2004	all	NA	sex	37	F	9	NA	NA	NA	NA	NA
+Ernstgard2004	all	NA	species	37	homo sapiens	6	NA	NA	NA	NA	NA
+Ernstgard2004	all	NA	healthy	37	Y	6	NA	NA	NA	NA	NA
+Ernstgard2004	men	all	age	28	NA	28	20.0	53.0	yr	NA	NA
+Ernstgard2004	men	all	weight	28	NA	28	50.0	110.0	kg	NA	NA
+Ernstgard2004	men	all	 body fat percentage	28	NA	28	7.0	28.0	percent	NA	NA
+Ernstgard2004	men	all	height	28	NA	28	1.68	1.93	cm	NA	NA
+Ernstgard2004	women	all	age	28	NA	28	20.0	50.0	yr	NA	NA
+Ernstgard2004	women	all	weight	28	NA	28	46.0	83.0	kg	NA	NA
+Ernstgard2004	women	all	height	28	NA	28	160.0	171.0	cm	NA	NA
+Ernstgard2004	women	all	body fat percentage	28	NA	28	19.0	40.0	percent	NA	NA

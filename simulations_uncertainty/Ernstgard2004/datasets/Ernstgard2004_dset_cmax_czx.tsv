@@ -1,0 +1,21 @@
+study	count	group	individual	intervention	tissue	measurement_type	substance	label	value	time	time_unit	method	comments	value_unit	count_unit
+Ernstgard2004	1	men	A1	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	12.112356			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A2	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	18.017614			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A3	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	51.94077			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A4	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	30.910357			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A5	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	37.546825			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A6	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	68.886955			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A7	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	48.26712			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A8	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	49.319763			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A9	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	45.256325			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A10	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	89.89338			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A11	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	93.54024			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A12	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	71.78021			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A13	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	96.86647			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A14	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	161.39095			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A15	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	111.986824			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A16	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	110.87261			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A17	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	97.94029			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A18	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	152.13626			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A19	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	153.60228			HPLC		µmole/l	dimensionless
+Ernstgard2004	1	men	A20	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	171.30646			HPLC		µmole/l	dimensionless

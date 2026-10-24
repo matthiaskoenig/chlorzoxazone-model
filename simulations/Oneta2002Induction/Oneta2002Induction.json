@@ -1,0 +1,1830 @@
+{
+  "experiment_id": "Oneta2002Induction",
+  "base_path": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone",
+  "data_path": [
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/chlorzoxazone",
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/alcohol",
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/caffeine"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/models/output/models/chlorzoxazone_body_flat.xml",
+        "path": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/models/output/models/chlorzoxazone_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "Aurine_czxoglu",
+        "Cve_czx6oh_all",
+        "KI__f_renal_function",
+        "LI__cyp2e1",
+        "LI__f_cyp2e1",
+        "LI__f_czxother",
+        "LI__kd_cyp2e1",
+        "PODOSE_czx",
+        "[Cve_czx6oh]",
+        "[Cve_czx]",
+        "[Cve_czxoglu]",
+        "[Cve_ethanol]",
+        "[Cveplasma_czx]",
+        "[LI__czx6oh]",
+        "[LI__czx]",
+        "[LI__ethanol]",
+        "f_cirrhosis",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_ethanol_25_czx_500": {
+      "sid": "model__ethanol_25_czx_500",
+      "name": null,
+      "model": "model",
+      "simulation": "ethanol_25_czx_500",
+      "observables": []
+    },
+    "task_ethanol_25_czx_750": {
+      "sid": "model__ethanol_25_czx_750",
+      "name": null,
+      "model": "model",
+      "simulation": "ethanol_25_czx_750",
+      "observables": []
+    },
+    "task_ethanol_withdrawal_500": {
+      "sid": "model__ethanol_withdrawal_500",
+      "name": null,
+      "model": "model",
+      "simulation": "ethanol_withdrawal_500",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "ethanol_25_czx_500": {
+      "type": "Simulation",
+      "time_unit": "min",
+      "start": 0.0,
+      "end": 80640.0,
+      "preinit_changes": {
+        "application_form": {
+          "value": 0,
+          "unit": "dimensionless"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            480.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            1920.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            3360.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            4800.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            6240.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            7680.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            8400.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            9120.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            9840.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            10560.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            11280.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            12000.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            12720.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            13440.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            14160.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            14880.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            15600.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            16320.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            17040.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            17760.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            18480.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            19200.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            19920.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            20640.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            21360.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            22080.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            22800.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            23520.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            24240.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            24960.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            25680.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            26400.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            27120.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            27840.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            28560.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            29280.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            30000.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            30720.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            31440.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            32160.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            32880.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            33600.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            34320.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            35040.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            35760.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            36480.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            37200.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            37920.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            38640.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            39360.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            40080.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            40800.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            41520.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            42240.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            42960.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            43680.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            44400.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            45120.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            45840.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            46560.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            47280.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            48000.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            48720.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            49440.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            50160.0
+          ],
+          "values": {
+            "GU__PODOSE_ethanol": "GU__PODOSE_ethanol + 40000.0"
+          }
+        },
+        {
+          "times": [
+            50880.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            52320.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            53760.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            55200.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            56640.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            58080.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            59520.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            60960.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            62400.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            63840.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            65280.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            66720.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            68160.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            69600.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            71040.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            72480.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            73920.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            75360.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            76800.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            78240.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            79680.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": 17400,
+      "time_shift": 0.0
+    },
+    "ethanol_25_czx_750": {
+      "type": "Simulation",
+      "time_unit": "min",
+      "start": 0.0,
+      "end": 23040.0,
+      "preinit_changes": {
+        "application_form": {
+          "value": 0,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2e1": {
+          "value": 1.575,
+          "unit": "dimensionless"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            480.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            1920.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            3360.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            4800.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            6240.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            7680.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            9120.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            10560.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            12000.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            13440.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            14880.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            16320.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            17760.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            19200.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            20640.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        },
+        {
+          "times": [
+            22080.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 750.0"
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": 3400,
+      "time_shift": 0.0
+    },
+    "ethanol_withdrawal_500": {
+      "type": "Simulation",
+      "time_unit": "min",
+      "start": 0.0,
+      "end": 31680.0,
+      "preinit_changes": {
+        "application_form": {
+          "value": 0,
+          "unit": "dimensionless"
+        },
+        "LI__cyp2e1": {
+          "value": 2.7,
+          "unit": "dimensionless"
+        }
+      },
+      "changes": [
+        {
+          "times": [
+            600.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            2040.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            3480.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            4920.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            6360.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            7800.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            9240.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            10680.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            12120.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            13560.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            15000.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            16440.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            17880.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            19320.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            20760.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            22200.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            23640.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            25080.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            26520.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            27960.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            29400.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        },
+        {
+          "times": [
+            30840.0
+          ],
+          "values": {
+            "PODOSE_czx": "PODOSE_czx + 500.0"
+          }
+        }
+      ],
+      "presimulation": null,
+      "times": null,
+      "steps": 4600,
+      "time_shift": 0.0
+    }
+  },
+  "data": {
+    "task_ethanol_25_czx_500__time": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__PODOSE_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__PODOSE_czx",
+      "index": "PODOSE_czx",
+      "selection": "PODOSE_czx",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__Cveplasma_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__Cveplasma_czx",
+      "index": "Cveplasma_czx",
+      "selection": "[Cveplasma_czx]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__Cve_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__Cve_czx",
+      "index": "Cve_czx",
+      "selection": "[Cve_czx]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__Cve_czx6oh": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__Cve_czx6oh",
+      "index": "Cve_czx6oh",
+      "selection": "[Cve_czx6oh]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__Aurine_czxoglu": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__Aurine_czxoglu",
+      "index": "Aurine_czxoglu",
+      "selection": "Aurine_czxoglu",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__LI__czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__LI__czx",
+      "index": "LI__czx",
+      "selection": "[LI__czx]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__LI__czx6oh": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__LI__czx6oh",
+      "index": "LI__czx6oh",
+      "selection": "[LI__czx6oh]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__Cve_czx6oh_all": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__Cve_czx6oh_all",
+      "index": "Cve_czx6oh_all",
+      "selection": "Cve_czx6oh_all",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__Cve_czxoglu": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__Cve_czxoglu",
+      "index": "Cve_czxoglu",
+      "selection": "[Cve_czxoglu]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__Cve_ethanol": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__Cve_ethanol",
+      "index": "Cve_ethanol",
+      "selection": "[Cve_ethanol]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__LI__cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__LI__cyp2e1",
+      "index": "LI__cyp2e1",
+      "selection": "LI__cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__conc__LI__ethanol": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__conc__LI__ethanol",
+      "index": "LI__ethanol",
+      "selection": "[LI__ethanol]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__LI__kd_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__LI__kd_cyp2e1",
+      "index": "LI__kd_cyp2e1",
+      "selection": "LI__kd_cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__LI__f_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__LI__f_cyp2e1",
+      "index": "LI__f_cyp2e1",
+      "selection": "LI__f_cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_500__LI__f_czxother": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_500__LI__f_czxother",
+      "index": "LI__f_czxother",
+      "selection": "LI__f_czxother",
+      "unit": null,
+      "task": "task_ethanol_25_czx_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__time": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__PODOSE_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__PODOSE_czx",
+      "index": "PODOSE_czx",
+      "selection": "PODOSE_czx",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__Cveplasma_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__Cveplasma_czx",
+      "index": "Cveplasma_czx",
+      "selection": "[Cveplasma_czx]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__Cve_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__Cve_czx",
+      "index": "Cve_czx",
+      "selection": "[Cve_czx]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__Cve_czx6oh": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__Cve_czx6oh",
+      "index": "Cve_czx6oh",
+      "selection": "[Cve_czx6oh]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__Aurine_czxoglu": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__Aurine_czxoglu",
+      "index": "Aurine_czxoglu",
+      "selection": "Aurine_czxoglu",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__LI__czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__LI__czx",
+      "index": "LI__czx",
+      "selection": "[LI__czx]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__LI__czx6oh": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__LI__czx6oh",
+      "index": "LI__czx6oh",
+      "selection": "[LI__czx6oh]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__Cve_czx6oh_all": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__Cve_czx6oh_all",
+      "index": "Cve_czx6oh_all",
+      "selection": "Cve_czx6oh_all",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__Cve_czxoglu": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__Cve_czxoglu",
+      "index": "Cve_czxoglu",
+      "selection": "[Cve_czxoglu]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__Cve_ethanol": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__Cve_ethanol",
+      "index": "Cve_ethanol",
+      "selection": "[Cve_ethanol]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__LI__cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__LI__cyp2e1",
+      "index": "LI__cyp2e1",
+      "selection": "LI__cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__conc__LI__ethanol": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__conc__LI__ethanol",
+      "index": "LI__ethanol",
+      "selection": "[LI__ethanol]",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__LI__kd_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__LI__kd_cyp2e1",
+      "index": "LI__kd_cyp2e1",
+      "selection": "LI__kd_cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__LI__f_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__LI__f_cyp2e1",
+      "index": "LI__f_cyp2e1",
+      "selection": "LI__f_cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_25_czx_750__LI__f_czxother": {
+      "type": "TASK",
+      "sid": "task_ethanol_25_czx_750__LI__f_czxother",
+      "index": "LI__f_czxother",
+      "selection": "LI__f_czxother",
+      "unit": null,
+      "task": "task_ethanol_25_czx_750",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__time": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__PODOSE_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__PODOSE_czx",
+      "index": "PODOSE_czx",
+      "selection": "PODOSE_czx",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__Cveplasma_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__Cveplasma_czx",
+      "index": "Cveplasma_czx",
+      "selection": "[Cveplasma_czx]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__Cve_czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__Cve_czx",
+      "index": "Cve_czx",
+      "selection": "[Cve_czx]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__Cve_czx6oh": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__Cve_czx6oh",
+      "index": "Cve_czx6oh",
+      "selection": "[Cve_czx6oh]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__Aurine_czxoglu": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__Aurine_czxoglu",
+      "index": "Aurine_czxoglu",
+      "selection": "Aurine_czxoglu",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__LI__czx": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__LI__czx",
+      "index": "LI__czx",
+      "selection": "[LI__czx]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__LI__czx6oh": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__LI__czx6oh",
+      "index": "LI__czx6oh",
+      "selection": "[LI__czx6oh]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__Cve_czx6oh_all": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__Cve_czx6oh_all",
+      "index": "Cve_czx6oh_all",
+      "selection": "Cve_czx6oh_all",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__Cve_czxoglu": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__Cve_czxoglu",
+      "index": "Cve_czxoglu",
+      "selection": "[Cve_czxoglu]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__Cve_ethanol": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__Cve_ethanol",
+      "index": "Cve_ethanol",
+      "selection": "[Cve_ethanol]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__LI__cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__LI__cyp2e1",
+      "index": "LI__cyp2e1",
+      "selection": "LI__cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__conc__LI__ethanol": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__conc__LI__ethanol",
+      "index": "LI__ethanol",
+      "selection": "[LI__ethanol]",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__LI__kd_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__LI__kd_cyp2e1",
+      "index": "LI__kd_cyp2e1",
+      "selection": "LI__kd_cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__LI__f_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__LI__f_cyp2e1",
+      "index": "LI__f_cyp2e1",
+      "selection": "LI__f_cyp2e1",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_ethanol_withdrawal_500__LI__f_czxother": {
+      "type": "TASK",
+      "sid": "task_ethanol_withdrawal_500__LI__f_czxother",
+      "index": "LI__f_czxother",
+      "selection": "LI__f_czxother",
+      "unit": null,
+      "task": "task_ethanol_withdrawal_500",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {}
+}

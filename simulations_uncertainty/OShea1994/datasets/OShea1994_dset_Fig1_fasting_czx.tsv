@@ -1,0 +1,10 @@
+study	count	individual	group	intervention	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	0.47649124	0.004018320358575135	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	0.9930962	0.029652479948100965	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	1.9573159	0.03516556381221985	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	2.9839325	0.027347741212550125	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	3.97378	0.016742756546355268	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	4.9388595	0.01054225701816466	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	5.940919	0.00722318235432885	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	6.967612	0.005309974050483604	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	fasting	CZX250	Tab1_Healthy_5_fasting_chlorzoxazone	concentration	chlorzoxazone	plasma	7.9571724	0.004014652276480301	hr	HPLC		mole/meter^3	dimensionless

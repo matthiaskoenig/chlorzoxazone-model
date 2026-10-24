@@ -1,0 +1,13 @@
+study	count	intervention	individual	group	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	0.40819636	0.0924714024534088	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	0.9169221	0.1478023413540929	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	1.5352955	0.1643435656994574	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	2.1760848	0.1598628568058504	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	2.8174818	0.14406132342533615	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	4.2926726	0.11371868365180464	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	5.232086	0.11498228945506016	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	5.9803195	0.10264912715263033	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	6.9853096	0.08574545883463079	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	8.010056	0.08754244515215852	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	10.021555	0.050459483368719034	hr	HPLC		mole/meter^3	dimensionless
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	12.049847	0.051599363057324835	hr	HPLC		mole/meter^3	dimensionless

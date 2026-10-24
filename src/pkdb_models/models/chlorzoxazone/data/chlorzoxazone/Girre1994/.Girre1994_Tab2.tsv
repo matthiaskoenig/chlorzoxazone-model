@@ -1,0 +1,33 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	cmax	chlorzoxazone	plasma	6.29	3.01	0.777178658138955	µg/ml	NA	NA	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	auc_inf	chlorzoxazone	plasma	16.32	10.08	2.60264480865138	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	clearance	chlorzoxazone	plasma	41.06	20.18	5.21045359509771	l/hr	NA	NA	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	cmax	6-hydroxychlorzoxazone	plasma	3.39	1.21	0.312420656594065	µg/ml	NA	NA	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	auc_inf	6-hydroxychlorzoxazone	plasma	12.96	3.3	0.852056336165632	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	clearance	6-hydroxychlorzoxazone	plasma	31.7	9.6	2.47870934157275	l/hr	NA	NA	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.95	0.66	0.170411267233126	dimensionless	2.0	hr	HPLC	NA
+Girre1994	15.0	alcoholics	CZX500	Tab3_alcoholics	cumulative amount	6-hydroxychlorzoxazone	urine	413.8	88.6	22.8764216315985	mg	24.0	hr	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	cmax	chlorzoxazone	plasma	9.95	4.31	0.963745298302409	µg/ml	NA	NA	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	auc_inf	chlorzoxazone	plasma	24.75	12.21	2.73023900052724	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	clearance	chlorzoxazone	plasma	23.74	9.23	2.06389074323231	l/hr	NA	NA	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	cmax	6-hydroxychlorzoxazone	plasma	2.88	0.65	0.145344418537486	µg/ml	NA	NA	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	auc_inf	6-hydroxychlorzoxazone	plasma	11.43	2.32	0.518767770779951	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	clearance	6-hydroxychlorzoxazone	plasma	32.6	8.0	1.78885438199983	l/hr	NA	NA	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.38	0.18	0.0402492235949962	dimensionless	2.0	hr	HPLC	NA
+Girre1994	20.0	healthy	CZX500	Tab3_healthy	cumulative amount	6-hydroxychlorzoxazone	urine	406.7	132.18	29.5563465265922	mg	24.0	hr	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	cmax	chlorzoxazone	plasma	10.0	5.04	1.59378794072486	µg/ml	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	auc_inf	chlorzoxazone	plasma	24.97	16.07	5.08178019989059	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	clearance	chlorzoxazone	plasma	25.33	11.36	3.59234742195128	l/hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	cmax	6-hydroxychlorzoxazone	plasma	2.89	0.72	0.227683991532123	µg/ml	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	auc_inf	6-hydroxychlorzoxazone	plasma	10.65	1.7	0.537587202228625	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	clearance	6-hydroxychlorzoxazone	plasma	34.6	4.4	1.39140217047409	l/hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.38	0.18	0.0569209978830308	dimensionless	2.0	hr	HPLC	NA
+Girre1994	10.0	healthy_smoke	CZX500	Tab3_healthy_smoke	cumulative amount	6-hydroxychlorzoxazone	urine	406.7	132.18	41.7989861121056	mg	24.0	hr	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	cmax	chlorzoxazone	plasma	9.9	3.72	1.17636728958264	µg/ml	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	auc_inf	chlorzoxazone	plasma	24.53	7.54	2.38435735576696	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	clearance	chlorzoxazone	plasma	22.15	6.72	2.12505058763315	l/hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	cmax	6-hydroxychlorzoxazone	plasma	2.87	0.63	0.199223492590608	µg/ml	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	auc_inf	6-hydroxychlorzoxazone	plasma	12.21	2.67	0.844328135264957	µg/ml*hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	clearance	6-hydroxychlorzoxazone	plasma	29.8	7.3	2.30846269192292	l/hr	NA	NA	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.37	0.15	0.0474341649025257	dimensionless	2.0	hr	HPLC	NA
+Girre1994	10.0	healthy_no_smoke	CZX500	Tab3_healthy_no_smoke	cumulative amount	6-hydroxychlorzoxazone	urine	353.36	88.47	27.9766704595096	mg	24.0	hr	HPLC	NA

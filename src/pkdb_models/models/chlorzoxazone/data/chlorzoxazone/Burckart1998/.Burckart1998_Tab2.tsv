@@ -1,0 +1,15 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	time	time_unit	unit	method	comments
+Burckart1998	16	healthy	CZX250	Tab2_healthy_cmax_chlorzoxazone	cmax	chlorzoxazone	plasma	5321.5	1439.8	359.95	NA	NA	ng/ml	HPLC	NA
+Burckart1998	16	healthy	CZX250	Tab2_healthy_thalf_chlorzoxazone	thalf	chlorzoxazone	plasma	1.1	0.2	0.05	NA	NA	hr	HPLC	NA
+Burckart1998	16	healthy	CZX250	Tab2_healthy_clearance_chlorzoxazone	clearance	chlorzoxazone	plasma	407.4	220.1	55.025	NA	NA	ml/min	HPLC	NA
+Burckart1998	16	healthy	CZX250	Tab2_healthy_cumulative amount_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	158.6	37.1	9.275	8.0	hr	mg	HPLC	NA
+Burckart1998	16	healthy	CZX250	Tab2_healthy_cmax_6-hydroxychlorzoxazone	cmax	6-hydroxychlorzoxazone	plasma	1617.5	319.9	79.975	NA	NA	ng/ml	HPLC	NA
+Burckart1998	16	healthy	CZX250	Tab2_healthy_thalf_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	plasma	1.4	0.4	0.1	NA	NA	hr	HPLC	NA
+Burckart1998	16	healthy	CZX250	Tab2_healthy_clearance_6-hydroxychlorzoxazone	clearance	6-hydroxychlorzoxazone	plasma	263.1	163.1	40.775	NA	NA	ml/min	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_cmax_chlorzoxazone	cmax	chlorzoxazone	plasma	1440.1	912.7	344.968174515522	NA	NA	ng/ml	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_thalf_chlorzoxazone	thalf	chlorzoxazone	plasma	1.7	1.0	0.377964473009227	NA	NA	hr	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_clearance_chlorzoxazone	clearance	chlorzoxazone	plasma	1181.7	908.3	343.305130834281	NA	NA	ml/min	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_cumulative amount_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	172.6	21.0	7.93725393319377	8.0	hr	mg	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_cmax_6-hydroxychlorzoxazone	cmax	6-hydroxychlorzoxazone	plasma	3046.4	1848.5	698.667328357556	NA	NA	ng/ml	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_thalf_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	plasma	2.1	0.5	0.188982236504614	NA	NA	hr	HPLC	NA
+Burckart1998	7	liver transplant patients	CZX250	Tab2_liver transplant patients_clearance_6-hydroxychlorzoxazone	clearance	6-hydroxychlorzoxazone	plasma	1018.3	913.3	345.194953199327	NA	NA	ml/min	HPLC	NA

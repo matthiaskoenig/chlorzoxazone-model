@@ -1,0 +1,97 @@
+study	index	individual	intervention	group	label	measurement	substance	tissue	value	unit	method	comments
+Bedada2017	1	cmax_ratio_1_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.09085714	dimensionless	HPLC	NA
+Bedada2017	1	cmax_ratio_1_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.038285714	dimensionless	HPLC	NA
+Bedada2017	2	cmax_ratio_2_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.087238096	dimensionless	HPLC	NA
+Bedada2017	2	cmax_ratio_2_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.036761906	dimensionless	HPLC	NA
+Bedada2017	3	cmax_ratio_3_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.08419047	dimensionless	HPLC	NA
+Bedada2017	3	cmax_ratio_3_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.046095237	dimensionless	HPLC	NA
+Bedada2017	4	cmax_ratio_4_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.07657143	dimensionless	HPLC	NA
+Bedada2017	4	cmax_ratio_4_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.03142857	dimensionless	HPLC	NA
+Bedada2017	5	cmax_ratio_5_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.074857146	dimensionless	HPLC	NA
+Bedada2017	5	cmax_ratio_5_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.041333333	dimensionless	HPLC	NA
+Bedada2017	6	cmax_ratio_6_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.07161905	dimensionless	HPLC	NA
+Bedada2017	6	cmax_ratio_6_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.049523808	dimensionless	HPLC	NA
+Bedada2017	7	cmax_ratio_7_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.060190476	dimensionless	HPLC	NA
+Bedada2017	7	cmax_ratio_7_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.030095238	dimensionless	HPLC	NA
+Bedada2017	8	cmax_ratio_8_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.05904762	dimensionless	HPLC	NA
+Bedada2017	8	cmax_ratio_8_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.02952381	dimensionless	HPLC	NA
+Bedada2017	9	cmax_ratio_9_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.047238097	dimensionless	HPLC	NA
+Bedada2017	9	cmax_ratio_9_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.032761905	dimensionless	HPLC	NA
+Bedada2017	10	cmax_ratio_10_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.041904762	dimensionless	HPLC	NA
+Bedada2017	10	cmax_ratio_10_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.025904762	dimensionless	HPLC	NA
+Bedada2017	11	cmax_ratio_11_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.036761906	dimensionless	HPLC	NA
+Bedada2017	11	cmax_ratio_11_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.02552381	dimensionless	HPLC	NA
+Bedada2017	12	cmax_ratio_12_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.027809523	dimensionless	HPLC	NA
+Bedada2017	12	cmax_ratio_12_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	cmax_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.019809524	dimensionless	HPLC	NA
+Bedada2017	1	auc_ratio_1_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.13406073	dimensionless	HPLC	NA
+Bedada2017	1	auc_ratio_1_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.055787478	dimensionless	HPLC	NA
+Bedada2017	2	auc_ratio_2_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.13462998	dimensionless	HPLC	NA
+Bedada2017	2	auc_ratio_2_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.040702086	dimensionless	HPLC	NA
+Bedada2017	3	auc_ratio_3_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.12666035	dimensionless	HPLC	NA
+Bedada2017	3	auc_ratio_3_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.054933585	dimensionless	HPLC	NA
+Bedada2017	4	auc_ratio_4_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.118975334	dimensionless	HPLC	NA
+Bedada2017	4	auc_ratio_4_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.063757114	dimensionless	HPLC	NA
+Bedada2017	5	auc_ratio_5_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.110151805	dimensionless	HPLC	NA
+Bedada2017	5	auc_ratio_5_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.066603415	dimensionless	HPLC	NA
+Bedada2017	6	auc_ratio_6_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.10018975	dimensionless	HPLC	NA
+Bedada2017	6	auc_ratio_6_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.053225808	dimensionless	HPLC	NA
+Bedada2017	7	auc_ratio_7_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.09079696	dimensionless	HPLC	NA
+Bedada2017	7	auc_ratio_7_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.045256168	dimensionless	HPLC	NA
+Bedada2017	8	auc_ratio_8_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.08083492	dimensionless	HPLC	NA
+Bedada2017	8	auc_ratio_8_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.040986717	dimensionless	HPLC	NA
+Bedada2017	9	auc_ratio_9_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.06831119	dimensionless	HPLC	NA
+Bedada2017	9	auc_ratio_9_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.035578746	dimensionless	HPLC	NA
+Bedada2017	10	auc_ratio_10_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.066603415	dimensionless	HPLC	NA
+Bedada2017	10	auc_ratio_10_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.035578746	dimensionless	HPLC	NA
+Bedada2017	11	auc_ratio_11_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.065180264	dimensionless	HPLC	NA
+Bedada2017	11	auc_ratio_11_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.03500949	dimensionless	HPLC	NA
+Bedada2017	12	auc_ratio_12_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.048671726	dimensionless	HPLC	NA
+Bedada2017	12	auc_ratio_12_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	auc_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.028462999	dimensionless	HPLC	NA
+Bedada2017	1	kel_ratio_1_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.047259	dimensionless	HPLC	NA
+Bedada2017	1	kel_ratio_1_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.3497164	dimensionless	HPLC	NA
+Bedada2017	2	kel_ratio_2_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.74858224	dimensionless	HPLC	NA
+Bedada2017	2	kel_ratio_2_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.705104	dimensionless	HPLC	NA
+Bedada2017	3	kel_ratio_3_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.51039696	dimensionless	HPLC	NA
+Bedada2017	3	kel_ratio_3_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.2136105	dimensionless	HPLC	NA
+Bedada2017	4	kel_ratio_4_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.536862	dimensionless	HPLC	NA
+Bedada2017	4	kel_ratio_4_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.0434783	dimensionless	HPLC	NA
+Bedada2017	5	kel_ratio_5_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.5519849	dimensionless	HPLC	NA
+Bedada2017	5	kel_ratio_5_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.9338374	dimensionless	HPLC	NA
+Bedada2017	6	kel_ratio_6_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.5482042	dimensionless	HPLC	NA
+Bedada2017	6	kel_ratio_6_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.89603025	dimensionless	HPLC	NA
+Bedada2017	7	kel_ratio_7_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.48015124	dimensionless	HPLC	NA
+Bedada2017	7	kel_ratio_7_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.85444236	dimensionless	HPLC	NA
+Bedada2017	8	kel_ratio_8_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.55576557	dimensionless	HPLC	NA
+Bedada2017	8	kel_ratio_8_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.831758	dimensionless	HPLC	NA
+Bedada2017	9	kel_ratio_9_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.5595463	dimensionless	HPLC	NA
+Bedada2017	9	kel_ratio_9_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.81285447	dimensionless	HPLC	NA
+Bedada2017	10	kel_ratio_10_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.5366056	dimensionless	HPLC	NA
+Bedada2017	10	kel_ratio_10_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.7310648	dimensionless	HPLC	NA
+Bedada2017	11	kel_ratio_11_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.4153939	dimensionless	HPLC	NA
+Bedada2017	11	kel_ratio_11_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.7424218	dimensionless	HPLC	NA
+Bedada2017	12	kel_ratio_12_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.41540048	dimensionless	HPLC	NA
+Bedada2017	12	kel_ratio_12_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	kel_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.5340826	dimensionless	HPLC	NA
+Bedada2017	1	thalf_ratio_1_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	2.3777778	dimensionless	HPLC	NA
+Bedada2017	1	thalf_ratio_1_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.4388889	dimensionless	HPLC	NA
+Bedada2017	2	thalf_ratio_2_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	2.3833334	dimensionless	HPLC	NA
+Bedada2017	2	thalf_ratio_2_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.35	dimensionless	HPLC	NA
+Bedada2017	3	thalf_ratio_3_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	2.0722222	dimensionless	HPLC	NA
+Bedada2017	3	thalf_ratio_3_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.1666666	dimensionless	HPLC	NA
+Bedada2017	4	thalf_ratio_4_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	2.0277777	dimensionless	HPLC	NA
+Bedada2017	4	thalf_ratio_4_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.1777778	dimensionless	HPLC	NA
+Bedada2017	5	thalf_ratio_5_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.9166666	dimensionless	HPLC	NA
+Bedada2017	5	thalf_ratio_5_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.8111111	dimensionless	HPLC	NA
+Bedada2017	6	thalf_ratio_6_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.8444444	dimensionless	HPLC	NA
+Bedada2017	6	thalf_ratio_6_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.3833333	dimensionless	HPLC	NA
+Bedada2017	7	thalf_ratio_7_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.7777778	dimensionless	HPLC	NA
+Bedada2017	7	thalf_ratio_7_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.2055556	dimensionless	HPLC	NA
+Bedada2017	8	thalf_ratio_8_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.8388889	dimensionless	HPLC	NA
+Bedada2017	8	thalf_ratio_8_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.0944444	dimensionless	HPLC	NA
+Bedada2017	9	thalf_ratio_9_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.7666667	dimensionless	HPLC	NA
+Bedada2017	9	thalf_ratio_9_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.0722222	dimensionless	HPLC	NA
+Bedada2017	10	thalf_ratio_10_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.8222222	dimensionless	HPLC	NA
+Bedada2017	10	thalf_ratio_10_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.0	dimensionless	HPLC	NA
+Bedada2017	11	thalf_ratio_11_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	1.3388889	dimensionless	HPLC	NA
+Bedada2017	11	thalf_ratio_11_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.57222223	dimensionless	HPLC	NA
+Bedada2017	12	thalf_ratio_12_CZX250	CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.9611111	dimensionless	HPLC	NA
+Bedada2017	12	thalf_ratio_12_PIP20, CZX250	PIP20, CZX250	all	Fig4_6-hydroxychlorzoxazone/chlorzoxazone_all	thalf_ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.7277778	dimensionless	HPLC	NA

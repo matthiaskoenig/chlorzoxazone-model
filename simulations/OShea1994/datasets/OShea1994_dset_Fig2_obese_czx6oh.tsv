@@ -1,0 +1,10 @@
+study	count	individual	group	intervention	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5116441	0.00010723171480922612	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0182737	0.0013271215240353521	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0530672	0.003939999461090751	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.0427296	0.002235738736796723	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.0480223	0.002531139685276999	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.0118237	0.0012988249083854277	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.016449	0.0012551501401164042	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0197396	0.0008837730653158008	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	TC_obsese_1	obese_women	CZX250	Tab1_TC_obsese_1_obese_women_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.008614	0.000415925576632895	hr	HPLC		mole/meter^3	dimensionless

@@ -1,0 +1,15 @@
+study	count	group	intervention	label	measurement	substance	tissue	mean	sd	se	time	time_unit	unit	method	comments
+OShea1994	6	healthy	CZX250	Tab1Mean_clearance_healthy	clearance	chlorzoxazone	plasma	5.79	1.07	0.436825670796334	NA	NA	ml/min/kg	HPLC	NA
+OShea1994	6	healthy	CZX250	Tab1Mean_clearance_partial_healthy	clearance_partial	6-hydroxychlorzoxazone	plasma	3.63	0.95	0.38783587594067	NA	NA	ml/min/kg	HPLC	NA
+OShea1994	6	fasting	CZX250	Tab1Mean_clearance_fasting	clearance	chlorzoxazone	plasma	3.69	1.54	0.628702367314349	NA	NA	ml/min/kg	HPLC	NA
+OShea1994	4	fasting	CZX250	Tab1Mean_clearance_partial_fasting	clearance_partial	6-hydroxychlorzoxazone	plasma	2.39	0.9	0.45	NA	NA	ml/min/kg	HPLC	NA
+OShea1994	6	healthy	CZX250	Tab1Mean_thalf_healthy	thalf	chlorzoxazone	plasma	1.0	0.09	0.0367	NA	NA	hr	HPLC	NA
+OShea1994	6	fasting	CZX250	Tab1Mean_thalf_fasting	thalf	chlorzoxazone	plasma	1.5	0.42	0.1715	NA	NA	hr	HPLC	NA
+OShea1994	6	healthy	CZX250	Tab1Mean_vd_healthy	vd	chlorzoxazone	plasma	0.51	0.13	0.0531	NA	NA	l/kg	HPLC	NA
+OShea1994	6	fasting	CZX250	Tab1Mean_vd_fasting	vd	chlorzoxazone	plasma	0.44	0.1	0.0408	NA	NA	l/kg	HPLC	NA
+OShea1994	6	healthy	CZX250	Tab1Mean_auc_inf_healthy	auc_inf	6-hydroxychlorzoxazone	plasma	5.32	0.69	0.281691320420065	NA	NA	µg/ml*hr	HPLC	NA
+OShea1994	6	healthy	CZX250	Tab1Mean_thalf_healthy	thalf	6-hydroxychlorzoxazone	plasma	1.16	0.24	0.0979795897113271	NA	NA	hr	HPLC	NA
+OShea1994	6	healthy	CZX250	Tab1Mean_recovery_healthy	recovery	6-hydroxychlorzoxazone	urine	62.7	11.0	4.49073119510249	24.0	hr	percent	HPLC	NA
+OShea1994	6	fasting	CZX250	Tab1Mean_auc_inf_fasting	auc_inf	6-hydroxychlorzoxazone	plasma	4.92	0.98	0.400083324654586	NA	NA	µg/ml*hr	HPLC	NA
+OShea1994	6	fasting	CZX250	Tab1Mean_thalf_fasting	thalf	6-hydroxychlorzoxazone	plasma	1.62	0.29	0.11839200423452	NA	NA	hr	HPLC	NA
+OShea1994	4	fasting	CZX250	Tab1Mean_recovery_fasting	recovery	6-hydroxychlorzoxazone	urine	63.9	3.67	1.835	24.0	hr	percent	HPLC	NA

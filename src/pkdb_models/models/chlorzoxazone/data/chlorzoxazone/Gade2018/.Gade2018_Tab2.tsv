@@ -1,0 +1,25 @@
+study	group	intervention	label	measurement	substance	tissue	mean	unit	time	time_unit	method	comments
+Gade2018	obese	CZX250	Tab1_obese	auc_inf	chlorzoxazone	plasma	0.609	mg*min/ml	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	auc_inf	6-hydroxychlorzoxazone	plasma	0.293	mg*min/ml	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	clearance	chlorzoxazone	plasma	407.38	ml/min	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	clearance	chlorzoxazone	plasma	5.13	ml/min/kg	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	recovery	6-hydroxychlorzoxazone	urine	0.6274	dimensionless	20.0	hr	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	clearance_partial	chlorzoxazone	plasma	235.55	ml/min	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	clearance_partial	chlorzoxazone	plasma	3.05	ml/min/kg	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	cmax	chlorzoxazone	plasma	0.005	mg/ml	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	tmax	chlorzoxazone	plasma	85.11	min	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	vd	chlorzoxazone	plasma	39.57	l	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	vd	chlorzoxazone	plasma	0.49	l/kg	NA	NA	LC MS/MS	NA
+Gade2018	obese	CZX250	Tab1_obese	thalf	chlorzoxazone	plasma	1.12	h	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	auc_inf	chlorzoxazone	plasma	1.13	mg*min/ml	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	auc_inf	6-hydroxychlorzoxazone	plasma	0.315	mg*min/ml	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	clearance	chlorzoxazone	plasma	218.78	ml/min	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	clearance	chlorzoxazone	plasma	3.98	ml/min/kg	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	recovery	6-hydroxychlorzoxazone	urine	0.5745	dimensionless	20.0	hr	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	clearance_partial	chlorzoxazone	plasma	127.85	ml/min	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	clearance_partial	chlorzoxazone	plasma	2.3	ml/min/kg	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	cmax	chlorzoxazone	plasma	0.009	mg/ml	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	tmax	chlorzoxazone	plasma	100.0	min	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	vd	chlorzoxazone	plasma	15.67	l	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	vd	chlorzoxazone	plasma	0.29	l/kg	NA	NA	LC MS/MS	NA
+Gade2018	nonobese	CZX250	Tab1_nonobese	thalf	chlorzoxazone	plasma	0.83	h	NA	NA	LC MS/MS	NA

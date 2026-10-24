@@ -1,0 +1,121 @@
+study	count	group	individual	intervention	tissue	measurement_type	substance	label	value	time	time_unit	unit	method	comments
+Ernstgard2004	1	men	A1	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	12.112356	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A2	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	18.017614	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A3	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	51.94077	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A4	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	30.910357	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A5	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	37.546825	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A6	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	68.886955	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A7	CZX250	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	48.26712	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A8	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	49.319763	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A9	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	45.256325	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A10	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	89.89338	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A11	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	93.54024	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A12	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	71.78021	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A13	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	96.86647	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A14	CZX500	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	161.39095	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A15	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	111.986824	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A16	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	110.87261	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A17	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	97.94029	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A18	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	152.13626	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A19	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	153.60228	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	A20	CZX750	plasma	cmax	chlorzoxazone	cmax_chlorzoxazone_chlorzoxazone	171.30646	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B1	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	10.472673	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B2	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	12.215431	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B3	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	11.291725	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B4	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	11.568195	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B5	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	17.668318	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B6	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	11.29714	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B7	CZX250	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	13.264865	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B8	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	15.338422	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B9	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	17.242517	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B10	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	18.826056	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B11	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	22.37473	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B12	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	20.307411	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B13	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	24.773787	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B14	CZX500	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	23.263178	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B15	CZX750	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	25.265219	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B16	CZX750	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	24.504734	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B17	CZX750	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	24.509912	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B18	CZX750	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	22.999422	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B19	CZX750	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	27.033875	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	B20	CZX750	plasma	cmax	6-hydroxychlorzoxazone	cmax_6-hydroxychlorzoxazone_6-hydroxychlorzoxazone	28.065886	NA	NA	µmole/l	HPLC	NA
+Ernstgard2004	1	men	C1	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	1.0542986	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C2	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.6266968	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C3	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.47511312	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C4	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.3959276	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C5	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.24208145	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C6	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.22850679	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C7	CZX250	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.19004525	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C8	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.39140272	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C9	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.40950227	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C10	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.2239819	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C11	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.21719457	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C12	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.3325792	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C13	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.26696834	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C14	CZX500	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.15384616	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C15	CZX750	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.23076923	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C16	CZX750	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.23529412	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C17	CZX750	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.24886878	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C18	CZX750	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.15837105	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C19	CZX750	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.19004525	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	C20	CZX750	plasma	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone_6-hydroxychlorzoxazone/chlorzoxazone	0.16515838	2.0	hr	dimensionless	HPLC	NA
+Ernstgard2004	1	men	A1	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	2.6332974	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A2	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	2.584825	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A3	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	3.610279	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A4	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	3.495516	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A5	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	3.7233517	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A6	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	4.7486825	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A7	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	2.9437983	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A8	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	5.1540327	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A9	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	5.3326035	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A10	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	5.8385253	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A11	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.593846	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A12	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.1377697	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A13	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.3827367	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A14	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	9.465989	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A15	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.7409883	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A16	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	8.03346	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A17	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	8.73165	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A18	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	10.668148	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A19	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	11.074501	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	A20	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	11.400373	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B1	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	2.6040666	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B2	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	2.6678092	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B3	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	2.9278636	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B4	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	3.5114694	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B5	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	3.799433	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B6	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	3.673806	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B7	CZX250	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	4.726593	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B8	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	5.35769	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B9	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	5.1456532	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B10	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	5.7770658	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B11	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	7.1045103	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B12	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	7.3328686	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B13	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	7.5732355	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B14	CZX500	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	9.487721	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B15	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	7.7675138	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B16	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	8.011247	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B17	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	8.724757	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B18	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	10.655459	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B19	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	11.398808	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	B20	CZX750	NA	dosing	chlorzoxazone	dosing_cmax_6-hydroxychlorzoxazone	11.057602	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C1	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	2.6362624	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C2	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	2.586207	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C3	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	3.8042269	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C4	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	3.5706341	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C5	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	2.919911	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C6	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	3.6874304	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C7	CZX250	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	4.705228	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C8	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	5.155729	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C9	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	5.355951	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C10	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	5.7897663	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C11	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.3581758	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C12	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.1078978	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C13	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.6084538	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C14	CZX500	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	9.493882	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C15	CZX750	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.7753057	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C16	CZX750	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	8.07564	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C17	CZX750	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	8.743048	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C18	CZX750	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	10.695217	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C19	CZX750	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	11.112347	NA	NA	mg/kg	HPLC	NA
+Ernstgard2004	1	men	C20	CZX750	NA	dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	11.462736	NA	NA	mg/kg	HPLC	NA

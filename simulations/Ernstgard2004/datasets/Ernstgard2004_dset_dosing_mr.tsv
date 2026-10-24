@@ -1,0 +1,21 @@
+study	count	group	individual	intervention	tissue	measurement_type	substance	label	value	time	time_unit	method	comments	value_unit	count_unit
+Ernstgard2004	1	men	C1	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	2.6362624			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C2	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	2.586207			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C3	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	3.8042269			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C4	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	3.5706341			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C5	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	2.919911			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C6	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	3.6874304			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C7	CZX250		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	4.705228			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C8	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	5.155729			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C9	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	5.355951			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C10	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	5.7897663			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C11	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.3581758			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C12	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.1078978			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C13	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.6084538			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C14	CZX500		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	9.493882			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C15	CZX750		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	7.7753057			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C16	CZX750		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	8.07564			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C17	CZX750		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	8.743048			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C18	CZX750		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	10.695217			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C19	CZX750		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	11.112347			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	C20	CZX750		dosing	chlorzoxazone	dosing_metabolic ratio_6-hydroxychlorzoxazone/chlorzoxazone	11.462736			HPLC		mg/kg	dimensionless

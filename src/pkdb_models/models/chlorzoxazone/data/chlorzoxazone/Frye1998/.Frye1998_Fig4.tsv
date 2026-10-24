@@ -1,0 +1,23 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	mean	pm	se	sd	unit	method	comments
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_recovery	recovery	6-hydroxychlorzoxazone	urine	2	hr	0.1729172	0.29963594	0.0517327089747347	0.12671874	dimensionless	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_recovery	recovery	6-hydroxychlorzoxazone	urine	4	hr	0.42331577	0.56813732	0.0591231502098269	0.14482155	dimensionless	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_recovery	recovery	6-hydroxychlorzoxazone	urine	6	hr	0.54192463	0.6490946	0.0437519570415635	0.10716997	dimensionless	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_recovery	recovery	6-hydroxychlorzoxazone	urine	8	hr	0.5823317	0.6699477	0.0357690822172818	0.087616	dimensionless	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_recovery	recovery	6-hydroxychlorzoxazone	urine	10	hr	0.59956345	0.6857327	0.0351784490030532	0.08616925	dimensionless	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_recovery	recovery	6-hydroxychlorzoxazone	urine	0	hr	0.0	NA	NA	NA	dimensionless	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_recovery	recovery	6-hydroxychlorzoxazone	urine	2	hr	0.09978121	0.028818297	0.0289704879185858	0.070962913	dimensionless	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_recovery	recovery	6-hydroxychlorzoxazone	urine	4	hr	0.30383667	0.13511799	0.0688791126793196	0.16871868	dimensionless	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_recovery	recovery	6-hydroxychlorzoxazone	urine	6	hr	0.41955055	0.23562553	0.0750870749885318	0.18392502	dimensionless	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_recovery	recovery	6-hydroxychlorzoxazone	urine	8	hr	0.53309063	0.4469221	0.0351781550642841	0.08616853	dimensionless	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_recovery	recovery	6-hydroxychlorzoxazone	urine	10	hr	0.5763919	0.5148417	0.0251277639277089	0.0615502	dimensionless	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_amount	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	43.2293	74.908985	12.9331772436837	31.679685	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_amount	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	105.8289425	142.03433	14.7807875524567	36.2053875	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_amount	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	135.4811575	162.27365	10.9379892603909	26.7924925	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_amount	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	145.582925	167.486925	8.94227055432045	21.904	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX250	6	dose_250_and_750	Fig4_CZX250_amount	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	149.8908625	171.433175	8.7946122507633	21.5423125	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	0	hr	0.0	NA	NA	NA	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	74.8359075	21.61372275	21.7278659389393	53.22218475	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	227.8775025	101.3384925	51.6593345094897	126.53901	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	314.6629125	176.7191475	56.3153062413989	137.943765	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	399.8179725	335.191575	26.3836162982131	64.6263975	mg	HPLC	calculated from recovery and dose
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	432.293925	386.131275	18.8458229457817	46.16265	mg	HPLC	calculated from recovery and dose

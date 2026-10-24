@@ -1,0 +1,4 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Dreisbach1995	27	all	CZX500	Tab3_all	kel	chlorzoxazone	plasma	0.57	0.12	0.023094010767585	1/hr	NA	NA	HPLC	NA
+Dreisbach1995	27	all	CZX500	Tab3_all	thalf	chlorzoxazone	plasma	1.26	0.28	0.0538860251243651	hr	NA	NA	HPLC	NA
+Dreisbach1995	27	all	CZX500	Tab3_all	recovery	6-hydroxychlorzoxazone	urine	54.9	8.33	1.60310924744986	percent	8.0	hr	HPLC	molar urinary recovery of 6-hydroxychlorzoxazone (after hydrolysis) in 8 hr

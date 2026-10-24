@@ -1,0 +1,10 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.008731985341668462	1.7665523	0.0007881283681827979	0.0002492280732049418	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.015355215024789825	2.6635358	0.0010011742832507003	0.00031659910698587733	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.014095758784220737	2.8013797	0.0010011354817848672	0.00031658683688501934	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.008128912481138175	1.3502946	0.0008520500107781849	0.0002694418714430081	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.005037629877128691	1.1166008	0.000979835093770209	0.00030985106276785237	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.003096607781849536	0.72084796	0.0007881085363224832	0.0002492218018200587	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.0019862958611769773	0.4594898	0.0004899371631817202	0.00015493173460158223	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.0013446202845440827	0.15464246	0.0005112377667600775	0.00016166757688597648	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.0008733312136236256	0.2173913	0.00029821060573399436	9.430247365378906e-05	HPLC		mole/meter^3	dimensionless

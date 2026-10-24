@@ -1,0 +1,27 @@
+{
+  "sets": [
+    {
+      "sid": "PK_20261020_035132__b4a12_0",
+      "values": {
+        "GU__Ka_abs_czx": 1.1734236884512896,
+        "Ka_dis_tablet_czx": 0.5648774742114893,
+        "LI__CZXOX_Vmax": 0.007174808352512396,
+        "LI__CZXOX_Km": 0.009901406036417842,
+        "LI__CZXOTHER_k": 0.26316077394611403,
+        "LI__CZXOGLU_k": 42.77824245028334,
+        "KI__CZXOGLU_EX_f": 14.608442396298415
+      },
+      "units": {
+        "GU__Ka_abs_czx": "1/(hr)",
+        "Ka_dis_tablet_czx": "1/(hr)",
+        "LI__CZXOX_Vmax": "(mmol)/(min)/l",
+        "LI__CZXOX_Km": "mmol/l",
+        "LI__CZXOTHER_k": "1/(min)",
+        "LI__CZXOGLU_k": "1/(min)",
+        "KI__CZXOGLU_EX_f": "dimensionless"
+      },
+      "cost": 130.7257958815978,
+      "provenance": "optimization 'PK_20261020_035132__b4a12', run '0'"
+    }
+  ]
+}

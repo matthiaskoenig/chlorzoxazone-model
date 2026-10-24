@@ -1,0 +1,8 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	mean	pm	mean_sd	mean_se	time_unit	method	comments	mean_unit	count_unit
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	38.16826	0.0009070422504850181	77.20847	0.0004909586656607027	0.00012273966641517567	min	HPLC		mole/meter^3	dimensionless
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	68.858864	0.0019181718581590857	180.29541	0.000946543220521664	0.000236635805130416	min	HPLC		mole/meter^3	dimensionless
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	100.68261	0.0023340504419055827	267.53436	0.0008922830351368827	0.00022307075878422067	min	HPLC		mole/meter^3	dimensionless
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	129.4978	0.002646374973054537	312.04047	0.0009647600237120068	0.0002411900059280017	min	HPLC		mole/meter^3	dimensionless
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	193.69728	0.002634935869799525	328.7835	0.0008630911834447077	0.00021577279586117694	min	HPLC		mole/meter^3	dimensionless
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	257.8796	0.0022769302112524248	300.70486	0.0006564039124811381	0.00016410097812028453	min	HPLC		mole/meter^3	dimensionless
+Eap1998	16	CZX	alcoholics	Fig1_alcoholics_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	368.2547	0.0018533605302866994	255.41566	0.00047690191851692165	0.00011922547962923041	min	HPLC		mole/meter^3	dimensionless

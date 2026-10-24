@@ -1,0 +1,145 @@
+study	idx	count	group	individual	intervention	y_tissue	x_measurement_type	y_measurement_type	x_substance	y_substance	x_label	y_label	x_value	y_value	x_time	y_time	x_time_unit	y_time_unit	x_units	y_units	comments
+Ernstgard2004	1	1	men	Fig1_weight_1	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	50.317123	0.12402913	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	2	1	men	Fig1_weight_2	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	63.84778	0.23446602	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	3	1	men	Fig1_weight_3	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	64.86258	0.23276699	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	4	1	men	Fig1_weight_4	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	65.36998	0.20728156	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	5	1	men	Fig1_weight_5	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	70.105705	0.14101942	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	6	1	men	Fig1_weight_6	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	71.79704	0.15461165	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	7	1	men	Fig1_weight_7	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	71.28964	0.19538835	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	8	1	men	Fig1_weight_8	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	72.64271	0.19708738	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	9	1	men	Fig1_weight_9	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	69.76744	0.290534	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	10	1	men	Fig1_weight_10	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	73.82664	0.23786408	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	11	1	men	Fig1_weight_11	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	75.1797	0.24975727	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	12	1	men	Fig1_weight_12	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	75.34884	0.2735437	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	13	1	men	Fig1_weight_13	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	76.701904	0.25995144	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	14	1	men	Fig1_weight_14	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	78.393234	0.2106796	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	15	1	men	Fig1_weight_15	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	83.12897	0.17839806	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	16	1	men	Fig1_weight_16	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	84.14376	0.18009709	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	17	1	men	Fig1_weight_17	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	92.43129	0.1631068	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	18	1	men	Fig1_weight_18	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	83.12897	0.2803398	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	19	1	men	Fig1_weight_19	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	89.04862	0.2854369	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	20	1	men	Fig1_weight_20	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	80.084564	0.32451457	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	21	1	men	Fig1_weight_21	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	78.2241	0.3856796	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	22	1	men	Fig1_weight_22	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	82.790695	0.37548545	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	23	1	men	Fig1_weight_23	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	87.18816	0.37718448	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	24	1	men	Fig1_weight_24	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	88.71036	0.40606797	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	25	1	men	Fig1_weight_25	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	90.90909	0.4264563	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	26	1	men	Fig1_weight_26	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	90.73996	0.5216019	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	27	1	men	Fig1_weight_27	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	109.852005	0.61165047	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	28	1	women	Fig1_weight_28	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	46.088795	0.21747573	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	29	1	women	Fig1_weight_29	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	57.08245	0.38398057	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	30	1	women	Fig1_weight_30	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	56.236786	0.19878641	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	31	1	women	Fig1_weight_31	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	63.34038	0.12063107	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	32	1	women	Fig1_weight_32	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	68.921776	0.20048544	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	33	1	women	Fig1_weight_33	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	70.78224	0.25145632	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	34	1	women	Fig1_weight_34	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	73.82664	0.2684466	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	35	1	women	Fig1_weight_35	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	72.47357	0.3618932	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	36	1	women	Fig1_weight_36	CZX250	plasma	weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	weight	metabolic ratio	83.298096	0.39417475	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	1	1	men	Fig1_lean body mass_1	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	46.103065	0.1256591	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	2	1	men	Fig1_lean body mass_2	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	56.3261	0.14453325	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	3	1	men	Fig1_lean body mass_3	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	55.768875	0.23490919	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	4	1	men	Fig1_lean body mass_4	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	56.81018	0.23743257	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	5	1	men	Fig1_lean body mass_5	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	57.090958	0.2106992	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	6	1	men	Fig1_lean body mass_6	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	59.07729	0.20174792	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	7	1	men	Fig1_lean body mass_7	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	60.496845	0.20171781	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	8	1	men	Fig1_lean body mass_8	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	59.923946	0.15845701	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	9	1	men	Fig1_lean body mass_9	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	59.276714	0.2882896	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	10	1	men	Fig1_lean body mass_10	CZX250	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	59.93335	0.23863906	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	11	1	men	Fig1_lean body mass_11	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	60.695076	0.27807766	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	12	1	men	Fig1_lean body mass_12	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	62.019695	0.27550408	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	13	1	men	Fig1_lean body mass_13	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	63.53135	0.25383553	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	14	1	men	Fig1_lean body mass_14	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	64.942245	0.17998704	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	15	1	men	Fig1_lean body mass_15	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	65.8922	0.2105125	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	16	1	men	Fig1_lean body mass_16	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	67.317726	0.26139164	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	17	1	men	Fig1_lean body mass_17	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	70.334915	0.16587257	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	18	1	men	Fig1_lean body mass_18	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	71.472496	0.18239398	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	19	1	men	Fig1_lean body mass_19	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	79.24527	0.28913876	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	20	1	men	Fig1_lean body mass_20	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	62.59319	0.32385582	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	21	1	men	Fig1_lean body mass_21	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	62.316143	0.38240746	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	22	1	men	Fig1_lean body mass_22	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	66.194916	0.3708706	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	23	1	men	Fig1_lean body mass_23	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	67.61492	0.37465867	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	24	1	men	Fig1_lean body mass_24	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	68.944016	0.41026703	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	25	1	men	Fig1_lean body mass_25	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	75.66578	0.4317609	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	26	1	men	Fig1_lean body mass_26	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	74.634926	0.5183287	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	27	1	men	Fig1_lean body mass_27	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	78.71491	0.6086063	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	28	1	women	Fig1_lean body mass_28	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	37.69157	0.22129257	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	29	1	women	Fig1_lean body mass_29	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	44.029858	0.20079438	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	30	1	women	Fig1_lean body mass_30	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	44.21018	0.124426514	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	31	1	women	Fig1_lean body mass_31	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	49.708076	0.20067394	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	32	1	women	Fig1_lean body mass_32	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	49.905563	0.27067012	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	33	1	women	Fig1_lean body mass_33	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	52.93126	0.24769673	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	34	1	women	Fig1_lean body mass_34	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	53.512665	0.3635032	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	35	1	women	Fig1_lean body mass_35	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	49.73032	0.39031085	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	36	1	women	Fig1_lean body mass_36	CZX500	plasma	lean body mass	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	lean body mass	metabolic ratio	41.495407	0.37775818	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	1	1	men	Fig1_fat weight_1	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	3.8296068	0.12530649	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	2	1	men	Fig1_fat weight_2	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	7.7242002	0.2097386	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	3	1	men	Fig1_fat weight_3	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	7.2887516	0.23654987	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	4	1	men	Fig1_fat weight_4	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	8.898655	0.23660128	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	5	1	men	Fig1_fat weight_5	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	9.4543	0.25833464	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	6	1	men	Fig1_fat weight_6	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	9.575646	0.29155067	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	7	1	men	Fig1_fat weight_7	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	10.690482	0.2877541	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	8	1	men	Fig1_fat weight_8	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	11.188138	0.25711262	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	9	1	men	Fig1_fat weight_9	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	10.32558	0.19960254	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	10	1	men	Fig1_fat weight_10	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	11.505019	0.16004112	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	11	1	men	Fig1_fat weight_11	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	13.487781	0.14222099	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	12	1	men	Fig1_fat weight_12	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	12.120091	0.21498853	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	13	1	men	Fig1_fat weight_13	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	13.111663	0.2035237	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	14	1	men	Fig1_fat weight_14	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	12.5562105	0.17923555	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	15	1	men	Fig1_fat weight_15	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	13.790284	0.23675749	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	16	1	men	Fig1_fat weight_16	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	14.035086	0.275087	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	17	1	men	Fig1_fat weight_17	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	15.750521	0.51912326	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	18	1	men	Fig1_fat weight_18	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	14.951895	0.43479002	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	19	1	men	Fig1_fat weight_19	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	16.06999	0.38756227	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	20	1	men	Fig1_fat weight_20	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	16.814173	0.37225738	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	21	1	men	Fig1_fat weight_21	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	17.00319	0.32883215	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	22	1	men	Fig1_fat weight_22	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	17.94329	0.1781302	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	23	1	men	Fig1_fat weight_23	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	21.535572	0.16547102	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	24	1	men	Fig1_fat weight_24	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	20.84583	0.28041407	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	25	1	men	Fig1_fat weight_25	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	19.043077	0.37488332	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	26	1	men	Fig1_fat weight_26	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	19.90736	0.40940046	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	27	1	men	Fig1_fat weight_27	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	30.851942	0.6115776	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	28	1	women	Fig1_fat weight_28	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	8.652224	0.21998735	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	29	1	women	Fig1_fat weight_29	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	12.430551	0.20350194	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	30	1	women	Fig1_fat weight_30	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	19.433573	0.121972635	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	31	1	women	Fig1_fat weight_31	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	19.303503	0.20499882	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	32	1	women	Fig1_fat weight_32	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	17.813892	0.25221467	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	33	1	women	Fig1_fat weight_33	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	23.571146	0.26900458	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	34	1	women	Fig1_fat weight_34	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	18.424938	0.3608123	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	35	1	women	Fig1_fat weight_35	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	15.636938	0.3824389	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	36	1	women	Fig1_fat weight_36	CZX500	plasma	fat weight	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	fat weight	metabolic ratio	33.71672	0.391958	NA	2	NA	hr	kg	dimensionless	NA
+Ernstgard2004	1	1	men	Fig1_bmi_1	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	17.673107	0.12330275	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	2	1	men	Fig1_bmi_2	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	18.639292	0.23633027	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	3	1	men	Fig1_bmi_3	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	18.961353	0.21321101	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	4	1	men	Fig1_bmi_4	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	20.024155	0.23376147	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	5	1	men	Fig1_bmi_5	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	20.05636	0.2517431	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	6	1	men	Fig1_bmi_6	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	20.603865	0.29155964	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	7	1	men	Fig1_bmi_7	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	21.022545	0.15926605	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	8	1	men	Fig1_bmi_8	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	21.602255	0.20036697	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	9	1	men	Fig1_bmi_9	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	21.988728	0.26201835	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	10	1	men	Fig1_bmi_10	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	22.858294	0.2787156	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	11	1	men	Fig1_bmi_11	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	22.826086	0.23633027	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	12	1	men	Fig1_bmi_12	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	22.504026	0.20293579	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	13	1	men	Fig1_bmi_13	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	23.21256	0.2093578	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	14	1	men	Fig1_bmi_14	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	23.760065	0.17981651	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	15	1	men	Fig1_bmi_15	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	23.30918	0.14513761	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	16	1	men	Fig1_bmi_16	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	24.758453	0.1772477	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	17	1	men	Fig1_bmi_17	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	25.95008	0.16311927	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	18	1	men	Fig1_bmi_18	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	23.438004	0.3763303	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	19	1	men	Fig1_bmi_19	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	24.114332	0.38788992	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	20	1	men	Fig1_bmi_20	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	25.144928	0.40587157	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	21	1	men	Fig1_bmi_21	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	24.661837	0.32880735	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	22	1	men	Fig1_bmi_22	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	24.919485	0.3788991	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	23	1	men	Fig1_bmi_23	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	27.753624	0.5227523	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	24	1	men	Fig1_bmi_24	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	30.458937	0.61137617	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	25	1	men	Fig1_bmi_25	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	30.10467	0.43155962	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	26	1	men	Fig1_bmi_26	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	27.753624	0.28770643	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	27	1	men	Fig1_bmi_27	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	28.26892	0.2812844	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	28	1	women	Fig1_bmi_28	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	18.188406	0.21963303	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	29	1	women	Fig1_bmi_29	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	19.959742	0.20550458	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	30	1	women	Fig1_bmi_30	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	21.988728	0.38146788	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	31	1	women	Fig1_bmi_31	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	21.666666	0.12201835	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	32	1	women	Fig1_bmi_32	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	24.597424	0.20422019	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	33	1	women	Fig1_bmi_33	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	24.79066	0.36091742	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	34	1	women	Fig1_bmi_34	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	26.594202	0.26972476	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	35	1	women	Fig1_bmi_35	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	26.948471	0.25045872	NA	2	NA	hr	kg/m^2	dimensionless	NA
+Ernstgard2004	36	1	women	Fig1_bmi_36	CZX500	plasma	bmi	metabolic ratio	NA	6-hydroxychlorzoxazone/chlorzoxazone	bmi	metabolic ratio	30.491144	0.39431193	NA	2	NA	hr	kg/m^2	dimensionless	NA

@@ -1,0 +1,6 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	0.0002205854710066825		0.0001824275032334555	4.560687580836388e-05	HPLC		mole	dimensionless
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	0.000576734209959043		0.00019748724132356114	4.9371810330890285e-05	HPLC		mole	dimensionless
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	0.0007471139388876914		0.00018911625619745637	4.727906404936409e-05	HPLC		mole	dimensionless
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	0.0008271124434145289		0.0001991608644104333	4.9790216102608325e-05	HPLC		mole	dimensionless
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0008502106730976504		0.00020083440666091831	5.020860166522958e-05	HPLC		mole	dimensionless

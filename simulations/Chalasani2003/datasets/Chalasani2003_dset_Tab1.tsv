@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	method	comments	mean_unit	count_unit
+Chalasani2003	17	healthy	CZX	Tab1_healthy_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	0.0015038924274593066	0.00038334512856805854	9.297485036188754e-05	8.0	hr	HPLC		count*mole	dimensionless

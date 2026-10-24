@@ -1,0 +1,4 @@
+study	name	parent	measurement_type	group_count	choice	count	comments
+Witt2016	all	NA	sex	2	NR	2	NA
+Witt2016	all	NA	species	2	homo sapiens	2	NA
+Witt2016	all	NA	healthy	2	Y	2	NA

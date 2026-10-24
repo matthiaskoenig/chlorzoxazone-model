@@ -1,0 +1,10 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	median	min	max	sd	unit	comments
+Hohmann2019	all	NA	sex	12	M	6	NA	NA	NA	NA	NA	NA	NA
+Hohmann2019	all	NA	sex	12	F	6	NA	NA	NA	NA	NA	NA	NA
+Hohmann2019	all	NA	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA	NA
+Hohmann2019	all	NA	healthy	12	Y	12	NA	NA	NA	NA	NA	NA	NA
+Hohmann2019	all	NA	fasting	12	Y	12	NA	NA	NA	NA	NA	NA	NA
+Hohmann2019	all	NA	weight	12	NA	12	70.1	NA	NA	NA	13.5	kg	NA
+Hohmann2019	all	NA	height	12	NA	12	173.0	NA	NA	NA	9.5	cm	NA
+Hohmann2019	all	NA	bmi	12	NA	12	23.2	NA	NA	NA	3.0	kg/m^2	NA
+Hohmann2019	all	NA	age	12	NA	12	NA	26.0	22.0	54.0	NA	yr	NA

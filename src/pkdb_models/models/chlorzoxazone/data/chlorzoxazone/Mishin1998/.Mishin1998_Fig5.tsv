@@ -1,0 +1,17 @@
+study	group	individual	measurement	substance	tissue	intervention	time	time_unit	value	unit	method	comments
+Mishin1998	alcoholic_drinking	alcoholic_drinking_metabolic ratio_S1	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	1.2	dimensionless	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_metabolic ratio_S2	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	1.3034483	dimensionless	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_metabolic ratio_S3	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	1.6275862	dimensionless	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_metabolic ratio_S4	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	2.0413792	dimensionless	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_metabolic ratio_S5	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	5.5793104	dimensionless	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_metabolic ratio_S6	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	7.2482758	dimensionless	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_metabolic ratio_S1	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.002316366	dimensionless	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_metabolic ratio_S2	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.095955946	dimensionless	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_metabolic ratio_S3	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.17232595	dimensionless	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_metabolic ratio_S4	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.16591409	dimensionless	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_metabolic ratio_S5	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.097357444	dimensionless	HPLC	NA
+Mishin1998	NALD	NALD_metabolic ratio_S1	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.07596123	dimensionless	HPLC	NA
+Mishin1998	NALD	NALD_metabolic ratio_S2	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.24094099	dimensionless	HPLC	NA
+Mishin1998	NALD	NALD_metabolic ratio_S3	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.23473936	dimensionless	HPLC	NA
+Mishin1998	NALD	NALD_metabolic ratio_S4	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.34517747	dimensionless	HPLC	NA
+Mishin1998	NALD	NALD_metabolic ratio_S5	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.22161199	dimensionless	HPLC	NA

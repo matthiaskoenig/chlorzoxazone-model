@@ -1,0 +1,21 @@
+study	count	group	intervention	label	measurement	substance	tissue	mean	sd	se	unit	method	time	time_unit	comments
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	auc_inf	chlorzoxazone	plasma	10.8	5.1	2.0820662813657	µg/ml*hr	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	thalf	chlorzoxazone	plasma	1.0	0.1	0.0408248290463863	hr	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	clearance	chlorzoxazone	plasma	497.0	341.0	139.212667048177	ml/min	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	cumulative amount	6-hydroxychlorzoxazone	urine	150.0	22.0	8.98146239020499	mg	HPLC	10.0	hr	calculated by given value/dose, time not explicitly given, but the main text mentions that urinary recovery was 63.5 +- 14.8% after 10 hr 
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	auc_inf	6-hydroxychlorzoxazone	plasma	5.4	1.3	0.530722777603022	µg/ml*hr	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	thalf	6-hydroxychlorzoxazone	plasma	1.2	0.3	0.122474487139159	hr	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	clearance_partial	6-hydroxychlorzoxazone	plasma	305.0	237.0	96.7548448399355	ml/min	HPLC	NA	NA	formation clearance
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	clearance_renal	6-hydroxychlorzoxazone	plasma	487.0	149.0	60.8289952791156	ml/min	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	clearance_other	chlorzoxazone	plasma	191.0	110.0	44.9073119510249	ml/min	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX250	Tab3_CZX250	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone 	plasma	1.1	1.0	0.408248290463863	dimensionless	HPLC	4.0	hr	NA
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	auc_inf	chlorzoxazone	plasma	42.0	19.8	8.08331615118449	µg/ml*hr	HPLC	NA	NA	data reported was normalized to 250 mg
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	thalf	chlorzoxazone	plasma	1.2	0.3	0.122474487139159	hr	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	clearance	chlorzoxazone	plasma	368.0	188.0	76.7506786072063	ml/min	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	cumulative amount	6-hydroxychlorzoxazone	urine	432.0	48.0	19.595917942265427	mg	HPLC	10.0	hr	reported 144 +- 16 mg normalized to 250 mg
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	auc_inf	6-hydroxychlorzoxazone	plasma	15.6	1.8	0.734846922834954	µg/ml*hr	HPLC	NA	NA	data reported was normalized to 250 mg
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	thalf	6-hydroxychlorzoxazone	plasma	1.6	0.5	0.204124145231932	hr	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	clearance_partial	6-hydroxychlorzoxazone	plasma	210.0	101.0	41.2330773368502	ml/min	HPLC	NA	NA	formation clearance
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	clearance_renal	6-hydroxychlorzoxazone	plasma	464.0	68.0	27.7608837515427	ml/min	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	clearance_other	chlorzoxazone	plasma	158.0	94.0	38.3753393036031	ml/min	HPLC	NA	NA	NA
+Frye1998	6	dose_250_and_750	CZX750	Tab3_CZX750	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone 	plasma	0.7	0.5	0.204124145231932	dimensionless	HPLC	4.0	hr	NA

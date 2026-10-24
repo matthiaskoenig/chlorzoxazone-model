@@ -1,0 +1,12 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	mean	pm	mean_sd	mean_se	time_unit	method	comments	mean_unit	count_unit
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	0.5	0.0029724151756844145	0.101865366	0.002423453298124595	0.001083801262980529	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	1.0	0.008210750161672772	0.5263387	0.005374262233239922	0.002403443136486861	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	1.5	0.013606618883380037	1.8307481	0.0037405480707048927	0.0016728239518403643	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	2.0	0.01531462276352662	2.4506452	0.002107869152834662	0.0009426677426826416	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	2.5	0.013703031903427462	2.3081107	0.0012644098943737872	0.0005654612950486257	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	3.0	0.0110377667600776	1.9114001	0.000737054860961414	0.0003296209544512761	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	4.0	0.007709735934468635	1.0690027	0.0019487815261909891	0.0008715215931717665	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	5.0	0.004381705863332614	0.5588933	0.0013697781849536536	0.0006125834271305292	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	6.0	0.003003492670834231	0.3619042	0.0010531574692821727	0.0004709863384653168	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	7.0	0.0017822946755766326	0.08632262	0.0013170940935546451	0.0005890223851903318	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	healthy	Fig2_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	serum	8.0	0.0010884524682043541	0.02610137	0.000947789771502479	0.00042386447149170726	hr	HPLC		mole/meter^3	dimensionless

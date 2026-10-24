@@ -1,0 +1,8 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	mean	pm	mean_sd	mean_se	time_unit	method	comments	mean_unit	count_unit
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	33.620296	0.007971728001887236				min	HPLC		mole/meter^3	dimensionless
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	62.493774	0.014632758905402214	1122.1445	0.008014780018872373	0.003584318589381133	min	HPLC		mole/meter^3	dimensionless
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	93.80324	0.036162758315640475	3150.043	0.01758501002594951	0.00786425556060769	min	HPLC		mole/meter^3	dimensionless
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	123.18585	0.03132282967681056	2652.2112	0.0156811028544468	0.007012802388941789	min	HPLC		mole/meter^3	dimensionless
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	185.53734	0.020976025005897615	5758.1	0.012983045529606036	0.0058061944718347715	min	HPLC		mole/meter^3	dimensionless
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	250.27339	0.012363174097664539	3801.323	0.010055574427931114	0.004496989594732507	min	HPLC		mole/meter^3	dimensionless
+Eap1998	5	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	378.5472	0.00435644845482425	1358.6539	0.003656372375560273	0.0016351794365610343	min	HPLC		mole/meter^3	dimensionless

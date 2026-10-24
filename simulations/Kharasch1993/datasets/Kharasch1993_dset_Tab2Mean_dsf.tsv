@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	method	comments	mean_unit	count_unit
+Kharasch1993	6	all	DSF, CZX	Tab2_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	0.001495046001415428	0.0004423213021939137	0.00018057691545641502	24.0	hr	HPLC		count*mole	dimensionless

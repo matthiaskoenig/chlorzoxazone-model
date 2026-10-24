@@ -1,0 +1,11 @@
+study	count	group	label	measurement	substance	tissue	intervention	time	time_unit	mean	pm	se	sd	unit	method
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	15	min	0.36755493	0.5282678	0.16071287	0.393664526598246	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	30	min	0.74400604	1.1011457	0.35713966	0.874809933911072	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	45	min	1.0669508	0.52231276	0.54463804	1.33408529250953	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	60	min	0.6487661	0.9166532	0.2678871	0.656186703673931	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	90	min	0.7588815	1.0534894	0.2946079	0.721639029192892	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	120	min	0.9314963	1.342207	0.4107107	1.0060316469013	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	180	min	0.9820857	1.4552958	0.4732101	1.1591232861314	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	240	min	1.2737445	1.8540964	0.5803519	1.42156602625473	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	300	min	1.3511516	1.8243618	0.4732102	1.15912353108038	dimensionless	HPLC
+Mishin1998	6	alcoholic_drinking	Fig9_alcoholic_drinking	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX	360	min	2.2321556	3.2410753	1.0089197	2.47133845644188	dimensionless	HPLC

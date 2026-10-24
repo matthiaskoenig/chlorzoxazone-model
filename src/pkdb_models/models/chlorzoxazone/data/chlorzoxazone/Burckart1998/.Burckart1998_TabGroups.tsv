@@ -1,0 +1,31 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	sd	unit	substance	comments
+Burckart1998	all	NA	sex	70	M	56	NA	NA	NA	NA	NA
+Burckart1998	all	NA	sex	70	F	14	NA	NA	NA	NA	NA
+Burckart1998	all	NA	species	70	homo sapiens	70	NA	NA	NA	NA	NA
+Burckart1998	all	NA	healthy	70	Y	28	NA	NA	NA	NA	NA
+Burckart1998	all	NA	healthy	70	N	42	NA	NA	NA	NA	NA
+Burckart1998	healthy	all	sex	28	M	26	NA	NA	NA	NA	NA
+Burckart1998	healthy	all	sex	28	F	2	NA	NA	NA	NA	NA
+Burckart1998	healthy	all	healthy	28	Y	28	NA	NA	NA	NA	NA
+Burckart1998	healthy	all	age	28	NA	28	33.9	17.1	yr	NA	NA
+Burckart1998	healthy	all	weight	28	NA	28	80.6	16.1	kg	NA	NA
+Burckart1998	healthy	all	clearance	28	NA	28	109.9	34.6	ml/min	creatinine	NA
+Burckart1998	liver disease	all	sex	8	M	6	NA	NA	NA	NA	NA
+Burckart1998	liver disease	all	sex	8	F	2	NA	NA	NA	NA	NA
+Burckart1998	liver disease	all	healthy	8	N	8	NA	NA	NA	NA	NA
+Burckart1998	liver disease	all	disease	8	liver disease	8	NA	NA	NA	NA	NA
+Burckart1998	liver disease	all	age	8	NA	8	51.8	16.1	yr	NA	NA
+Burckart1998	liver disease	all	weight	8	NA	8	85.8	24.9	kg	NA	NA
+Burckart1998	liver disease	all	clearance	8	NA	8	90.1	29.5	ml/min	creatinine	NA
+Burckart1998	patients who had not received liver transplants	all	sex	4	M	3	NA	NA	NA	NA	NA
+Burckart1998	patients who had not received liver transplants	all	sex	4	F	1	NA	NA	NA	NA	NA
+Burckart1998	patients who had not received liver transplants	all	healthy	4	NR	4	NA	NA	NA	NA	NA
+Burckart1998	patients who had not received liver transplants	all	age	4	NA	4	49.9	17.1	yr	NA	NA
+Burckart1998	patients who had not received liver transplants	all	weight	4	NA	4	77.7	16.9	kg	NA	NA
+Burckart1998	patients who had not received liver transplants	all	clearance	4	NA	4	62.5	11.5	ml/min	creatinine	NA
+Burckart1998	liver transplant patients	all	sex	30	M	21	NA	NA	NA	NA	NA
+Burckart1998	liver transplant patients	all	sex	30	F	9	NA	NA	NA	NA	NA
+Burckart1998	liver transplant patients	all	healthy	30	NR	30	NA	NA	NA	NA	NA
+Burckart1998	liver transplant patients	all	age	30	NA	30	49.2	11.5	yr	NA	NA
+Burckart1998	liver transplant patients	all	weight	30	NA	30	82.2	19.9	kg	NA	NA
+Burckart1998	liver transplant patients	all	clearance	30	NA	30	77.8	31.7	ml/min	creatinine	NA

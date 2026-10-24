@@ -1,0 +1,11 @@
+study	count	group	label	measurement	substance	tissue	intervention	time	time_unit	mean	pm	mean_se	mean_sd	method	mean_unit	count_unit
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	15	min	0.011470006487379097	2.5123808	0.0033470541401273883	0.00748424058169692	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	30	min	0.04509583923095069	10.45729	0.016577255838641187	0.03706787093560698	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	45	min	0.08493760025949515	17.429152	0.017852869190846894	0.039920229104145305	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	60	min	0.09863936069827789	19.914467	0.01880854564755838	0.04205718662584836	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	90	min	0.08412075961311628	16.533817	0.013389366595895257	0.02993953388408675	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	120	min	0.07789113588110402	15.261267	0.012113977353149325	0.027087676839534853	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	180	min	0.052042285916489725	9.878418	0.006216843595187543	0.013901284884323541	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	240	min	0.033525813871196034	5.117149	0.0033468270818589286	0.007483732863973814	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	300	min	0.017879124203821654	2.6531687	0.002231750412833215	0.0049903456319082854	HPLC	mole/meter^3	dimensionless
+Mishin1998	5	alcoholic_abstinent	Fig1_alcoholic_abstinent	concentration	chlorzoxazone	plasma	CZX	360	min	0.01482368365180467	3.0811079	0.0033475117952347245	0.007485263929627211	HPLC	mole/meter^3	dimensionless

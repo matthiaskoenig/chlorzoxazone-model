@@ -1,0 +1,7 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	method	comments
+Kharasch1993	6	all	CZX	Tab1_cmax_CZX_	cmax	chlorzoxazone	plasma	20.6	9.9	4.04165807559224	µg/ml	HPLC	NA
+Kharasch1993	6	all	CZX	Tab1_clearance_CZX_	clearance	chlorzoxazone	plasma	3.28	1.4	0.571547606649408	ml/kg/min	HPLC	NA
+Kharasch1993	6	all	CZX	Tab1_thalf_CZX_	thalf	chlorzoxazone	plasma	0.92	0.32	0.130639452948436	hr	HPLC	NA
+Kharasch1993	6	all	DSF, CZX	Tab1_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	38.7	10.3	4.20495739177779	µg/ml	HPLC	NA
+Kharasch1993	6	all	DSF, CZX	Tab1_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.49	0.07	0.0285773803324704	ml/kg/min	HPLC	NA
+Kharasch1993	6	all	DSF, CZX	Tab1_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	5.1	0.9	0.367423461417477	hr	HPLC	NA

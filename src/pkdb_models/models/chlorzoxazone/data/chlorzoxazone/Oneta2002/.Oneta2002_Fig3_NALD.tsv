@@ -1,0 +1,6 @@
+study	individual	group	intervention	label	measurement	substance	tissue	value	time	time_unit	unit	method	comments
+Oneta2002	NALD_1	NALD	CZX_NALD	Fig3_NALD_1	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.34093216	0	days	dimensionless	HPLC	NA
+Oneta2002	NALD_2	NALD	CZX_NALD	Fig3_NALD_2	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.22532591	0	days	dimensionless	HPLC	NA
+Oneta2002	NALD_3	NALD	CZX_NALD	Fig3_NALD_3	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.23329833	0	days	dimensionless	HPLC	NA
+Oneta2002	NALD_4	NALD	CZX_NALD	Fig3_NALD_4	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.23667961	0	days	dimensionless	HPLC	NA
+Oneta2002	NALD_5	NALD	CZX_NALD	Fig3_NALD_5	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	0.08559	0	days	dimensionless	HPLC	NA

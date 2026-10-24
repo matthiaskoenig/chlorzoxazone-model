@@ -1,0 +1,9 @@
+study	name	parent	measurement_type	group_count	choice	count	value	mean	sd	min	max	unit	substance	comments
+Bedada2017	all	NA	sex	12	M	12	NA	NA	NA	NA	NA	NA	NA	NA
+Bedada2017	all	NA	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA	NA	NA
+Bedada2017	all	NA	smoking	12	N	12	NA	NA	NA	NA	NA	NA	NA	NA
+Bedada2017	all	NA	healthy	12	Y	12	NA	NA	NA	NA	NA	NA	NA	NA
+Bedada2017	all	NA	age	12	NA	12	NA	27.25	1.82	24.0	30.0	yr	NA	NA
+Bedada2017	all	NA	weight	12	NA	12	NA	66.42	7.23	54.0	82.0	kg	NA	NA
+Bedada2017	all	NA	height	12	NA	12	NA	172.38	7.5	165.0	185.5	cm	NA	NA
+Bedada2017	all	NA	bmi	12	NA	12	NA	21.7	2.38	18.15	24.95	kg/m^2	NA	NA

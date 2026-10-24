@@ -1,0 +1,12 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	mean	pm	mean_sd	mean_se	time_unit	method	comments	mean_unit	count_unit
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	0.5	0.0092886630101439	3.6949441	0.012502703467799007	0.0055913789713041865	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	1.0	0.029615056617126677	7.5715	0.015038924274593062	0.006725642840292522	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	1.5	0.023987622670441137	5.3273	0.007430997876857749	0.0033233073838169376	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	2.0	0.016549562396791694	3.4661	0.00389242745930644	0.001740976645435244	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	2.5	0.013249687426279782	2.8966	0.0038334512856805845	0.0017144373673036093	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	3.0	0.010467905756074545	2.4549	0.00401037980655815	0.001793465439962255	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	4.0	0.005937827317763622	1.4168	0.0024180231186600606	0.0010816230242981833	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	5.0	0.0028738788629393717	0.7973	0.0018282613824015096	0.0008174097664543523	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	6.0	0.001793766041519226	0.5142	0.001238499646142958	0.0005537862703467798	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	7.0	0.0007987172092474639	0.53022236	0.002328331387119603	0.0010412614511491622	hr	HPLC		mole/meter^3	dimensionless
+Lucas1993	5	CZX500	alcoholics	Fig2_alcoholics_chlorzoxazone	concentration	chlorzoxazone	serum	8.0	0.0006662559565935361	0.2738502	0.0009488077376739796	0.00042431971980336095	hr	HPLC		mole/meter^3	dimensionless

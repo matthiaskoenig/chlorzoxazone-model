@@ -1,0 +1,951 @@
+{
+  "experiment_id": "Liangpunsakul2005",
+  "base_path": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone",
+  "data_path": [
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/chlorzoxazone",
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/alcohol",
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/caffeine"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/models/output/models/chlorzoxazone_body_flat.xml",
+        "path": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/models/output/models/chlorzoxazone_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "Aurine_czxoglu",
+        "Cve_czx6oh_all",
+        "KI__f_renal_function",
+        "LI__cyp2e1",
+        "LI__f_cyp2e1",
+        "LI__f_czxother",
+        "LI__kd_cyp2e1",
+        "PODOSE_czx",
+        "[Cve_czx6oh]",
+        "[Cve_czx]",
+        "[Cve_czxoglu]",
+        "[Cve_ethanol]",
+        "[Cveplasma_czx]",
+        "[LI__czx6oh]",
+        "[LI__czx]",
+        "[LI__ethanol]",
+        "f_cirrhosis",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_control": {
+      "sid": "model__control",
+      "name": null,
+      "model": "model",
+      "simulation": "control",
+      "observables": []
+    },
+    "task_alcohol": {
+      "sid": "model__alcohol",
+      "name": null,
+      "model": "model",
+      "simulation": "alcohol",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "control": {
+      "type": "Simulation",
+      "time_unit": "min",
+      "start": 0.0,
+      "end": 540,
+      "preinit_changes": {
+        "application_form": {
+          "value": 0,
+          "unit": "dimensionless"
+        },
+        "PODOSE_czx": {
+          "value": 500,
+          "unit": "milligram"
+        },
+        "BW": {
+          "value": 95.0,
+          "unit": "kilogram"
+        },
+        "HEIGHT": {
+          "value": 177.0,
+          "unit": "centimeter"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    },
+    "alcohol": {
+      "type": "Simulation",
+      "time_unit": "min",
+      "start": 0.0,
+      "end": 540,
+      "preinit_changes": {
+        "application_form": {
+          "value": 0,
+          "unit": "dimensionless"
+        },
+        "PODOSE_czx": {
+          "value": 500,
+          "unit": "milligram"
+        },
+        "BW": {
+          "value": 91.0,
+          "unit": "kilogram"
+        },
+        "HEIGHT": {
+          "value": 178.0,
+          "unit": "centimeter"
+        }
+      },
+      "changes": [],
+      "presimulation": null,
+      "times": null,
+      "steps": null,
+      "time_shift": 0.0
+    }
+  },
+  "data": {
+    "task_control__time": {
+      "type": "TASK",
+      "sid": "task_control__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__PODOSE_czx": {
+      "type": "TASK",
+      "sid": "task_control__PODOSE_czx",
+      "index": "PODOSE_czx",
+      "selection": "PODOSE_czx",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__Cveplasma_czx": {
+      "type": "TASK",
+      "sid": "task_control__conc__Cveplasma_czx",
+      "index": "Cveplasma_czx",
+      "selection": "[Cveplasma_czx]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__Cve_czx": {
+      "type": "TASK",
+      "sid": "task_control__conc__Cve_czx",
+      "index": "Cve_czx",
+      "selection": "[Cve_czx]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__Cve_czx6oh": {
+      "type": "TASK",
+      "sid": "task_control__conc__Cve_czx6oh",
+      "index": "Cve_czx6oh",
+      "selection": "[Cve_czx6oh]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__Aurine_czxoglu": {
+      "type": "TASK",
+      "sid": "task_control__Aurine_czxoglu",
+      "index": "Aurine_czxoglu",
+      "selection": "Aurine_czxoglu",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__LI__czx": {
+      "type": "TASK",
+      "sid": "task_control__conc__LI__czx",
+      "index": "LI__czx",
+      "selection": "[LI__czx]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__LI__czx6oh": {
+      "type": "TASK",
+      "sid": "task_control__conc__LI__czx6oh",
+      "index": "LI__czx6oh",
+      "selection": "[LI__czx6oh]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__Cve_czx6oh_all": {
+      "type": "TASK",
+      "sid": "task_control__Cve_czx6oh_all",
+      "index": "Cve_czx6oh_all",
+      "selection": "Cve_czx6oh_all",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__Cve_czxoglu": {
+      "type": "TASK",
+      "sid": "task_control__conc__Cve_czxoglu",
+      "index": "Cve_czxoglu",
+      "selection": "[Cve_czxoglu]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__Cve_ethanol": {
+      "type": "TASK",
+      "sid": "task_control__conc__Cve_ethanol",
+      "index": "Cve_ethanol",
+      "selection": "[Cve_ethanol]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__LI__cyp2e1": {
+      "type": "TASK",
+      "sid": "task_control__LI__cyp2e1",
+      "index": "LI__cyp2e1",
+      "selection": "LI__cyp2e1",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__conc__LI__ethanol": {
+      "type": "TASK",
+      "sid": "task_control__conc__LI__ethanol",
+      "index": "LI__ethanol",
+      "selection": "[LI__ethanol]",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__LI__kd_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_control__LI__kd_cyp2e1",
+      "index": "LI__kd_cyp2e1",
+      "selection": "LI__kd_cyp2e1",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_control__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_control__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__LI__f_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_control__LI__f_cyp2e1",
+      "index": "LI__f_cyp2e1",
+      "selection": "LI__f_cyp2e1",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_control__LI__f_czxother": {
+      "type": "TASK",
+      "sid": "task_control__LI__f_czxother",
+      "index": "LI__f_czxother",
+      "selection": "LI__f_czxother",
+      "unit": null,
+      "task": "task_control",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__time": {
+      "type": "TASK",
+      "sid": "task_alcohol__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__PODOSE_czx": {
+      "type": "TASK",
+      "sid": "task_alcohol__PODOSE_czx",
+      "index": "PODOSE_czx",
+      "selection": "PODOSE_czx",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__Cveplasma_czx": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__Cveplasma_czx",
+      "index": "Cveplasma_czx",
+      "selection": "[Cveplasma_czx]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__Cve_czx": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__Cve_czx",
+      "index": "Cve_czx",
+      "selection": "[Cve_czx]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__Cve_czx6oh": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__Cve_czx6oh",
+      "index": "Cve_czx6oh",
+      "selection": "[Cve_czx6oh]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__Aurine_czxoglu": {
+      "type": "TASK",
+      "sid": "task_alcohol__Aurine_czxoglu",
+      "index": "Aurine_czxoglu",
+      "selection": "Aurine_czxoglu",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__LI__czx": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__LI__czx",
+      "index": "LI__czx",
+      "selection": "[LI__czx]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__LI__czx6oh": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__LI__czx6oh",
+      "index": "LI__czx6oh",
+      "selection": "[LI__czx6oh]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__Cve_czx6oh_all": {
+      "type": "TASK",
+      "sid": "task_alcohol__Cve_czx6oh_all",
+      "index": "Cve_czx6oh_all",
+      "selection": "Cve_czx6oh_all",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__Cve_czxoglu": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__Cve_czxoglu",
+      "index": "Cve_czxoglu",
+      "selection": "[Cve_czxoglu]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__Cve_ethanol": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__Cve_ethanol",
+      "index": "Cve_ethanol",
+      "selection": "[Cve_ethanol]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__LI__cyp2e1": {
+      "type": "TASK",
+      "sid": "task_alcohol__LI__cyp2e1",
+      "index": "LI__cyp2e1",
+      "selection": "LI__cyp2e1",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__conc__LI__ethanol": {
+      "type": "TASK",
+      "sid": "task_alcohol__conc__LI__ethanol",
+      "index": "LI__ethanol",
+      "selection": "[LI__ethanol]",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__LI__kd_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_alcohol__LI__kd_cyp2e1",
+      "index": "LI__kd_cyp2e1",
+      "selection": "LI__kd_cyp2e1",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_alcohol__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_alcohol__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__LI__f_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_alcohol__LI__f_cyp2e1",
+      "index": "LI__f_cyp2e1",
+      "selection": "LI__f_cyp2e1",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_alcohol__LI__f_czxother": {
+      "type": "TASK",
+      "sid": "task_alcohol__LI__f_czxother",
+      "index": "LI__f_czxother",
+      "selection": "LI__f_czxother",
+      "unit": null,
+      "task": "task_alcohol",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {
+    "fig_Fig1": {
+      "sid": "Fig1",
+      "name": "Liangpunsakul2005 (500 mg)",
+      "num_rows": 1,
+      "num_cols": 2,
+      "width": null,
+      "height": null,
+      "settings": {
+        "legend_scope": "row"
+      },
+      "subplots": [
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot0",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot0_xaxis",
+              "name": "Time [hr]",
+              "label": "Time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot0_yaxis",
+              "name": "Chlorzoxazone [\u00b5M]",
+              "label": "Chlorzoxazone",
+              "unit": "\u00b5M",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot0_curve0",
+                "name": "Sim non-drinkers",
+                "x": "task_control__time",
+                "y": "task_control__conc__Cveplasma_czx",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot0_curve1",
+                "name": "Data non-drinkers\u00b1SD (n=20)",
+                "x": "dset_Fig1_control__time",
+                "y": "dset_Fig1_control__mean",
+                "xerr": null,
+                "yerr": "dset_Fig1_control__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot0_curve2",
+                "name": "Sim moderate drinkers",
+                "x": "task_alcohol__time",
+                "y": "task_alcohol__conc__Cveplasma_czx",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot0_curve3",
+                "name": "Data moderate drinkers\u00b1SD (n=20)",
+                "x": "dset_Fig1_alcohol__time",
+                "y": "dset_Fig1_alcohol__mean",
+                "xerr": null,
+                "yerr": "dset_Fig1_alcohol__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 1,
+          "row_span": 1,
+          "col_span": 1
+        },
+        {
+          "sid": null,
+          "name": null,
+          "plot": {
+            "sid": "Fig1__plot1",
+            "name": null,
+            "xaxis": {
+              "sid": "Fig1__plot1_xaxis",
+              "name": "Time [hr]",
+              "label": "Time",
+              "unit": "hr",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis": {
+              "sid": "Fig1__plot1_yaxis",
+              "name": "6-OH-CZX-Glu (urine) [mmole]",
+              "label": "6-OH-CZX-Glu (urine)",
+              "unit": "mmole",
+              "scale": "LINEAR",
+              "min": null,
+              "max": null,
+              "grid": false,
+              "label_visible": true,
+              "ticks_visible": true
+            },
+            "yaxis_right": null,
+            "legend": true,
+            "facecolor": "#ffffffff",
+            "title_visible": true,
+            "curves": [
+              {
+                "sid": "Fig1__plot1_curve0",
+                "name": "Sim non-drinkers",
+                "x": "task_control__time",
+                "y": "task_control__Aurine_czxoglu",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#000000ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 0
+              },
+              {
+                "sid": "Fig1__plot1_curve1",
+                "name": "Data non-drinkers\u00b1SD (n=20)",
+                "x": "dset_Tab2_control__time",
+                "y": "dset_Tab2_control__mean",
+                "xerr": null,
+                "yerr": "dset_Tab2_control__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#000000ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#000000ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#000000ff",
+                    "second_color": null
+                  }
+                },
+                "order": 1
+              },
+              {
+                "sid": "Fig1__plot1_curve2",
+                "name": "Sim moderate drinkers",
+                "x": "task_alcohol__time",
+                "y": "task_alcohol__Aurine_czxoglu",
+                "xerr": null,
+                "yerr": null,
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "SOLID",
+                    "color": "#d62728ff",
+                    "thickness": 2.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "NONE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 2
+              },
+              {
+                "sid": "Fig1__plot1_curve3",
+                "name": "Data moderate drinkers\u00b1SD (n=20)",
+                "x": "dset_Tab2_alcohol__time",
+                "y": "dset_Tab2_alcohol__mean",
+                "xerr": null,
+                "yerr": "dset_Tab2_alcohol__mean_sd",
+                "over": [],
+                "yaxis_position": null,
+                "style": {
+                  "sid": null,
+                  "name": null,
+                  "base_style": null,
+                  "line": {
+                    "type": "DASH",
+                    "color": "#d62728ff",
+                    "thickness": 1.0
+                  },
+                  "marker": {
+                    "size": null,
+                    "type": "SQUARE",
+                    "fill": "#d62728ff",
+                    "line_color": "#000000ff",
+                    "line_thickness": null
+                  },
+                  "fill": {
+                    "color": "#d62728ff",
+                    "second_color": null
+                  }
+                },
+                "order": 3
+              }
+            ],
+            "areas": [],
+            "bands": []
+          },
+          "row": 1,
+          "col": 2,
+          "row_span": 1,
+          "col_span": 1
+        }
+      ]
+    }
+  }
+}

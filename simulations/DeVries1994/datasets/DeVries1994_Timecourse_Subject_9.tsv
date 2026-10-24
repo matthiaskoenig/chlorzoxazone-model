@@ -1,0 +1,12 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	t_actual	method	comments	value_unit	count_unit
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	15	min	0.001279525182826138	18.518597	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	30	min	0.007859028662420381	29.783556	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	45	min	0.01666763269639065	46.434673	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	60	min	0.021631779900920023	60.659107	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	90	min	0.025722334276952107	89.45868	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	120	min	0.021996959778249586	122.15923	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	150	min	0.01319796001415428	154.42128	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	180	min	0.009968235432885114	182.37569	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	240	min	0.003435913540929464	244.13483	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	360	min	0.0004133695447039396	364.1067	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	480	min	5.919485138004246e-05	480.9466	HPLC	not distinguishable, estimation by eye	mole/meter^3	dimensionless

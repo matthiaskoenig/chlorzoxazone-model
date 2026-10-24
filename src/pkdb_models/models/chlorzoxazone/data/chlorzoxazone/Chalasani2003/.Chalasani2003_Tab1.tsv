@@ -1,0 +1,7 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	time	time_unit	unit	method	comments
+Chalasani2003	17	healthy	CZX	Tab1_healthy_clearance_chlorzoxazone	clearance	chlorzoxazone	serum	33.0	16.0	3.88057000058133	NA	NA	l/hr	HPLC	NA
+Chalasani2003	17	healthy	CZX	Tab1_healthy_clearance_partial_6-hydroxychlorzoxazone	clearance_partial	6-hydroxychlorzoxazone	serum	15.5	6.6	1.6007351252398	NA	NA	l/hr	HPLC	NA
+Chalasani2003	17	healthy	CZX	Tab1_healthy_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	51.0	13.0	3.15296312547233	8.0	hr	percent	HPLC	NA
+Chalasani2003	20	nash	CZX	Tab1_nash_clearance_chlorzoxazone	clearance	chlorzoxazone	serum	41.0	12.0	2.68328157299975	NA	NA	l/hr	HPLC	NA
+Chalasani2003	20	nash	CZX	Tab1_nash_clearance_partial_6-hydroxychlorzoxazone	clearance_partial	6-hydroxychlorzoxazone	serum	24.0	9.0	2.01246117974981	NA	NA	l/hr	HPLC	NA
+Chalasani2003	20	nash	CZX	Tab1_nash_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	57.0	9.0	2.01246117974981	8.0	hr	percent	HPLC	NA

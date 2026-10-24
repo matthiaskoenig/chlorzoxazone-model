@@ -1,0 +1,8 @@
+study	name	parent	measurement_type	group_count	choice	count	min	max	unit	comments
+Bedada2018	all	NA	sex	12	M	12	NA	NA	NA	NA
+Bedada2018	all	NA	species	12	homo sapiens	12	NA	NA	NA	NA
+Bedada2018	all	NA	smoking	12	N	12	NA	NA	NA	NA
+Bedada2018	all	NA	healthy	12	Y	12	NA	NA	NA	NA
+Bedada2018	all	NA	age	12	NA	12	28.0	34.0	yr	NA
+Bedada2018	all	NA	weight	12	NA	12	56.0	76.0	kg	NA
+Bedada2018	all	NA	bmi	12	NA	12	18.3	26.54	kg/m^2	NA

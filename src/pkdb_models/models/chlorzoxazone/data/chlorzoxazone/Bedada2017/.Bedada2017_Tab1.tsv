@@ -1,0 +1,15 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Bedada2017	12	all	CZX250	Tab1_CZX250	cmax	chlorzoxazone	plasma	3.14	0.76	0.219393102292058	µg/ml	NA	NA	HPLC	NA
+Bedada2017	12	all	CZX250	Tab1_CZX250	tmax	chlorzoxazone	plasma	2.41	0.52	0.150111069989303	hr	NA	NA	HPLC	NA
+Bedada2017	12	all	CZX250	Tab1_CZX250	kel	chlorzoxazone	plasma	0.57	0.15	0.0433012701892219	1/hr	NA	NA	HPLC	NA
+Bedada2017	12	all	CZX250	Tab1_CZX250	thalf	chlorzoxazone	plasma	1.26	0.26	0.0750555349946514	hr	NA	NA	HPLC	NA
+Bedada2017	12	all	CZX250	Tab1_CZX250	auc_end	chlorzoxazone	plasma	10.46	2.53	0.730348090524877	µg/ml*hr	8.0	hr	HPLC	units in table seem to make no sense
+Bedada2017	12	all	CZX250	Tab1_CZX250	auc_inf	chlorzoxazone	plasma	10.78	2.61	0.753442101292462	µg/ml*hr	NA	NA	HPLC	units in table seem to make no sense
+Bedada2017	12	all	CZX250	Tab1_CZX250	clearance	chlorzoxazone	plasma	24.76	7.67	2.21413828234221	l/hr	NA	NA	HPLC	NA
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	cmax	chlorzoxazone	plasma	4.96	0.96	0.27712812921102	µg/ml	NA	NA	HPLC	NA
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	tmax	chlorzoxazone	plasma	2.31	0.43	0.12413030787577	hr	NA	NA	HPLC	NA
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	kel	chlorzoxazone	plasma	0.41	0.1	0.0288675134594813	1/hr	NA	NA	HPLC	NA
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	thalf	chlorzoxazone	plasma	1.82	0.43	0.12413030787577	hr	NA	NA	HPLC	NA
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	auc_end	chlorzoxazone	plasma	17.78	3.54	1.02190997646564	µg/ml*hr	8.0	hr	HPLC	units in table seem to make no sense
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	auc_inf	chlorzoxazone	plasma	19.98	3.65	1.05366424127107	µg/ml*hr	NA	NA	HPLC	units in table seem to make no sense
+Bedada2017	12	all	PIP20, CZX250	Tab1_PIP20_CZX250	clearance	chlorzoxazone	plasma	13.65	2.81	0.811177128211424	l/hr	NA	NA	HPLC	NA

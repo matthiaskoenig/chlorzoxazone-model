@@ -1,0 +1,22 @@
+study	subjects	label	intervention	measurement	substance	time	time_unit	tissue	mean	sd	unit	method
+Benowitz2003	11G	Tab2_clearance_Dcaf_Dchlo_Smoking_caffeine	Dcaf, Dchlo,Smoking	clearance	caffeine	NA	NA	plasma	164.0	62.0	ml/min	HPLC
+Benowitz2003	11G	Tab2_clearance_Dcaf_Dchlo_CO_caffeine	Dcaf, Dchlo,CO	clearance	caffeine	NA	NA	plasma	115.0	41.0	ml/min	HPLC
+Benowitz2003	11G	Tab2_clearance_Dcaf_Dchlo_caffeine	Dcaf, Dchlo	clearance	caffeine	NA	NA	plasma	125.0	52.0	ml/min	HPLC
+Benowitz2003	11G	Tab2_clearance_Dcaf_Dchlo_Smoking_caffeine	Dcaf, Dchlo,Smoking	clearance	caffeine	NA	NA	plasma	2.0	0.8	ml/min/kg	HPLC
+Benowitz2003	11G	Tab2_clearance_Dcaf_Dchlo_CO_caffeine	Dcaf, Dchlo,CO	clearance	caffeine	NA	NA	plasma	1.4	0.6	ml/min/kg	HPLC
+Benowitz2003	11G	Tab2_clearance_Dcaf_Dchlo_caffeine	Dcaf, Dchlo	clearance	caffeine	NA	NA	plasma	1.5	0.7	ml/min/kg	HPLC
+Benowitz2003	11G	Tab2_thalf_Dcaf_Dchlo_Smoking_caffeine	Dcaf, Dchlo,Smoking	thalf	caffeine	NA	NA	plasma	205.0	94.0	min	HPLC
+Benowitz2003	11G	Tab2_thalf_Dcaf_Dchlo_CO_caffeine	Dcaf, Dchlo,CO	thalf	caffeine	NA	NA	plasma	289.0	130.0	min	HPLC
+Benowitz2003	11G	Tab2_thalf_Dcaf_Dchlo_caffeine	Dcaf, Dchlo	thalf	caffeine	NA	NA	plasma	276.0	132.0	min	HPLC
+Benowitz2003	11G	Tab2_cmax_Dcaf_Dchlo_Smoking_caffeine	Dcaf, Dchlo,Smoking	cmax	caffeine	NA	NA	plasma	4.0	0.8	microg/ml	HPLC
+Benowitz2003	11G	Tab2_cmax_Dcaf_Dchlo_CO_caffeine	Dcaf, Dchlo,CO	cmax	caffeine	NA	NA	plasma	4.3	0.9	microg/ml	HPLC
+Benowitz2003	11G	Tab2_cmax_Dcaf_Dchlo_caffeine	Dcaf, Dchlo	cmax	caffeine	NA	NA	plasma	4.1	0.8	microg/ml	HPLC
+Benowitz2003	11G	Tab2_tmax_Dcaf_Dchlo_Smoking_caffeine	Dcaf, Dchlo,Smoking	tmax	caffeine	NA	NA	plasma	90.0	35.0	min	HPLC
+Benowitz2003	11G	Tab2_tmax_Dcaf_Dchlo_CO_caffeine	Dcaf, Dchlo,CO	tmax	caffeine	NA	NA	plasma	79.0	34.0	min	HPLC
+Benowitz2003	11G	Tab2_tmax_Dcaf_Dchlo_caffeine	Dcaf, Dchlo	tmax	caffeine	NA	NA	plasma	98.0	30.0	min	HPLC
+Benowitz2003	11G	Tab2_metabolic ratio_Dcaf_Dchlo_Smoking_AAMU/(AAMU+1U+1X)	Dcaf, Dchlo,Smoking	metabolic ratio	AAMU/(AAMU+1U+1X)	6.0	hr	urine	0.33	0.13	none	HPLC
+Benowitz2003	11G	Tab2_metabolic ratio_Dcaf_Dchlo_CO_AAMU/(AAMU+1U+1X)	Dcaf, Dchlo,CO	metabolic ratio	AAMU/(AAMU+1U+1X)	6.0	hr	urine	0.33	0.15	none	HPLC
+Benowitz2003	11G	Tab2_metabolic ratio_Dcaf_Dchlo_AAMU/(AAMU+1U+1X)	Dcaf, Dchlo	metabolic ratio	AAMU/(AAMU+1U+1X)	6.0	hr	urine	0.31	0.12	none	HPLC
+Benowitz2003	11G	Tab2_metabolic ratio_Dcaf_Dchlo_Smoking_1U/1X	Dcaf, Dchlo,Smoking	metabolic ratio	1U/1X	6.0	hr	urine	2.56	0.94	none	HPLC
+Benowitz2003	11G	Tab2_metabolic ratio_Dcaf_Dchlo_CO_1U/1X	Dcaf, Dchlo,CO	metabolic ratio	1U/1X	6.0	hr	urine	2.38	0.78	none	HPLC
+Benowitz2003	11G	Tab2_metabolic ratio_Dcaf_Dchlo_1U/1X	Dcaf, Dchlo	metabolic ratio	1U/1X	6.0	hr	urine	2.38	0.84	none	HPLC

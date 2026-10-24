@@ -1,0 +1,10 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	0.5	hr	0.026987310096720923	5.2552137	0.0040059294644963425	0.0012667861253787035	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	1.0	hr	0.048000866949752294	7.4001985	0.004357327789573011	0.001377908032699758	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	2.0	hr	0.04518968801604151	6.899702	0.004497885704175512	0.0014223563480304964	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	3.0	hr	0.02544115947157348	4.8023834	0.002881460250058976	0.0009111977377424686	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	4.0	hr	0.014055890540221747	2.693148	0.001827265864590705	0.0005778322022783444	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	5.0	hr	0.007801019108280254	1.489573	0.000983912479358339	0.00031114044530357565	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	6.0	hr	0.004568164661476763	0.65541214	0.0007027946449634346	0.0002222431805453839	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	7.0	hr	0.002319221986317527	0.5124131	0.0007027944090587402	0.000222243105945769	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	8.0	hr	0.0011947507077140831	0.2979146	0.0005622356098136351	0.00017779451086648028	HPLC		mole/meter^3	dimensionless

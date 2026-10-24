@@ -1,0 +1,31 @@
+study	index	individual	intervention	group	label	measurement	substance	tissue	value	unit	method	comments
+Wang2003	1	healthy_1	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	21.172049	l/hr	HPLC	NA
+Wang2003	2	healthy_2	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	18.126228	l/hr	HPLC	NA
+Wang2003	3	healthy_3	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	15.3488865	l/hr	HPLC	NA
+Wang2003	4	healthy_4	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	14.273952	l/hr	HPLC	NA
+Wang2003	5	healthy_5	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	12.661503	l/hr	HPLC	NA
+Wang2003	6	healthy_6	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	12.034496	l/hr	HPLC	NA
+Wang2003	7	healthy_7	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	11.496889	l/hr	HPLC	NA
+Wang2003	8	healthy_8	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	10.869883	l/hr	HPLC	NA
+Wang2003	9	healthy_9	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	7.6446123	l/hr	HPLC	NA
+Wang2003	10	healthy_10	CZX500	healthy	Fig4_healthy_clearance	clearance	chlorzoxazone	plasma	6.5695844	l/hr	HPLC	NA
+Wang2003	1	DT1_1	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	23.799492	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	2	DT1_2	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	21.739021	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	3	DT1_3	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	19.947308	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	4	DT1_4	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	18.066101	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	5	DT1_5	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	18.066101	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	6	DT1_6	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	17.707573	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	7	DT1_7	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	16.901396	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	8	DT1_8	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	13.85539	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	9	DT1_9	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	12.690869	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	10	DT1_10	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	12.332526	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	11	DT1_11	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	11.884598	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	12	DT1_12	CZX500	DT1	Fig4_DT1_clearance	clearance	chlorzoxazone	plasma	11.526162	l/hr	HPLC	I may be blind, but there are not more than 12 datapoints
+Wang2003	1	DT2_1	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	76.326706	l/hr	HPLC	NA
+Wang2003	2	DT2_2	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	65.30758	l/hr	HPLC	NA
+Wang2003	3	DT2_3	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	56.25952	l/hr	HPLC	NA
+Wang2003	4	DT2_4	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	41.836136	l/hr	HPLC	NA
+Wang2003	5	DT2_5	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	41.298622	l/hr	HPLC	NA
+Wang2003	6	DT2_6	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	39.686077	l/hr	HPLC	NA
+Wang2003	7	DT2_7	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	20.604424	l/hr	HPLC	NA
+Wang2003	8	DT2_8	CZX500	DT2	Fig4_DT2_clearance	clearance	chlorzoxazone	plasma	12.720793	l/hr	HPLC	NA

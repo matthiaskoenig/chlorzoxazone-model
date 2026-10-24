@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulation experiments | sbmlsim</title>
+<style>
+:root {
+  --bg: #ffffff; --bg-soft: #f6f7f9; --bg-card: #ffffff;
+  --fg: #1b1f24; --fg-soft: #5b6472; --line: #e3e6ea;
+  --accent: #3b5bdb; --training: #2f9e44; --validation: #1c7ed6; --outlier: #e8590c;
+  --excluded: #868e96;
+  --radius: 10px; --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.1);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14171c; --bg-soft: #1a1e24; --bg-card: #1a1e24;
+    --fg: #e6e9ee; --fg-soft: #9aa4b2; --line: #2a3038;
+    --accent: #748ffc; --training: #51cf66; --validation: #4dabf7; --outlier: #ff922b;
+    --excluded: #adb5bd;
+    --shadow: none;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+code, .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .92em; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+header.top {
+  position: sticky; top: 0; z-index: 20; background: var(--bg);
+  border-bottom: 1px solid var(--line); padding: 14px 24px 0;
+}
+.top .row { display: flex; flex-wrap: wrap; gap: 12px; align-items: baseline; }
+.top h1 { margin: 0; font-size: 20px; font-weight: 650; letter-spacing: -.01em; }
+.top .sub { color: var(--fg-soft); font-size: 13px; }
+.badges { display: flex; flex-wrap: wrap; gap: 8px; margin-left: auto; }
+.badge {
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 999px;
+  padding: 2px 10px; font-size: 12px; color: var(--fg-soft); white-space: nowrap;
+}
+.badge b { color: var(--fg); font-weight: 600; }
+.badge.failed, .badge.failed b { color: var(--outlier); border-color: var(--outlier); }
+nav.sections { display: flex; gap: 4px; margin-top: 12px; }
+nav.sections a {
+  padding: 8px 14px; border-bottom: 2px solid transparent; color: var(--fg-soft);
+  font-size: 14px; font-weight: 550;
+}
+nav.sections a.active { color: var(--fg); border-bottom-color: var(--accent); }
+.search { display: flex; gap: 8px; align-items: center; padding: 10px 0 12px; }
+.search input {
+  flex: 1; max-width: 460px; padding: 8px 12px; font-size: 14px; color: var(--fg);
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 8px;
+}
+.search input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.chip {
+  border: 1px solid var(--line); background: var(--bg-soft); color: var(--fg-soft);
+  border-radius: 999px; padding: 5px 12px; font-size: 12.5px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { color: #fff; border-color: transparent; }
+.chip[data-kind="training"][aria-pressed="true"] { background: var(--training); }
+.chip[data-kind="validation"][aria-pressed="true"] { background: var(--validation); }
+.chip[data-kind="outlier"][aria-pressed="true"] { background: var(--outlier); }
+.chip[data-kind="excluded"][aria-pressed="true"] { background: var(--excluded); }
+#hits { color: var(--fg-soft); font-size: 12.5px; margin-left: auto; }
+
+main { padding: 24px; max-width: 1400px; margin: 0 auto; }
+section { margin-bottom: 44px; scroll-margin-top: 150px; }
+section > h2 {
+  font-size: 17px; font-weight: 650; margin: 0 0 4px; padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+h3 { font-size: 14px; font-weight: 600; color: var(--fg-soft); margin: 26px 0 10px;
+     text-transform: uppercase; letter-spacing: .04em; }
+.card {
+  background: var(--bg-card); border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 16px; margin-bottom: 16px;
+}
+/* a heading which opens a card sits at the padding of the card */
+.card > h3:first-child { margin-top: 0; }
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+        margin-bottom: 16px; }
+/* the gap of the grid is the space between its cards */
+.grid > .card { margin-bottom: 0; }
+.card.wide { grid-column: 1 / -1; }
+
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+/* two tables in one card, e.g. the networks and their arrays */
+table + table { margin-top: 24px; }
+th, td { text-align: left; padding: 7px 12px 7px 0; border-bottom: 1px solid var(--line); }
+th { color: var(--fg-soft); font-weight: 600; white-space: nowrap; }
+th[data-sort] { cursor: pointer; user-select: none; }
+th[data-sort]:hover { color: var(--fg); }
+th[data-sort]::after { content: " ⇅"; opacity: .35; }
+th[data-sort].asc::after { content: " ↑"; opacity: 1; }
+th[data-sort].desc::after { content: " ↓"; opacity: 1; }
+td.num, th.num { text-align: right; padding-right: 18px; font-variant-numeric: tabular-nums; }
+tbody tr:hover { background: var(--bg-soft); }
+tr.total td { font-weight: 650; border-top: 2px solid var(--line); }
+
+.kv { display: grid; grid-template-columns: max-content 1fr; gap: 4px 20px; font-size: 13.5px;
+      margin: 0; }
+.kv dt { color: var(--fg-soft); }
+.kv dd { margin: 0; word-break: break-word; white-space: pre-line; }
+
+.tag { border-radius: 999px; padding: 1px 9px; font-size: 11.5px; font-weight: 600; color: #fff; }
+.tag.training { background: var(--training); }
+.tag.validation { background: var(--validation); }
+.tag.outlier { background: var(--outlier); }
+.tag.excluded { background: var(--excluded); }
+.warn { color: var(--outlier); }
+
+/* what a value means, on the header of a column or next to a figure */
+.hint {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 14px; height: 14px; margin-left: 4px; border-radius: 50%;
+  border: 1px solid var(--line); color: var(--fg-soft);
+  font-size: 10px; font-weight: 700; line-height: 1; cursor: help;
+  position: relative; vertical-align: middle; user-select: none;
+}
+.hint:hover, .hint:focus { border-color: var(--accent); color: var(--accent); }
+.hint::after {
+  content: attr(data-tip);
+  position: absolute; bottom: calc(100% + 8px); left: 50%;
+  transform: translateX(-50%);
+  width: max-content; max-width: 320px; padding: 8px 10px;
+  border-radius: 6px; border: 1px solid var(--line);
+  background: var(--bg); color: var(--fg); box-shadow: 0 4px 16px rgb(0 0 0 / 18%);
+  font-size: 12px; font-weight: 400; line-height: 1.45; text-align: left;
+  white-space: normal; opacity: 0; visibility: hidden; transition: opacity .12s;
+  z-index: 20; pointer-events: none;
+}
+.hint:hover::after, .hint:focus::after { opacity: 1; visibility: visible; }
+/* a tooltip of the last columns would leave the page */
+td:last-child .hint::after, th:last-child .hint::after { left: auto; right: 0; transform: none; }
+/* on a phone a wide table scrolls inside its card and not the page; the
+   tooltips of its header open downwards, into the table, not above the card */
+@media (max-width: 700px) {
+  .card { overflow-x: auto; }
+  th .hint::after { bottom: auto; top: calc(100% + 8px); }
+  /* the header of a phone is not sticky, it would cover half of the screen,
+     and its rows wrap; the gutter is 16px */
+  header.top { position: static; padding: 12px 16px 0; }
+  main { padding: 16px; }
+  footer { padding: 8px 16px 24px; }
+  section { scroll-margin-top: 16px; }
+  nav.sections { overflow-x: auto; }
+  nav.sections a { padding: 8px 10px; white-space: nowrap; }
+  .search { flex-wrap: wrap; }
+  .search input { flex-basis: 100%; max-width: none; }
+}
+
+figure { margin: 0; }
+figure img {
+  width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  border-radius: 8px; cursor: zoom-in;
+}
+figcaption { color: var(--fg-soft); font-size: 12.5px; margin-top: 6px; }
+
+.mapping { }
+.mapping header { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-bottom: 10px; }
+.mapping header .name { font-weight: 650; }
+.mapping header .exp { color: var(--fg-soft); font-size: 13px; }
+.mapping .metrics { margin-left: auto; display: flex; gap: 14px; font-size: 12.5px; color: var(--fg-soft); }
+.mapping .metrics b { color: var(--fg); font-weight: 600; }
+.hidden { display: none !important; }
+.failed { color: var(--outlier); }
+.empty { color: var(--fg-soft); font-style: italic; padding: 16px 0; }
+
+pre.code {
+  margin: 0; padding: 14px 16px; overflow-x: auto; max-height: 70vh;
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 8px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 12.5px; line-height: 1.5; tab-size: 4;
+}
+#lightbox {
+  position: fixed; inset: 0; background: rgba(8,10,14,.86); z-index: 50;
+  display: none; align-items: center; justify-content: center; padding: 24px; cursor: zoom-out;
+}
+#lightbox.open { display: flex; }
+#lightbox img { max-width: 100%; max-height: 100%; background: #fff; border-radius: 8px; }
+footer { color: var(--fg-soft); font-size: 12.5px; padding: 8px 24px 32px; max-width: 1400px; margin: 0 auto; }
+</style>
+<style>
+  /* the figures of an experiment are thumbnails of one height, a click opens
+     a figure in full size */
+  #experiments figure img { height: 220px; object-fit: contain; }
+  #experiments figure a.interactive { display: flex; align-items: center; justify-content: center; height: 220px; border: 1px dashed var(--line); border-radius: 8px; }
+  .chip[data-kind="passed"][aria-pressed="true"] { background: var(--training); }
+  .chip[data-kind="failed"][aria-pressed="true"] { background: var(--outlier); }
+</style>
+</head>
+<body data-items="experiments">
+
+<header class="top">
+  <div class="row">
+    <h1>Simulation experiments</h1>
+    <span class="sub">50 experiment(s)</span>
+    <div class="badges">
+<span class="badge">experiments <b>50</b></span>
+    </div>
+  </div>
+  <nav class="sections">
+<a href="#experiments">Experiments</a>
+  </nav>
+  <div class="search">
+    <input id="search" type="search" placeholder="Search experiments and figures …" autocomplete="off">
+    <span id="hits"></span>
+  </div>
+</header>
+
+<main>
+
+<section id="experiments">
+  <h2>Experiments (50)</h2>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Bedada2016/Bedada2016.html">Bedada2016</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Bedada2016/Bedada2016_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Bedada2016/Bedada2016_Fig2.svg" alt="Fig2">
+        <figcaption>Fig2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Bedada2017/Bedada2017.html">Bedada2017</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Bedada2017/Bedada2017_Fig2.svg" alt="Fig2">
+        <figcaption>Fig2</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Bedada2017/Bedada2017_Fig3.svg" alt="Fig3">
+        <figcaption>Fig3</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Bedada2018/Bedada2018.html">Bedada2018</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Bedada2018/Bedada2018_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Bedada2018/Bedada2018_Fig2.svg" alt="Fig2">
+        <figcaption>Fig2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Benowitz2003/Benowitz2003.html">Benowitz2003</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Benowitz2003/Benowitz2003_fig_Fig1.svg" alt="fig_Fig1">
+        <figcaption>fig_Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Benowitz2003/Benowitz2003_fig_Tab1.svg" alt="fig_Tab1">
+        <figcaption>fig_Tab1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Burckart1998/Burckart1998.html">Burckart1998</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Burckart1998/Burckart1998_fig_Fig4czx.svg" alt="fig_Fig4czx">
+        <figcaption>fig_Fig4czx</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Burckart1998/Burckart1998_fig_Fig4czx6oh.svg" alt="fig_Fig4czx6oh">
+        <figcaption>fig_Fig4czx6oh</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Burckart1998/Burckart1998_fig_Tab2urine.svg" alt="fig_Tab2urine">
+        <figcaption>fig_Tab2urine</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Chalasani2003/Chalasani2003.html">Chalasani2003</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Chalasani2003/Chalasani2003_fig_Fig1.svg" alt="fig_Fig1">
+        <figcaption>fig_Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Chalasani2003/Chalasani2003_fig_Tab1.svg" alt="fig_Tab1">
+        <figcaption>fig_Tab1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Desiraju1983/Desiraju1983.html">Desiraju1983</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Desiraju1983/Desiraju1983_Fig1_Fig3.svg" alt="Fig1_Fig3">
+        <figcaption>Fig1_Fig3</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="DeVries1994/DeVries1994.html">DeVries1994</a></span>
+      <span class="exp">17 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_1.svg" alt="Subject_1">
+        <figcaption>Subject_1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_2.svg" alt="Subject_2">
+        <figcaption>Subject_2</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_3.svg" alt="Subject_3">
+        <figcaption>Subject_3</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_4.svg" alt="Subject_4">
+        <figcaption>Subject_4</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_5.svg" alt="Subject_5">
+        <figcaption>Subject_5</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_6.svg" alt="Subject_6">
+        <figcaption>Subject_6</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_7.svg" alt="Subject_7">
+        <figcaption>Subject_7</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_8.svg" alt="Subject_8">
+        <figcaption>Subject_8</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_9.svg" alt="Subject_9">
+        <figcaption>Subject_9</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_10.svg" alt="Subject_10">
+        <figcaption>Subject_10</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_11.svg" alt="Subject_11">
+        <figcaption>Subject_11</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_12.svg" alt="Subject_12">
+        <figcaption>Subject_12</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_13.svg" alt="Subject_13">
+        <figcaption>Subject_13</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_14.svg" alt="Subject_14">
+        <figcaption>Subject_14</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_15.svg" alt="Subject_15">
+        <figcaption>Subject_15</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_16.svg" alt="Subject_16">
+        <figcaption>Subject_16</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="DeVries1994/DeVries1994_Subject_17.svg" alt="Subject_17">
+        <figcaption>Subject_17</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="DeVries1994Mean/DeVries1994Mean.html">DeVries1994Mean</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="DeVries1994Mean/DeVries1994Mean_Fig1_2.svg" alt="Fig1_2">
+        <figcaption>Fig1_2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Dreisbach1995/Dreisbach1995.html">Dreisbach1995</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Dreisbach1995/Dreisbach1995_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Dreisbach1995/Dreisbach1995_Fig4_czx.svg" alt="Fig4_czx">
+        <figcaption>Fig4_czx</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Dreisbach1995/Dreisbach1995_Fig4_czx6oh.svg" alt="Fig4_czx6oh">
+        <figcaption>Fig4_czx6oh</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Eap1998/Eap1998.html">Eap1998</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Eap1998/Eap1998_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Frye1998/Frye1998.html">Frye1998</a></span>
+      <span class="exp">9 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig1A_czx.svg" alt="Fig1A_czx">
+        <figcaption>Fig1A_czx</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig1A_czx6oh.svg" alt="Fig1A_czx6oh">
+        <figcaption>Fig1A_czx6oh</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig3A_250.svg" alt="Fig3A_250">
+        <figcaption>Fig3A_250</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig3B_250.svg" alt="Fig3B_250">
+        <figcaption>Fig3B_250</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig3A_750.svg" alt="Fig3A_750">
+        <figcaption>Fig3A_750</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig3B_750.svg" alt="Fig3B_750">
+        <figcaption>Fig3B_750</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig4_250.svg" alt="Fig4_250">
+        <figcaption>Fig4_250</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Frye1998/Frye1998_Fig4_750.svg" alt="Fig4_750">
+        <figcaption>Fig4_750</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Gade2018/Gade2018.html">Gade2018</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Gade2018/Gade2018_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Girre1994/Girre1994.html">Girre1994</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Girre1994/Girre1994_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Girre1994/Girre1994_Fig2.svg" alt="Fig2">
+        <figcaption>Fig2</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Girre1994/Girre1994_Fig3.svg" alt="Fig3">
+        <figcaption>Fig3</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="He2019/He2019.html">He2019</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="He2019/He2019_Fig4.svg" alt="Fig4">
+        <figcaption>Fig4</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Hohmann2019/Hohmann2019.html">Hohmann2019</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Hohmann2019/Hohmann2019_Fig2.svg" alt="Fig2">
+        <figcaption>Fig2</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Hohmann2019/Hohmann2019_Fig2A.svg" alt="Fig2A">
+        <figcaption>Fig2A</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Hohmann2019/Hohmann2019_Fig2B.svg" alt="Fig2B">
+        <figcaption>Fig2B</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Hukkanen2010/Hukkanen2010.html">Hukkanen2010</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Hukkanen2010/Hukkanen2010_fig_Tab5.svg" alt="fig_Tab5">
+        <figcaption>fig_Tab5</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Kharasch1993/Kharasch1993.html">Kharasch1993</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Kharasch1993/Kharasch1993_Fig2.svg" alt="Fig2">
+        <figcaption>Fig2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="LaMaza2000/LaMaza2000.html">LaMaza2000</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="LaMaza2000/LaMaza2000_fig_Fig1.svg" alt="fig_Fig1">
+        <figcaption>fig_Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Leclercq1998/Leclercq1998.html">Leclercq1998</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Leclercq1998/Leclercq1998_fig_Fig1.svg" alt="fig_Fig1">
+        <figcaption>fig_Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Liangpunsakul2005/Liangpunsakul2005.html">Liangpunsakul2005</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Liangpunsakul2005/Liangpunsakul2005_fig_Fig1.svg" alt="fig_Fig1">
+        <figcaption>fig_Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Lucas1993/Lucas1993.html">Lucas1993</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Lucas1993/Lucas1993_fig_Fig2.svg" alt="fig_Fig2">
+        <figcaption>fig_Fig2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Mishin1998/Mishin1998.html">Mishin1998</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Mishin1998/Mishin1998_fig.svg" alt="fig">
+        <figcaption>fig</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="OShea1994/OShea1994.html">OShea1994</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="OShea1994/OShea1994_fig_Fig1.svg" alt="fig_Fig1">
+        <figcaption>fig_Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="OShea1994/OShea1994_fig_Fig2.svg" alt="fig_Fig2">
+        <figcaption>fig_Fig2</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="OShea1994/OShea1994_fig_Tab1_2Mean.svg" alt="fig_Tab1_2Mean">
+        <figcaption>fig_Tab1_2Mean</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Park2006/Park2006.html">Park2006</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Park2006/Park2006_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Puris2019/Puris2019.html">Puris2019</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Puris2019/Puris2019_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Rajnarayana2008/Rajnarayana2008.html">Rajnarayana2008</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Rajnarayana2008/Rajnarayana2008_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Vesell1995/Vesell1995.html">Vesell1995</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Vesell1995/Vesell1995_Fig1_mean.svg" alt="Fig1_mean">
+        <figcaption>Fig1_mean</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Vesell1995/Vesell1995_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Vesell1995/Vesell1995_Fig3.svg" alt="Fig3">
+        <figcaption>Fig3</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Wang2003/Wang2003.html">Wang2003</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Wang2003/Wang2003_Fig1.svg" alt="Fig1">
+        <figcaption>Fig1</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Witt2016/Witt2016.html">Witt2016</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Witt2016/Witt2016_Fig3.svg" alt="Fig3">
+        <figcaption>Fig3</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Witt2016/Witt2016_Chlorzoxazone.svg" alt="Chlorzoxazone">
+        <figcaption>Chlorzoxazone</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Witt2016/Witt2016_6_OH_CZX.svg" alt="6_OH_CZX">
+        <figcaption>6_OH_CZX</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="ApplicationExperiment/ApplicationExperiment.html">ApplicationExperiment</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="ApplicationExperiment/ApplicationExperiment_Fig_oral_application.svg" alt="Fig_oral_application">
+        <figcaption>Fig_oral_application</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Bedada/Bedada.html">Bedada</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Bedada/Bedada_fig_Chlorzoxazone.svg" alt="fig_Chlorzoxazone">
+        <figcaption>fig_Chlorzoxazone</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Bedada/Bedada_fig_6_OH_CZX.svg" alt="fig_6_OH_CZX">
+        <figcaption>fig_6_OH_CZX</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="PKPScan/PKPScan.html">PKPScan</a></span>
+      <span class="exp">3 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="PKPScan/PKPScan_fig_pkp_scan.svg" alt="fig_pkp_scan">
+        <figcaption>fig_pkp_scan</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="PKPScan/PKPScan_vmax.svg" alt="vmax">
+        <figcaption>vmax</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="PKPScan/PKPScan_km.svg" alt="km">
+        <figcaption>km</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="MetabolicRatiosScan/MetabolicRatiosScan.html">MetabolicRatiosScan</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="MetabolicRatiosScan/MetabolicRatiosScan_fig.svg" alt="fig">
+        <figcaption>fig</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="CirrhosisScan/CirrhosisScan.html">CirrhosisScan</a></span>
+      <span class="exp">10 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_cpt_mr.svg" alt="fig_cpt_mr">
+        <figcaption>fig_cpt_mr</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_cpt_auc_inf.svg" alt="fig_cpt_auc_inf">
+        <figcaption>fig_cpt_auc_inf</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_cpt_cl.svg" alt="fig_cpt_cl">
+        <figcaption>fig_cpt_cl</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_cpt_kel.svg" alt="fig_cpt_kel">
+        <figcaption>fig_cpt_kel</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_cpt_eff_act.svg" alt="fig_cpt_eff_act">
+        <figcaption>fig_cpt_eff_act</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_mr.svg" alt="fig_mr">
+        <figcaption>fig_mr</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_auc_inf.svg" alt="fig_auc_inf">
+        <figcaption>fig_auc_inf</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_cl.svg" alt="fig_cl">
+        <figcaption>fig_cl</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_kel.svg" alt="fig_kel">
+        <figcaption>fig_kel</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="CirrhosisScan/CirrhosisScan_fig_eff_act.svg" alt="fig_eff_act">
+        <figcaption>fig_eff_act</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="CZXDoseCyp2e1ActivityScan/CZXDoseCyp2e1ActivityScan.html">CZXDoseCyp2e1ActivityScan</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="CZXDoseCyp2e1ActivityScan/CZXDoseCyp2e1ActivityScan_fig_cyp2e1_sampling_pkp.svg" alt="fig_cyp2e1_sampling_pkp">
+        <figcaption>fig_cyp2e1_sampling_pkp</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="EthnicitySampling/EthnicitySampling.html">EthnicitySampling</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="EthnicitySampling/EthnicitySampling_fig_dose_cyp2e1_sampling.svg" alt="fig_dose_cyp2e1_sampling">
+        <figcaption>fig_dose_cyp2e1_sampling</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="VariabilitySampling/VariabilitySampling.html">VariabilitySampling</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="VariabilitySampling/VariabilitySampling_cyp2e1.svg" alt="cyp2e1">
+        <figcaption>cyp2e1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="VariabilitySampling/VariabilitySampling_kabs.svg" alt="kabs">
+        <figcaption>kabs</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Ernstgard2004/Ernstgard2004.html">Ernstgard2004</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Ernstgard2004/Ernstgard2004_fig.svg" alt="fig">
+        <figcaption>fig</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Mishin1998Scan/Mishin1998Scan.html">Mishin1998Scan</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Mishin1998Scan/Mishin1998Scan_fig.svg" alt="fig">
+        <figcaption>fig</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Orellana2006/Orellana2006.html">Orellana2006</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Orellana2006/Orellana2006_fig.svg" alt="fig">
+        <figcaption>fig</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="AlcoholMetabolism/AlcoholMetabolism.html">AlcoholMetabolism</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="AlcoholMetabolism/AlcoholMetabolism_Fig1_and_Fig2.svg" alt="Fig1_and_Fig2">
+        <figcaption>Fig1_and_Fig2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Wilkinson1977/Wilkinson1977.html">Wilkinson1977</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Wilkinson1977/Wilkinson1977_Wilkinson_Fig1_and_Fig2.svg" alt="Wilkinson_Fig1_and_Fig2">
+        <figcaption>Wilkinson_Fig1_and_Fig2</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Wilkinson1977Mean/Wilkinson1977Mean.html">Wilkinson1977Mean</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Wilkinson1977Mean/Wilkinson1977Mean_Ethanol_model.svg" alt="Ethanol_model">
+        <figcaption>Ethanol_model</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Wilkinson1977Mean/Wilkinson1977Mean_fig.svg" alt="fig">
+        <figcaption>fig</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="AlcoholDosing/AlcoholDosing.html">AlcoholDosing</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="AlcoholDosing/AlcoholDosing_mr.svg" alt="mr">
+        <figcaption>mr</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="AlcoholDosing/AlcoholDosing_dosing.svg" alt="dosing">
+        <figcaption>dosing</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="AlcoholInduction/AlcoholInduction.html">AlcoholInduction</a></span>
+      <span class="exp">1 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="AlcoholInduction/AlcoholInduction_girre_lucas.svg" alt="girre_lucas">
+        <figcaption>girre_lucas</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Mishin1998Induction/Mishin1998Induction.html">Mishin1998Induction</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Mishin1998Induction/Mishin1998Induction_fig_mishin.svg" alt="fig_mishin">
+        <figcaption>fig_mishin</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Mishin1998Induction/Mishin1998Induction_fig_dosing_mishin.svg" alt="fig_dosing_mishin">
+        <figcaption>fig_dosing_mishin</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Mishin1998Sampling/Mishin1998Sampling.html">Mishin1998Sampling</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Mishin1998Sampling/Mishin1998Sampling_Fig_alcohol.svg" alt="Fig_alcohol">
+        <figcaption>Fig_alcohol</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Mishin1998Sampling/Mishin1998Sampling_fig_mishin.svg" alt="fig_mishin">
+        <figcaption>fig_mishin</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Oneta2002Induction/Oneta2002Induction.html">Oneta2002Induction</a></span>
+      <span class="exp">6 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Oneta2002Induction/Oneta2002Induction_base_0.svg" alt="base_0">
+        <figcaption>base_0</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Oneta2002Induction/Oneta2002Induction_base_1.svg" alt="base_1">
+        <figcaption>base_1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Oneta2002Induction/Oneta2002Induction_base_2.svg" alt="base_2">
+        <figcaption>base_2</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Oneta2002Induction/Oneta2002Induction_base_ethanol_multiple_dosing.svg" alt="base_ethanol_multiple_dosing">
+        <figcaption>base_ethanol_multiple_dosing</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Oneta2002Induction/Oneta2002Induction_base_li_cyp2e1.svg" alt="base_li_cyp2e1">
+        <figcaption>base_li_cyp2e1</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Oneta2002Induction/Oneta2002Induction_fig_oneta.svg" alt="fig_oneta">
+        <figcaption>fig_oneta</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name"><a href="Oneta2002Sampling/Oneta2002Sampling.html">Oneta2002Sampling</a></span>
+      <span class="exp">2 figure(s) · 1 model(s)</span>
+    </header>
+    <div class="grid">
+      <figure>
+        <img loading="lazy" src="Oneta2002Sampling/Oneta2002Sampling_Fig_alcohol.svg" alt="Fig_alcohol">
+        <figcaption>Fig_alcohol</figcaption>
+      </figure>
+      <figure>
+        <img loading="lazy" src="Oneta2002Sampling/Oneta2002Sampling_fig_oneta.svg" alt="fig_oneta">
+        <figcaption>fig_oneta</figcaption>
+      </figure>
+    </div>
+  </div>
+  <p class="empty hidden" data-empty>No experiment matches the search.</p>
+</section>
+
+</main>
+
+<footer>
+<br>created by sbmlsim 0.13.0</footer>
+
+<div id="lightbox"><img alt=""></div>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---- search and the filter chips ------------------------------------
+  const search = document.getElementById("search");
+  const hits = document.getElementById("hits");
+  const chips = Array.from(document.querySelectorAll(".chip"));
+  const cards = Array.from(document.querySelectorAll('[data-filter="card"]'));
+  const rows = Array.from(document.querySelectorAll('table[data-filter="row"] tbody tr'));
+  const empty = document.querySelector("[data-empty]");
+  const itemLabel = document.body.dataset.items || "items";
+
+  const haystack = new Map();
+  for (const node of [...cards, ...rows]) {
+    haystack.set(node, node.textContent.toLowerCase());
+  }
+
+  function activeKinds() {
+    return new Set(chips.filter((c) => c.getAttribute("aria-pressed") === "true")
+                        .map((c) => c.dataset.kind));
+  }
+
+  function matches(node, query, kinds) {
+    const kind = node.dataset.kind;
+    if (kind && !kinds.has(kind)) return false;
+    return !query || haystack.get(node).includes(query);
+  }
+
+  function apply() {
+    const query = search.value.trim().toLowerCase();
+    const kinds = activeKinds();
+    let shownCards = 0;
+    for (const node of cards) {
+      const show = matches(node, query, kinds);
+      node.classList.toggle("hidden", !show);
+      if (show) shownCards += 1;
+    }
+    for (const node of rows) {
+      node.classList.toggle("hidden", !matches(node, query, kinds));
+    }
+    if (empty) empty.classList.toggle("hidden", shownCards > 0 || cards.length === 0);
+    const filtering = Boolean(query) || (chips.length > 0 && kinds.size < chips.length);
+    hits.textContent = filtering
+      ? shownCards + " / " + cards.length + " " + itemLabel
+      : "";
+  }
+
+  search.addEventListener("input", apply);
+  for (const chip of chips) {
+    chip.addEventListener("click", () => {
+      chip.setAttribute("aria-pressed", chip.getAttribute("aria-pressed") === "true" ? "false" : "true");
+      apply();
+    });
+  }
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "/" && document.activeElement !== search) {
+      event.preventDefault();
+      search.focus();
+    } else if (event.key === "Escape") {
+      if (document.activeElement === search && search.value) { search.value = ""; apply(); }
+      closeLightbox();
+    }
+  });
+
+  // ---- sortable tables -------------------------------------------------
+  function cellValue(row, index, kind) {
+    const text = row.cells[index] ? row.cells[index].textContent.trim() : "";
+    if (kind !== "num") return text.toLowerCase();
+    // the AIC of a perfect fit is -inf, a cell without a value sorts last
+    if (text === "-inf") return Number.NEGATIVE_INFINITY;
+    const value = parseFloat(text);
+    return Number.isNaN(value) ? Number.POSITIVE_INFINITY : value;
+  }
+
+  for (const table of document.querySelectorAll("table")) {
+    const headers = Array.from(table.querySelectorAll("th[data-sort]"));
+    headers.forEach((th, index) => {
+      th.addEventListener("click", () => {
+        const body = table.tBodies[0];
+        if (!body) return;
+        const kind = th.dataset.sort;
+        const descending = th.classList.contains("asc");
+        for (const other of headers) other.classList.remove("asc", "desc");
+        th.classList.add(descending ? "desc" : "asc");
+        const sorted = Array.from(body.rows).sort((a, b) => {
+          const left = cellValue(a, index, kind);
+          const right = cellValue(b, index, kind);
+          if (left < right) return descending ? 1 : -1;
+          if (left > right) return descending ? -1 : 1;
+          return 0;
+        });
+        for (const row of sorted) body.appendChild(row);
+      });
+    });
+  }
+
+  // ---- the section the page is scrolled to -----------------------------
+  // a tab (data-tab) is not a section, its page marks the tab which is shown
+  const links = Array.from(document.querySelectorAll("nav.sections a:not([data-tab])"));
+  const sections = links.map((link) => document.querySelector(link.getAttribute("href")));
+  function scrollspy() {
+    let current = 0;
+    sections.forEach((section, index) => {
+      if (section && section.getBoundingClientRect().top < 200) current = index;
+    });
+    links.forEach((link, index) => link.classList.toggle("active", index === current));
+  }
+  window.addEventListener("scroll", scrollspy, { passive: true });
+  scrollspy();
+
+  // ---- click a figure to enlarge it ------------------------------------
+  const lightbox = document.getElementById("lightbox");
+  const lightboxImage = lightbox.querySelector("img");
+  function closeLightbox() { lightbox.classList.remove("open"); lightboxImage.src = ""; }
+  for (const image of document.querySelectorAll("figure img")) {
+    image.addEventListener("click", () => {
+      lightboxImage.src = image.getAttribute("src");
+      lightbox.classList.add("open");
+    });
+  }
+  lightbox.addEventListener("click", closeLightbox);
+
+  apply();
+})();
+</script>
+</body>
+</html>

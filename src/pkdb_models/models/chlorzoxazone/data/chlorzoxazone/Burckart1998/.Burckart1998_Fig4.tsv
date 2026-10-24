@@ -1,0 +1,19 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	se	sd	unit	method	comments
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	2	hr	3511.3477	3919.5103	408.1626	1632.6504	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	4	hr	1478.4717	1716.5599	238.0882	952.3528	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	8	hr	99.764206	160.99529	61.231084	244.924336	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	10	hr	12.483878	66.898895	54.415017	217.660068	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2	hr	1409.3097	1552.1466	142.8369	571.3476	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4	hr	743.7721	811.80585	68.0337499999999	272.135	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8	hr	79.3761	154.1859	74.8098	299.2392	ng/ml	HPLC	NA
+Burckart1998	16	CZX250	healthy	Fig1_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	10	hr	5.6811657	66.898895	61.2177293	244.8709172	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_chlorzoxazone	concentration	chlorzoxazone	plasma	2	hr	1341.4368	1698.086	356.6492	943.605088490138	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_chlorzoxazone	concentration	chlorzoxazone	plasma	4	hr	596.68445	832.22906	235.54461	623.192460721698	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_chlorzoxazone	concentration	chlorzoxazone	plasma	6	hr	235.56407	343.2227	107.65863	284.837961469918	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_chlorzoxazone	concentration	chlorzoxazone	plasma	8	hr	116.652885	163.75922	47.106335	124.631647585698	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_chlorzoxazone	concentration	chlorzoxazone	plasma	12	hr	40.363873	-40.389828	80.753701	213.654210294068	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2	hr	2653.6714	3494.843	841.1716	2225.5308635303	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4	hr	1781.0851	1935.8629	154.7778	409.503567273693	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6	hr	760.46313	821.0284	60.5652700000001	160.240642507481	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8	hr	365.65643	426.2217	60.56527	160.240642507481	ng/ml	HPLC	NA
+Burckart1998	7	CZX250	liver transplant patients	Fig1_liver transplant patients_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	12	hr	114.42703	174.97932	60.55229	160.206300655463	ng/ml	HPLC	NA

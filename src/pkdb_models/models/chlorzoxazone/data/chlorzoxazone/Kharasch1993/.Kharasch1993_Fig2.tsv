@@ -1,0 +1,20 @@
+study	count	intervention	individual	group	label	measurement	substance	tissue	time	value	time_unit	unit	method	comments
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	1.2641017	12.483502	hr	µg/ml	HPLC	NA
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	2.0095236	15.870394	hr	µg/ml	HPLC	NA
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	2.8016768	12.1605015	hr	µg/ml	HPLC	NA
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	4.284542	3.6572008	hr	µg/ml	HPLC	NA
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	5.186115	2.006126	hr	µg/ml	HPLC	NA
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	6.1097236	1.009806	hr	µg/ml	HPLC	NA
+Kharasch1993	1	CZX	TC_1	all	Fig2_TC_1_CZX_	concentration	chlorzoxazone	plasma	7.2052126	0.44477934	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	0.40819636	15.679451	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	0.9169221	25.061365	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	1.5352955	27.866095	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	2.1760848	27.106346	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	2.8174818	24.427038	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	4.2926726	19.28214	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	5.232086	19.496397	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	5.9803195	17.405186	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	6.9853096	14.539	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	8.010056	14.843697	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	10.021555	8.55591	hr	µg/ml	HPLC	NA
+Kharasch1993	1	DSF, CZX	TC_1	all	Fig2_TC_1_DSF_CZX	concentration	chlorzoxazone	plasma	12.049847	8.749188	hr	µg/ml	HPLC	NA

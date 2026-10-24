@@ -1,0 +1,25 @@
+study	count	individual	group	intervention	label	measurement_type	substance	tissue	value	mean	sd	se	time	time_unit	unit	method	comments
+Kharasch1993	1	Subject_1	all	CZX	Tab1_Subject_1_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	70.4	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_2	all	CZX	Tab1_Subject_2_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	66.5	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_3	all	CZX	Tab1_Subject_3_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	66.7	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_4	all	CZX	Tab1_Subject_4_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	62.4	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_5	all	CZX	Tab1_Subject_5_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	81.2	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_6	all	CZX	Tab1_Subject_6_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	76.8	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_1	all	CZX	Tab1_Subject_1_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	1.94	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_2	all	CZX	Tab1_Subject_2_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	1.37	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_3	all	CZX	Tab1_Subject_3_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	3.95	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_4	all	CZX	Tab1_Subject_4_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	2.08	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_5	all	CZX	Tab1_Subject_5_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	2.74	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_6	all	CZX	Tab1_Subject_6_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	1.72	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_1	all	DSF, CZX	Tab1_Subject_1_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	38.0	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_2	all	DSF, CZX	Tab1_Subject_2_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	16.4	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_3	all	DSF, CZX	Tab1_Subject_3_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	32.0	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_4	all	DSF, CZX	Tab1_Subject_4_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	32.5	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_5	all	DSF, CZX	Tab1_Subject_5_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	37.3	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_6	all	DSF, CZX	Tab1_Subject_6_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	46.4	NA	NA	NA	24.0	hr	percent	HPLC	NA
+Kharasch1993	1	Subject_1	all	DSF, CZX	Tab1_Subject_1_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.21	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_2	all	DSF, CZX	Tab1_Subject_2_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.07	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_3	all	DSF, CZX	Tab1_Subject_3_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.17	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_4	all	DSF, CZX	Tab1_Subject_4_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.15	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_5	all	DSF, CZX	Tab1_Subject_5_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.21	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_6	all	DSF, CZX	Tab1_Subject_6_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.19	NA	NA	NA	NA	NA	ml/kg/min	HPLC	NA

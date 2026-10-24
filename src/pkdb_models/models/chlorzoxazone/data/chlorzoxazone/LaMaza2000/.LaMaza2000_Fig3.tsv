@@ -1,0 +1,5 @@
+study	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pmse	pmsd	se	sd	unit	method	comments
+LaMaza2000	CZX750	nonalcoholics_nw	Fig1B_6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	serum	2	hr	1.0272259	1.1465278	1.3644465	0.1193019	0.3372206	dimensionless	HPLC	NA
+LaMaza2000	CZX750	nonalcoholics_obese	Fig1B_6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	serum	2	hr	1.7846977	1.6394781	1.3489271	0.1452196	0.2998522	dimensionless	HPLC	NA
+LaMaza2000	CZX750	alcoholics_nw	Fig1B_6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	serum	2	hr	1.8937129	2.199783	2.697832	0.3060701	0.57731414	dimensionless	HPLC	NA
+LaMaza2000	CZX750	alcoholics_obese	Fig1B_6-hydroxychlorzoxazone/chlorzoxazone	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	serum	2	hr	1.9300513	2.6355758	3.6472602	0.7055245	0.695823	dimensionless	HPLC	NA

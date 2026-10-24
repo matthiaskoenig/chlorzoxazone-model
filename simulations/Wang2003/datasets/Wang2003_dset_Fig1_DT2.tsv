@@ -1,0 +1,11 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	0.25	hr	0.0027605652276480297	1.1011066	0.0037333401745694734	0.001319935076957124	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	0.5	hr	0.007150465322009907	2.3820763	0.006898109223873554	0.0024388499047832326	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	1.0	hr	0.01300087933474876	4.9255595	0.016048185892899264	0.005673890535305678	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	1.5	hr	0.01691842769521113	5.9336076	0.018075719509318234	0.006390731919932471	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	2.0	hr	0.014400760792639772	4.8908014	0.01444331446095777	0.005106482799076479	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	3.0	hr	0.020237178579853736	5.178952	0.01030629865534324	0.0036438268340634994	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	4.0	hr	0.009840539631988676	2.5509367	0.005203908940787921	0.0018398596503542224	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	6.0	hr	0.003068123967916961	0.93409365	0.0024408029606039156	0.0008629541624916135	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	8.0	hr	0.001302581623024298	0.40953094	0.0011126751592356685	0.00039339007517668137	HPLC		mole/meter^3	dimensionless
+Wang2003	8	CZX500	DT2	Fig1_DT2	concentration	chlorzoxazone	serum	10.0	hr	0.0007061258551545174	0.16514765	0.00026785179287567814	9.469990954768341e-05	HPLC		mole/meter^3	dimensionless

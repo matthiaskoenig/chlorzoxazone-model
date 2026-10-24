@@ -1,0 +1,23 @@
+study	name	parent	measurement_type	group_count	choice	count	min	max	mean	sd	unit	comments
+Liangpunsakul2005	all	NA	sex	40	MF	40	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	all	NA	species	40	homo sapiens	40	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	all	NA	healthy	40	Y	40	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	alcohol	all	age	20	NA	20	NA	NA	31.6	7.3	yr	NA
+Liangpunsakul2005	alcohol	all	weight	20	NA	20	NA	NA	91.0	25.0	kg	NA
+Liangpunsakul2005	alcohol	all	height	20	NA	20	NA	NA	178.0	9.4	cm	NA
+Liangpunsakul2005	alcohol	all	bmi	20	NA	20	NA	NA	28.5	6.0	kg/m^2	NA
+Liangpunsakul2005	alcohol	all	ethnicity	20	caucasian	10	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	alcohol	all	ethnicity	20	african american	10	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	alcohol	all	sex	20	M	16	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	alcohol	all	sex	20	F	4	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	alcohol	all	alcohol duration	20	NA	20	5.0	NA	NA	NA	yr	NA
+Liangpunsakul2005	alcohol	all	alcohol amount	20	NA	20	20.0	30.0	NA	NA	g/day	NA
+Liangpunsakul2005	no_alcohol	all	age	20	NA	20	NA	NA	32.1	8.7	yr	NA
+Liangpunsakul2005	no_alcohol	all	weight	20	NA	20	NA	NA	95.0	24.0	kg	NA
+Liangpunsakul2005	no_alcohol	all	height	20	NA	20	NA	NA	177.0	9.8	cm	NA
+Liangpunsakul2005	no_alcohol	all	bmi	20	NA	20	NA	NA	30.0	6.4	kg/m^2	NA
+Liangpunsakul2005	no_alcohol	all	ethnicity	20	caucasian	10	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	no_alcohol	all	ethnicity	20	african american	10	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	no_alcohol	all	sex	20	M	16	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	no_alcohol	all	sex	20	F	4	NA	NA	NA	NA	NA	NA
+Liangpunsakul2005	no_alcohol	all	alcohol	20	N	20	NA	NA	NA	NA	NA	NA

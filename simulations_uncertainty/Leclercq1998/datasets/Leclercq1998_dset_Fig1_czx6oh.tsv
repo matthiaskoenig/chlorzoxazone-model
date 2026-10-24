@@ -1,0 +1,10 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	29.003782	0.0010310763634403964	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	60.529633	0.006598888769131278	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	90.16393	0.008867256951929295	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	129.8865	0.012785347057555506	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	180.32787	0.014641284220737226	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	241.48802	0.010310763634403964	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	300.75662	0.007011319249838327	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	373.8966	0.003918090105626212	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	480.45398	0.002062152726880793	min	HPLC		mole/meter^3	dimensionless

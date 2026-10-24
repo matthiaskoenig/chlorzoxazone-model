@@ -1,0 +1,13 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	time	time_unit	unit	method	comments
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_cmax_6-hydroxychlorzoxazone	cmax	6-hydroxychlorzoxazone	plasma	1.9	0.9	0.259807621135332	NA	NA	µg/ml	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_tmax_6-hydroxychlorzoxazone	tmax	6-hydroxychlorzoxazone	plasma	155.0	48.0	13.856406460551	NA	NA	min	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_thalf_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	urine	64.5	12.8	3.69504172281361	NA	NA	min	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_auc_inf_6-hydroxychlorzoxazone	auc_inf	6-hydroxychlorzoxazone	plasma	306.0	121.0	34.9296912859724	NA	NA	min*µg/ml	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	53.9	8.6	2.48260615751539	24.0	hr	percent	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_clearance_partial_6-hydroxychlorzoxazone	clearance_partial	6-hydroxychlorzoxazone	plasma	191.0	110.0	31.7542648054294	NA	NA	ml/min	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_cmax_6-hydroxychlorzoxazone	cmax	6-hydroxychlorzoxazone	plasma	1.7	0.6	0.173205080756888	NA	NA	µg/ml	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_tmax_6-hydroxychlorzoxazone	tmax	6-hydroxychlorzoxazone	plasma	165.0	56.0	16.1658075373095	NA	NA	min	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_thalf_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	urine	75.7	27.8	8.0251687417358	NA	NA	min	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_auc_inf_6-hydroxychlorzoxazone	auc_inf	6-hydroxychlorzoxazone	plasma	332.0	146.0	42.1465696508427	NA	NA	min*µg/ml	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	51.1	9.0	2.59807621135332	24.0	hr	percent	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_clearance_partial_6-hydroxychlorzoxazone	clearance_partial	6-hydroxychlorzoxazone	plasma	213.0	94.0	27.1354626519124	NA	NA	ml/min	HPLC	NA

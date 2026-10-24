@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	min	max	method	comments	mean_unit	count_unit
+Liangpunsakul2005	20	no_alcohol	CZX	Tab2_CZX_no_alcohol_recovery	recovery	6-hydroxychlorzoxazone	urine	0.0017987732955885825	0.0006487379098844068	0.0001450622066082667	8.0	hr			HPLC	from text	count*mole	dimensionless

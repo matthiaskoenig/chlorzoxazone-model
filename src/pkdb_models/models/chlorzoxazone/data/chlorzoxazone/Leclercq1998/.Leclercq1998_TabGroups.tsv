@@ -1,0 +1,10 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	sd	min	max	unit	comments
+Leclercq1998	all	NA	sex	10	M	6	NA	NA	NA	NA	NA	NA
+Leclercq1998	all	NA	sex	10	F	4	NA	NA	NA	NA	NA	NA
+Leclercq1998	all	NA	species	10	homo sapiens	10	NA	NA	NA	NA	NA	NA
+Leclercq1998	all	NA	healthy	10	Y	10	NA	NA	NA	NA	NA	NA
+Leclercq1998	all	NA	age	10	NA	10	NA	NA	26.0	55.0	yr	NA
+Leclercq1998	all	NA	weight	10	NA	10	NA	NA	48.0	80.0	kg	NA
+Leclercq1998	all	NA	bmi	10	NA	10	23.1	2.3	18.3	26.8	kg/m^2	NA
+Leclercq1998	all	NA	ethnicity	10	caucasian	10	NA	NA	NA	NA	NA	NA
+Leclercq1998	all	NA	alcohol amount	10	NA	10	NA	NA	NA	5.86	g/day	NA

@@ -1,0 +1,10 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.008348591830135803	2.632165	0.005836388769131277	0.001845628182068145	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.013544610907523172	2.0034566	0.0027477980168139683	0.0008689300283225802	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.013052041388230221	1.8922925	0.0028543021125242503	0.0009026095805806855	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.008895719982754903	2.0301366	0.0020448738952360416	0.0006466459036766436	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.005208016544513903	1.2312253	0.001427170456995042	0.0004513109253407717	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.0029687836818279795	0.7682824	0.0011715612200905365	0.00037048018738119147	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.0017094055830998058	0.49111032	0.0009372333477042466	0.0002963792077809964	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.0011741947079111875	0.10326268	0.0006177025759862039	0.00019533470566696323	HPLC		mole/meter^3	dimensionless
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.0006603041064884673	0.07905138	0.00023428890924768266	7.408865837391624e-05	HPLC		mole/meter^3	dimensionless

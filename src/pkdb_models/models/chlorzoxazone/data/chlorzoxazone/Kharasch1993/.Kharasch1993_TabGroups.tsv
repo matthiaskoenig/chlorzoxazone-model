@@ -1,0 +1,5 @@
+study	name	parent	measurement_type	group_count	choice	count	min	max	unit	substance	comments
+Kharasch1993	all	NA	sex	6	M	6	NA	NA	NA	NA	NA
+Kharasch1993	all	NA	species	6	homo sapiens	6	NA	NA	NA	NA	NA
+Kharasch1993	all	NA	healthy	6	Y	6	NA	NA	NA	NA	NA
+Kharasch1993	all	NA	age	6	NA	6	24.0	40.0	yr	NA	NA

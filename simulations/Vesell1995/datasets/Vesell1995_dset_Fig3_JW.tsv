@@ -1,0 +1,9 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	time_unit	value	method	comments	value_unit	count_unit
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	0.9512998	hr	0.1079104328851144	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	1.4921184	hr	0.08176213729653219	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	2.0624325	hr	0.06282997758905401	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	2.6454892	hr	0.03892163069120075	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	2.9960737	hr	0.031737491153573945	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	3.7085621	hr	0.014526215498938427	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	4.120984	hr	0.01670979889124793	HPLC		mole/meter^3	dimensionless
+Vesell1995	1	JW	CZX500	all	Fig3_JW	concentration	chlorzoxazone	plasma	5.140654	hr	0.006703104505779664	HPLC		mole/meter^3	dimensionless

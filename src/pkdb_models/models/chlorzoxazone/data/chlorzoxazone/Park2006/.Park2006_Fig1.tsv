@@ -1,0 +1,37 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	sd	se	unit	method	comments
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	0.5	hr	6.6017876	9.66435	3.0625624	0.968467266039166	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	1.0	hr	9.092354	11.833168	2.740814	0.866721488287674	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	2.0	hr	8.067528	10.49851	2.430982	0.768744007087145	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	3.0	hr	4.6236343	6.0655413	1.441907	0.455971029414041	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	4.0	hr	2.5263157	3.1340616	0.6077459	0.192186128262893	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	5.0	hr	1.6921549	2.1807349	0.48858	0.154502561920507	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	6.0	hr	0.97715986	1.3704071	0.39324724	0.124355696197487	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	7.0	hr	0.60774577	0.98907644	0.38133067	0.120587345887804	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_chlorzoxazone	concentration	chlorzoxazone	plasma	8.0	hr	0.33366436	0.5481629	0.21449854	0.0678303941180734	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	0.5	hr	4.5759683	5.2552137	0.6792454	0.214796255419213	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	1.0	hr	8.139027	7.4001985	0.7388285	0.233638086024571	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	2.0	hr	7.6623635	6.899702	0.7626615	0.241174742372051	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	3.0	hr	4.313803	4.8023834	0.4885804	0.154502688411613	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	4.0	hr	2.3833168	2.693148	0.3098312	0.0979772282183161	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	5.0	hr	1.3227408	1.489573	0.1668322	0.0527569739056743	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	6.0	hr	0.774578	0.65541214	0.11916586	0.0376835536932753	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	7.0	hr	0.39324728	0.5124131	0.11916582	0.0376835410441646	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_chlorzoxazone	concentration	chlorzoxazone	plasma	8.0	hr	0.20258193	0.2979146	0.09533267	0.0301468372625204	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	1.5491647	2.632165	1.0830003	0.342474765464565	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	2.513338	2.0034566	0.5098814	0.161238656055538	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	2.4219368	1.8922925	0.5296443	0.167488233772552	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	1.6506898	2.0301366	0.3794468	0.119991613886238	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.96639955	1.2312253	0.26482575	0.0837452553062336	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.5508875	0.7682824	0.2173949	0.0687463035704539	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.3171973	0.49111032	0.17391302	0.0549961257958417	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.21788357	0.10326268	0.11462089	0.0362463079835617	µg/ml	HPLC	NA
+Park2006	10	CZX	all	Fig1_CZX_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.12252603	0.07905138	0.04347465	0.0137478914478639	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	1.6203072	1.7665523	0.1462451	0.046246761263909	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	2.8493137	2.6635358	0.1857779	0.0587481302922994	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	2.615609	2.8013797	0.1857707	0.0587458534523842	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	1.508401	1.3502946	0.1581064	0.0499976336649646	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.9347826	1.1166008	0.1818182	0.0574959632072027	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.57460654	0.72084796	0.14624142	0.0462455975457301	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.36857706	0.4594898	0.09091274	0.0287491326726696	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.24950774	0.15464246	0.09486528	0.0299990355669618	µg/ml	HPLC	NA
+Park2006	10	CZX, ASP	all	Fig1_CZX_ASP_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.16205534	0.2173913	0.05533596	0.0174987670111971	µg/ml	HPLC	NA

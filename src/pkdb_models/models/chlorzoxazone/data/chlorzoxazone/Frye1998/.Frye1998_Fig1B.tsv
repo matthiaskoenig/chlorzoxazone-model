@@ -1,0 +1,11 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	mean	pm	sd	se	unit	method	comments
+Frye1998	CZX250	16	all	Fig1B_recovery	recovery	6-hydroxychlorzoxazone	urine	2	hr	16.372736	29.913235	13.540499	3.38512475	percent	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_recovery	recovery	6-hydroxychlorzoxazone	urine	4	hr	42.80752	57.465813	14.658293	3.66457325	percent	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_recovery	recovery	6-hydroxychlorzoxazone	urine	6	hr	55.453785	69.49075	14.036965	3.50924125	percent	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_recovery	recovery	6-hydroxychlorzoxazone	urine	8	hr	61.391594	76.17411	14.782516	3.695629	percent	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_recovery	recovery	6-hydroxychlorzoxazone	urine	10	hr	63.106037	78.01277	14.906733	3.72668325	percent	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	40.93184	NA	33.8512475	8.462811875	mg	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	107.0188	NA	36.6457325	9.161433125	mg	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	138.6344625	NA	35.0924125	8.773103125	mg	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	153.478985	NA	36.95629	9.2390725	mg	HPLC	NA
+Frye1998	CZX250	16	all	Fig1B_cumulative amount	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	157.7650925	NA	37.2668325	9.316708125	mg	HPLC	NA

@@ -1,0 +1,49 @@
+[project]
+site_name = "Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone"
+site_url = "https://matthiaskoenig.github.io/chlorzoxazone-model/"
+site_description = "This repository provides the chlorzoxazone physiologically based pharmacokinetic (PBPK) model: the probe of CYP2E1, its oral absorption, its distribution in the tissues, its 6-hydroxylation by CYP2E1 and a second elimination in the liver, the glucuronidation of 6-hydroxychlorzoxazone and the renal excretion of the glucuronide, and the induction of CYP2E1 by ethanol."
+site_author = "Jonas Küttner and Matthias König"
+
+copyright = "Copyright &copy; 2022-2026 Jonas Küttner and Matthias König"
+
+# pages as `simulations.html`, so the reports which the docs workflow copies into
+# the site (`simulations/`, `fit/`) do not replace the pages of the same name
+use_directory_urls = false
+
+repo_url = "https://github.com/matthiaskoenig/chlorzoxazone-model"
+repo_name = "matthiaskoenig/chlorzoxazone-model"
+
+nav = [
+  { "Home" = "index.md" },
+  { "Running the model" = "running.md" },
+  { "Models" = "models.md" },
+  { "Simulations" = "simulations.md" },
+  { "Fit" = "fit.md" },
+  { "Release notes" = "release-notes.md" },
+]
+
+[project.theme]
+language = "en"
+features = [
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.top",
+  "search.highlight",
+  "toc.follow",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "teal"
+accent = "teal"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "teal"
+accent = "teal"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/matthiaskoenig/chlorzoxazone-model"

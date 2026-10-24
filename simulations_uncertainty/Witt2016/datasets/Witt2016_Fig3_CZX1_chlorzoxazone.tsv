@@ -1,0 +1,6 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit	count_unit
+Witt2016	1	Subject_1	Fig3_CZX1_chlorzoxazone	concentration	chlorzoxazone	plasma	CZX1	0.5	hr	2.5595881693795703e-07	HPLC MS/MS	mole/meter^3	dimensionless
+Witt2016	1	Subject_1	Fig3_CZX1_chlorzoxazone	concentration	chlorzoxazone	plasma	CZX1	1.0	hr	1.6304042816702055e-07	HPLC MS/MS	mole/meter^3	dimensionless
+Witt2016	1	Subject_1	Fig3_CZX1_chlorzoxazone	concentration	chlorzoxazone	plasma	CZX1	2.0	hr	6.999568294409059e-08	HPLC MS/MS	mole/meter^3	dimensionless
+Witt2016	1	Subject_1	Fig3_CZX1_chlorzoxazone	concentration	chlorzoxazone	plasma	CZX1	3.0	hr	3.697116359990564e-08	HPLC MS/MS	mole/meter^3	dimensionless
+Witt2016	1	Subject_1	Fig3_CZX1_chlorzoxazone	concentration	chlorzoxazone	plasma	CZX1	4.0	hr	2.5422642722340175e-08	HPLC MS/MS	mole/meter^3	dimensionless

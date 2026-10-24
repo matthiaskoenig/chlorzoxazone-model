@@ -1,0 +1,30 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	norm	mean	pm_norm	pm	se	sd	unit	method	comments
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	0.25	hr	119.367805	119.367805	55.056583	55.056583	64.311222	157.529678634852	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	0.5	hr	805.155	805.155	493.20804	493.20804	311.94696	764.110878812394	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	0.75	hr	2127.375	2127.375	1469.8516	1469.8516	657.5234	1610.59682393992	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	1.0	hr	2570.3748	2570.3748	1730.7059	1730.7059	839.6689	2056.76035788403	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	1.25	hr	2777.1814	2777.1814	2201.8152	2201.8152	575.3662	1409.35360524413	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	1.5	hr	3883.6318	3883.6318	2777.1814	2777.1814	1106.4504	2710.23890569834	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	1.75	hr	3384.4714	3384.4714	2378.9683	2378.9683	1005.5031	2462.96952978669	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	2.0	hr	3159.492	3159.492	2358.601	2358.601	800.891	1961.77428958736	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	3.0	hr	2420.2324	2420.2324	1715.8885	1715.8885	704.3439	1725.2831584419	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	4.0	hr	1372.1447	1372.1447	885.0254	885.0254	487.1193	1193.19372886172	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	5.0	hr	826.19415	826.19415	561.1037	561.1037	265.09045	649.336338184777	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	6.0	hr	355.73825	355.73825	252.21016	252.21016	103.52809	253.590994544934	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	7.0	hr	225.5371	225.5371	178.81116	178.81116	46.72594	114.454710751902	ng/ml	HPLC	NA
+Frye1998	CZX250	6	dose_250_and_750	Fig3A_CZX250	concentration	chlorzoxazone	plasma	8.0	hr	138.15564	138.15564	130.0856	130.0856	8.07004000000001	19.76748020385	ng/ml	HPLC	NA
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	0.25	hr	337.85114	1013.55342	590.81067	1772.43201	758.87859	1858.86532222276	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	0.5	hr	1508.2595	4524.7785	2073.2014	6219.6042	1694.8257	4151.45816795532	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	0.75	hr	1985.96	5957.88	2614.959	7844.877	1886.997	4622.17979616263	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	1.0	hr	2145.7458	6437.2374	2683.289	8049.867	1612.6296	3950.11966410854	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	1.25	hr	2825.3525	8476.0575	3355.4954	10066.4862	1590.4287	3895.73878727799	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	1.5	hr	3326.7676	9980.3028	3752.332	11256.996	1276.6932	3127.24689808103	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	1.75	hr	2949.4678	8848.4034	3355.4954	10066.4862	1218.0828	2983.68132446061	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	2.0	hr	3132.4421	9397.3263	3443.1763	10329.5289	932.2026	2283.42070689581	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	3.0	hr	2399.5117	7198.5351	2899.1804	8697.5412	1499.0061	3671.80006631941	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	4.0	hr	1657.877	4973.631	2164.2751	6492.8253	1519.1943	3721.25085514467	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	5.0	hr	931.88196	2795.64588	1495.3467	4486.0401	1690.39422	4140.60330314997	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	6.0	hr	885.0254	2655.0762	1521.2839	4563.8517	1908.7755	4675.52600852583	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	7.0	hr	510.46616	1531.39848	900.3764	2701.1292	1169.73072	2865.24340045838	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	8.0	hr	381.0695	1143.2085	611.4841	1834.4523	691.2438	1693.19459786247	ng/ml	HPLC	multiplied curve of 750 mg dose by 3
+Frye1998	CZX750	6	dose_250_and_750	Fig3A_CZX750	concentration	chlorzoxazone	plasma	9.0	hr	258.80054	776.40162	381.0695	1143.2085	366.80688	898.4896901423	ng/ml	HPLC	multiplied curve of 750 mg dose by 3

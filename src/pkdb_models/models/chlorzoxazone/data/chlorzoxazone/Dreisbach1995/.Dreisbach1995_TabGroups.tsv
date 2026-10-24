@@ -1,0 +1,4 @@
+study	name	parent	measurement_type	group_count	choice	count	comments
+Dreisbach1995	all	NA	sex	27	M	27	NA
+Dreisbach1995	all	NA	species	27	homo sapiens	32	NA
+Dreisbach1995	all	NA	healthy	27	Y	10	NA

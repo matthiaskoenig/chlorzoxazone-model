@@ -1,0 +1,14 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	0.33	hr	0.00966570122670441	2.4927745	0.005035728945506014	0.0011260232238414778	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	0.67	hr	0.02205368188251946	4.720194	0.005784216206652512	0.0012933900634630984	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	1.0	hr	0.03144724581269166	6.3245244	0.005852379098844066	0.0013086317495114293	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	1.33	hr	0.036758008964378384	7.213459	0.005784212078320364	0.0012933891403399678	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	1.67	hr	0.0405716820004718	7.848567	0.005716163010143901	0.0012781729061151566	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	2.0	hr	0.04016616242038216	7.791356	0.0057842740033026705	0.0012934029871869601	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	2.5	hr	0.03880936718565699	7.4459233	0.0051038393489030364	0.0011412531730385467	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	3.0	hr	0.037112502948808676	6.858182	0.0033344302901627742	0.0007456012795038334	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	4.0	hr	0.02752596720924746	5.140391	0.002790092002830856	0.0006238835381808327	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	5.0	hr	0.014332802547770699	3.2033687	0.00455944031611229	0.0010195218486180229	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	6.0	hr	0.007400258905402217	2.0740507	0.004831698513800424	0.0010804006323642424	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	7.0	hr	0.004006411889596602	1.5677807	0.00523975878744987	0.0011716456834439783	LC MS/MS		mole/meter^3	dimensionless
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	8.0	hr	0.0030621131163010135	1.37308	0.0050357873319179045	0.0011260362794400741	LC MS/MS		mole/meter^3	dimensionless

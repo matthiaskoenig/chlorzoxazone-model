@@ -1,0 +1,11 @@
+study	count	group	label	measurement	substance	tissue	intervention	time	time_unit	mean	pm	se	sd	unit	method
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	15	min	0.5251615	0.68098736	0.15582586	0.381693845730368	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	30	min	1.8003197	2.589295	0.7889753	1.93258690465928	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	45	min	4.010556	6.0949802	2.0844242	5.10577569750903	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	60	min	7.42858	10.759734	3.331154	8.15962755463115	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	90	min	8.089276	11.196405	3.107129	7.61088061500415	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	120	min	8.564944	11.0389595	2.4740155	6.0600755907366	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	180	min	5.60066	6.7208023	1.1201423	2.74377707430756	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	240	min	3.512995	4.262992	0.749997	1.83710995861816	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	300	min	2.3993518	2.944804	0.5454522	1.33607956907852	microg/ml	HPLC
+Mishin1998	6	alcoholic_drinking_stopped	Fig7_alcoholic_drinking_stopped	concentration	chlorzoxazone	plasma	CZX	360	min	0.99350214	1.2175272	0.22402506	0.548747086596386	microg/ml	HPLC

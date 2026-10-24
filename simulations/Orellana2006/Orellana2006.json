@@ -1,0 +1,384 @@
+{
+  "experiment_id": "Orellana2006",
+  "base_path": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone",
+  "data_path": [
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/chlorzoxazone",
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/alcohol",
+    "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/data/caffeine"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/models/output/models/chlorzoxazone_body_flat.xml",
+        "path": "/home/mkoenig/git/chlorzoxazone-model/src/pkdb_models/models/chlorzoxazone/models/output/models/chlorzoxazone_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "Aurine_czxoglu",
+        "Cve_czx6oh_all",
+        "KI__f_renal_function",
+        "LI__cyp2e1",
+        "LI__f_cyp2e1",
+        "LI__f_czxother",
+        "LI__kd_cyp2e1",
+        "PODOSE_czx",
+        "[Cve_czx6oh]",
+        "[Cve_czx]",
+        "[Cve_czxoglu]",
+        "[Cve_ethanol]",
+        "[Cveplasma_czx]",
+        "[LI__czx6oh]",
+        "[LI__czx]",
+        "[LI__ethanol]",
+        "f_cirrhosis",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_sim": {
+      "sid": "model__sim",
+      "name": null,
+      "model": "model",
+      "simulation": "sim",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "sim": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "min",
+        "start": 0.0,
+        "end": 420,
+        "preinit_changes": {
+          "application_form": {
+            "value": 0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_czx": {
+            "value": 500,
+            "unit": "milligram"
+          },
+          "BW": {
+            "value": 112.97959999999999,
+            "unit": "kilogram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_cyp2e1",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "values": {
+            "LI__f_cyp2e1": {
+              "value": [
+                0.2,
+                0.29000000000000004,
+                0.38,
+                0.47000000000000003,
+                0.56,
+                0.6499999999999999,
+                0.74,
+                0.8300000000000001,
+                0.9199999999999999,
+                1.01,
+                1.0999999999999999,
+                1.19,
+                1.28,
+                1.3699999999999999,
+                1.46,
+                1.5499999999999998,
+                1.64,
+                1.73,
+                1.8199999999999998,
+                1.91,
+                2.0
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    }
+  },
+  "data": {
+    "task_sim__time": {
+      "type": "TASK",
+      "sid": "task_sim__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__PODOSE_czx": {
+      "type": "TASK",
+      "sid": "task_sim__PODOSE_czx",
+      "index": "PODOSE_czx",
+      "selection": "PODOSE_czx",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__Cveplasma_czx": {
+      "type": "TASK",
+      "sid": "task_sim__conc__Cveplasma_czx",
+      "index": "Cveplasma_czx",
+      "selection": "[Cveplasma_czx]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__Cve_czx": {
+      "type": "TASK",
+      "sid": "task_sim__conc__Cve_czx",
+      "index": "Cve_czx",
+      "selection": "[Cve_czx]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__Cve_czx6oh": {
+      "type": "TASK",
+      "sid": "task_sim__conc__Cve_czx6oh",
+      "index": "Cve_czx6oh",
+      "selection": "[Cve_czx6oh]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__Aurine_czxoglu": {
+      "type": "TASK",
+      "sid": "task_sim__Aurine_czxoglu",
+      "index": "Aurine_czxoglu",
+      "selection": "Aurine_czxoglu",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__LI__czx": {
+      "type": "TASK",
+      "sid": "task_sim__conc__LI__czx",
+      "index": "LI__czx",
+      "selection": "[LI__czx]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__LI__czx6oh": {
+      "type": "TASK",
+      "sid": "task_sim__conc__LI__czx6oh",
+      "index": "LI__czx6oh",
+      "selection": "[LI__czx6oh]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__Cve_czx6oh_all": {
+      "type": "TASK",
+      "sid": "task_sim__Cve_czx6oh_all",
+      "index": "Cve_czx6oh_all",
+      "selection": "Cve_czx6oh_all",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__Cve_czxoglu": {
+      "type": "TASK",
+      "sid": "task_sim__conc__Cve_czxoglu",
+      "index": "Cve_czxoglu",
+      "selection": "[Cve_czxoglu]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__Cve_ethanol": {
+      "type": "TASK",
+      "sid": "task_sim__conc__Cve_ethanol",
+      "index": "Cve_ethanol",
+      "selection": "[Cve_ethanol]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__LI__cyp2e1": {
+      "type": "TASK",
+      "sid": "task_sim__LI__cyp2e1",
+      "index": "LI__cyp2e1",
+      "selection": "LI__cyp2e1",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__conc__LI__ethanol": {
+      "type": "TASK",
+      "sid": "task_sim__conc__LI__ethanol",
+      "index": "LI__ethanol",
+      "selection": "[LI__ethanol]",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__LI__kd_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_sim__LI__kd_cyp2e1",
+      "index": "LI__kd_cyp2e1",
+      "selection": "LI__kd_cyp2e1",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__KI__f_renal_function": {
+      "type": "TASK",
+      "sid": "task_sim__KI__f_renal_function",
+      "index": "KI__f_renal_function",
+      "selection": "KI__f_renal_function",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__f_cirrhosis": {
+      "type": "TASK",
+      "sid": "task_sim__f_cirrhosis",
+      "index": "f_cirrhosis",
+      "selection": "f_cirrhosis",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__LI__f_cyp2e1": {
+      "type": "TASK",
+      "sid": "task_sim__LI__f_cyp2e1",
+      "index": "LI__f_cyp2e1",
+      "selection": "LI__f_cyp2e1",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sim__LI__f_czxother": {
+      "type": "TASK",
+      "sid": "task_sim__LI__f_czxother",
+      "index": "LI__f_czxother",
+      "selection": "LI__f_czxother",
+      "unit": null,
+      "task": "task_sim",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {}
+}

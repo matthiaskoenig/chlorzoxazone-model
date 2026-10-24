@@ -1,0 +1,17 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	min	max	unit	time	time_unit	method	comments
+LaMaza2000	10	nonalcoholics_nw	CZX750	Tab1_nonalcoholics_nw	auc_inf	chlorzoxazone	serum	85.65	39.04	12.3455319852974	30.3	153.3	µg/ml*hr	NA	NA	HPLC	NA
+LaMaza2000	11	nonalcoholics_obese	CZX750	Tab1_nonalcoholics_obese	auc_inf	chlorzoxazone	serum	45.18	20.97	6.3226928957957	23.2	93.6	µg/ml*hr	NA	NA	HPLC	NA
+LaMaza2000	9	alcoholics_nw	CZX750	Tab1_alcoholics_nw	auc_inf	chlorzoxazone	serum	43.03	29.2	9.73333333333333	8.6	102.5	µg/ml*hr	NA	NA	HPLC	NA
+LaMaza2000	8	alcoholics_obese	CZX750	Tab1_alcoholics_obese	auc_inf	chlorzoxazone	serum	34.55	11.91	4.21082088196589	16.4	53.6	µg/ml*hr	NA	NA	HPLC	NA
+LaMaza2000	10	nonalcoholics_nw	CZX750	Tab1_nonalcoholics_nw	clearance	chlorzoxazone	serum	10.79	5.76	1.82147193225699	4.9	24.8	l/hr	NA	NA	HPLC	NA
+LaMaza2000	11	nonalcoholics_obese	CZX750	Tab1_nonalcoholics_obese	clearance	chlorzoxazone	serum	19.59	7.87	2.372894281827	8.0	32.4	l/hr	NA	NA	HPLC	NA
+LaMaza2000	9	alcoholics_nw	CZX750	Tab1_alcoholics_nw	clearance	chlorzoxazone	serum	28.36	25.04	8.34666666666667	7.3	87.8	l/hr	NA	NA	HPLC	NA
+LaMaza2000	8	alcoholics_obese	CZX750	Tab1_alcoholics_obese	clearance	chlorzoxazone	serum	24.62	10.35	3.65927759264038	14.0	45.9	l/hr	NA	NA	HPLC	NA
+LaMaza2000	10	nonalcoholics_nw	CZX750	Tab1_nonalcoholics_nw	cmax	chlorzoxazone	serum	18.14	6.1	1.92898937270271	11.0	27.5	µg/ml	NA	NA	HPLC	NA
+LaMaza2000	11	nonalcoholics_obese	CZX750	Tab1_nonalcoholics_obese	cmax	chlorzoxazone	serum	12.19	6.28	1.89349124394836	7.6	29.8	µg/ml	NA	NA	HPLC	NA
+LaMaza2000	9	alcoholics_nw	CZX750	Tab1_alcoholics_nw	cmax	chlorzoxazone	serum	11.3	7.8	2.6	1.9	28.4	µg/ml	NA	NA	HPLC	NA
+LaMaza2000	8	alcoholics_obese	CZX750	Tab1_alcoholics_obese	cmax	chlorzoxazone	serum	8.89	3.67	1.29754094347731	4.6	16.2	µg/ml	NA	NA	HPLC	NA
+LaMaza2000	10	nonalcoholics_nw	CZX750	Tab1_nonalcoholics_nw	thalf	chlorzoxazone	serum	0.6	0.17	0.0537587202228624	0.35	0.99	hr	NA	NA	HPLC	NA
+LaMaza2000	11	nonalcoholics_obese	CZX750	Tab1_nonalcoholics_obese	thalf	chlorzoxazone	serum	0.72	0.24	0.0723627226986633	0.17	1.05	hr	NA	NA	HPLC	NA
+LaMaza2000	9	alcoholics_nw	CZX750	Tab1_alcoholics_nw	thalf	chlorzoxazone	serum	0.71	0.13	0.0433333333333333	0.48	0.91	hr	NA	NA	HPLC	NA
+LaMaza2000	8	alcoholics_obese	CZX750	Tab1_alcoholics_obese	thalf	chlorzoxazone	serum	0.71	0.15	0.0530330085889911	0.43	0.89	hr	NA	NA	HPLC	NA

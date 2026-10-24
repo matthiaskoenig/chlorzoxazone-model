@@ -1,0 +1,16 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	unit	method	comments
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	0.13594806	hr	16.401531	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	0.3334656	hr	21.187426	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	0.5949335	hr	22.436985	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	0.85735375	hr	22.88265	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	1.3203866	hr	25.501553	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	1.8545126	hr	18.55491	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	2.9334307	hr	15.836082	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	3.9203994	hr	10.020978	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	4.966652	hr	4.608622	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_chlorzoxazone	concentration	chlorzoxazone	plasma	6.007857	hr	3.4569068	µg/ml	HPLC	NA
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_6-hydroxychlorzoxazone	excretion rate	6-hydroxychlorzoxazone	urine	0.9688312	hr	0.2665537272941732	mmole/hr	HPLC	45.20 mg/h 6-OH-CZX glucuronide as chlorzoxazone equivalents (mmole/h with Mr chlorzoxazone)
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_6-hydroxychlorzoxazone	excretion rate	6-hydroxychlorzoxazone	urine	2.7766235	hr	0.5808456593536216	mmole/hr	HPLC	98.49 mg/h 6-OH-CZX glucuronide as chlorzoxazone equivalents (mmole/h with Mr chlorzoxazone)
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_6-hydroxychlorzoxazone	excretion rate	6-hydroxychlorzoxazone	urine	4.755844	hr	0.3505135055437607	mmole/hr	HPLC	59.43 mg/h 6-OH-CZX glucuronide as chlorzoxazone equivalents (mmole/h with Mr chlorzoxazone)
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_6-hydroxychlorzoxazone	excretion rate	6-hydroxychlorzoxazone	urine	6.812987	hr	0.24277751828261362	mmole/hr	HPLC	41.17 mg/h 6-OH-CZX glucuronide as chlorzoxazone equivalents (mmole/h with Mr chlorzoxazone)
+Desiraju1983	1	Subject1	CZX, AC	all	Fig2_6-hydroxychlorzoxazone	excretion rate	6-hydroxychlorzoxazone	urine	8.807793	hr	0.12612541873083255	mmole/hr	HPLC	21.39 mg/h 6-OH-CZX glucuronide as chlorzoxazone equivalents (mmole/h with Mr chlorzoxazone)

@@ -1,0 +1,13 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Bedada2016	12	all	CZX250	Tab2_CZX250	cmax	6-hydroxychlorzoxazone	plasma	0.31	0.04	0.0115470053837925	µg/ml	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab2_CZX250	tmax	6-hydroxychlorzoxazone	plasma	3.42	0.52	0.150111069989303	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab2_CZX250	kel	6-hydroxychlorzoxazone	plasma	0.37	0.08	0.023094010767585	1/hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab2_CZX250	thalf	6-hydroxychlorzoxazone	plasma	2.64	0.55	0.158771324027147	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab2_CZX250	auc_end	6-hydroxychlorzoxazone	plasma	0.95	0.19	0.0548482755730145	µg/ml*hr	8.0	hr	HPLC	units in table seem to make no sense
+Bedada2016	12	all	CZX250	Tab2_CZX250	auc_inf	6-hydroxychlorzoxazone	plasma	1.35	0.23	0.066395280956807	µg/ml*hr	NA	NA	HPLC	units in table seem to make no sense
+Bedada2016	12	all	RSV500,CZX250	Tab2_RSV500,CZX250	cmax	6-hydroxychlorzoxazone	plasma	0.17	0.03	0.00866025403784439	µg/ml	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab2_RSV500,CZX250	tmax	6-hydroxychlorzoxazone	plasma	3.66	0.5	0.144337567297406	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab2_RSV500,CZX250	kel	6-hydroxychlorzoxazone	plasma	0.42	0.1	0.0288675134594813	1/hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab2_RSV500,CZX250	thalf	6-hydroxychlorzoxazone	plasma	1.86	0.48	0.13856406460551	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab2_RSV500,CZX250	auc_end	6-hydroxychlorzoxazone	plasma	0.71	0.18	0.0519615242270663	µg/ml*hr	8.0	hr	HPLC	units in table seem to make no sense
+Bedada2016	12	all	RSV500,CZX250	Tab2_RSV500,CZX250	auc_inf	6-hydroxychlorzoxazone	plasma	0.84	0.24	0.0692820323027551	µg/ml*hr	NA	NA	HPLC	units in table seem to make no sense

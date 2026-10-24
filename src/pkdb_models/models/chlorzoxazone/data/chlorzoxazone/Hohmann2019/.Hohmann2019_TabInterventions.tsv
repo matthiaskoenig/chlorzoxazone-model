@@ -1,0 +1,10 @@
+study	form	name	measurement	substance	value	unit	time	time_unit	route	application	comments
+Hohmann2019	tablet	CZX500	dosing	chlorzoxazone	500.0	mg	0	hr	oral	single dose	"crushed and stirred chlorzoxazone 250‐mg tablets (Paraflex)
+in 200 mL tap water."
+Hohmann2019	tablet	CZX250	dosing	chlorzoxazone	250.0	mg	0	hr	oral	single dose	"crushed and stirred chlorzoxazone 250‐mg tablets (Paraflex)
+in 200 mL tap water."
+Hohmann2019	solution	CZX50	dosing	chlorzoxazone	50.0	mg	0	hr	oral	single dose	NA
+Hohmann2019	solution	CZX5	dosing	chlorzoxazone	5.0	mg	0	hr	oral	single dose	NA
+Hohmann2019	solution	CZX05	dosing	chlorzoxazone	0.5	mg	0	hr	oral	single dose	NA
+Hohmann2019	solution	CZX01	dosing	chlorzoxazone	0.1	mg	0	hr	oral	single dose	NA
+Hohmann2019	solution	CZX005	dosing	chlorzoxazone	0.05	mg	0	hr	oral	single dose	NA

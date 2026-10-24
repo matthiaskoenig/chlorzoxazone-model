@@ -1,0 +1,10 @@
+study	count	individual	group	intervention	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5286614	0.007955461306316015	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0197264	0.013142663828411295	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0314202	0.008563860745850397	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.027617	0.003273350398792843	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.001283	0.001961140870877344	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.986058	0.0009125014550549687	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.9972034	0.0005389368937270963	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0185947	0.0002118260185384781	hr	HPLC		mole/meter^3	dimensionless
+OShea1994	1	Healthy_5	healthy	CZX250	Tab1_Healthy_5_healthy_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.007763	0.00016338616081051948	hr	HPLC		mole/meter^3	dimensionless

@@ -1,0 +1,21 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	sd	se	unit	method	comments
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	0.25	hr	0.49065107	0.26749906	0.22315201	0.064418436521853	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	0.5	hr	0.79162294	0.5126829	0.27894004	0.0805230535908825	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	1.0	hr	1.7060031	1.2820143	0.4239888	0.122395023906693	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	2.0	hr	2.6867504	1.8276032	0.8591472	0.248014433596757	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	3.0	hr	2.585234	1.7149174	0.8703166	0.2512387616451	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	4.0	hr	1.7249769	1.1224428	0.6025341	0.173936612415464	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	5.0	hr	0.9651384	0.49650735	0.46863105	0.135282131434058	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	6.0	hr	0.5288821	0.37265208	0.15623002	0.0450997220512503	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	7.0	hr	0.349227	0.2265052	0.1227218	0.0354267321327177	µg/ml	HPLC	NA
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	8.0	hr	0.16959554	NA	NA	NA	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	0.25	hr	1.1266462	1.639884	0.5132378	0.148158990994146	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	0.5	hr	1.7958188	2.576851	0.7810322	0.225464575457883	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	1.0	hr	2.9668238	4.0267725	1.0599487	0.305980833636097	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	2.0	hr	4.739761	5.7997327	1.0599717	0.305987473164193	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	3.0	hr	3.5894063	4.5043178	0.9149115	0.264112200404842	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	4.0	hr	2.5394583	3.2312295	0.6917712	0.199697144268815	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	5.0	hr	1.7015283	2.214778	0.5132497	0.148162426228247	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	6.0	hr	1.0197929	1.3322294	0.3124365	0.0901926486898323	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	7.0	hr	0.65047044	0.80668867	0.15621823	0.0450963185714134	µg/ml	HPLC	NA
+Bedada2017	12	PIP20, CZX250	all	Fig2_chlorzoxazone_PIP20_CZX250	concentration	chlorzoxazone	plasma	8.0	hr	0.43736616	0.57126915	0.13390299	0.0386544636608979	µg/ml	HPLC	NA

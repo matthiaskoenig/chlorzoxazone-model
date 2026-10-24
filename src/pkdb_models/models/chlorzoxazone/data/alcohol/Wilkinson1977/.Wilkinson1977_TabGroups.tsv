@@ -1,0 +1,4 @@
+study	name	parent	measurement_type	group_count	choice	count	comments
+Wilkinson1977	all	NA	sex	8	M	8	NA
+Wilkinson1977	all	NA	species	8	homo sapiens	8	NA
+Wilkinson1977	all	NA	healthy	8	Y	8	NA

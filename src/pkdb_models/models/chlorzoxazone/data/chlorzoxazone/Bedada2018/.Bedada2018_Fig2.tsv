@@ -1,0 +1,21 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	sd	se	unit	method	comments
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.25	hr	0.060433377	0.076877795	0.016444418	0.00474709457948336	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.07908904	0.10886677	0.02977773	0.008596090215678	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.09417773	0.1212888	0.02711107	0.00782629178125939	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.117688894	0.15013328	0.032444386	0.00936588749539606	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.17275557	0.23808837	0.0653328	0.018859954833456	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.17759965	0.22071026	0.04311061	0.0124449611442145	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.13311136	0.16155532	0.02844396	0.00821106398140947	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.113955475	0.1446221	0.030666625	0.00885269209944365	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.089022264	0.117911115	0.028888851	0.0083394929507145	µg/ml	HPLC	NA
+Bedada2018	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.055200182	0.065422826	0.010222644	0.00295102313261486	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.25	hr	0.03127063	0.01776352	0.01350711	0.00389916679723694	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.04619055	0.026996234	0.019194316	0.00554092175475537	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.067144126	0.045461945	0.021682181	0.0062591065184841	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.0884363	0.06533176	0.02310454	0.00666970619425124	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.11612573	0.07951408	0.03661165	0.0105688729914882	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.124620855	0.09902844	0.025592415	0.00738789384473131	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.09046222	0.06984611	0.02061611	0.00595135832907147	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.073364645	0.051682465	0.02168218	0.00625910622980896	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.05306886	0.030675216	0.022393644	0.00646448819576832	µg/ml	HPLC	NA
+Bedada2018	12	QRC1000, CZX250	all	Fig2_6-hydroxychlorzoxazone_QRC1000_CZX250	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.03170644	0.022464454	0.009241986	0.00266793155247338	µg/ml	HPLC	NA

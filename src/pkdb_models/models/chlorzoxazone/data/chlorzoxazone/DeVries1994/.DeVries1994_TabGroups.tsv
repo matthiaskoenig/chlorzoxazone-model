@@ -1,0 +1,5 @@
+study	name	parent	measurement_type	group_count	choice	count	comments
+DeVries1994	all	NA	sex	17	MF	17	NA
+DeVries1994	all	NA	species	17	homo sapiens	17	NA
+DeVries1994	all	NA	healthy	17	Y	17	NA
+DeVries1994	all	NA	fasting	17	Y	17	NA

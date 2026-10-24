@@ -1,0 +1,32 @@
+study	name	parent	measurement_type	group_count	choice	count	value	mean	sd	unit	substance	comments
+Wang2003	all	NA	sex	32	MF	32	NA	NA	NA	NA	NA	NA
+Wang2003	all	NA	species	32	homo sapiens	32	NA	NA	NA	NA	NA	NA
+Wang2003	all	NA	healthy	32	Y	10	NA	NA	NA	NA	NA	NA
+Wang2003	all	NA	healthy	32	N	22	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	sex	10	M	6	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	sex	10	F	4	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	healthy	10	Y	10	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	ethnicity	10	caucasian	6	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	ethnicity	10	hispanic	2	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	ethnicity	10	asian	2	NA	NA	NA	NA	NA	NA
+Wang2003	healthy	all	age	10	NA	10	NA	32.0	4.0	yr	NA	NA
+Wang2003	healthy	all	weight	10	NA	10	NA	74.1	10.5	kg	NA	NA
+Wang2003	healthy	all	bmi	10	NA	10	NA	26.6	3.5	kg/m^2	NA	NA
+Wang2003	DT1	all	sex	14	M	8	NA	NA	NA	NA	NA	NA
+Wang2003	DT1	all	sex	14	F	6	NA	NA	NA	NA	NA	NA
+Wang2003	DT1	all	healthy	14	N	14	NA	NA	NA	NA	NA	NA
+Wang2003	DT1	all	ethnicity	14	caucasian	11	NA	NA	NA	NA	NA	NA
+Wang2003	DT1	all	ethnicity	14	african american	3	NA	NA	NA	NA	NA	NA
+Wang2003	DT1	all	age	14	NA	14	NA	33.0	8.0	yr	NA	NA
+Wang2003	DT1	all	weight	14	NA	14	NA	77.2	12.3	kg	NA	NA
+Wang2003	DT1	all	bmi	14	NA	14	NA	25.9	3.9	kg/m^2	NA	NA
+Wang2003	DT1	all	disease	14	t1dm	14	NA	NA	NA	NA	NA	NA
+Wang2003	DT2	all	sex	8	M	5	NA	NA	NA	NA	NA	NA
+Wang2003	DT2	all	sex	8	F	3	NA	NA	NA	NA	NA	NA
+Wang2003	DT2	all	healthy	8	N	8	NA	NA	NA	NA	NA	NA
+Wang2003	DT2	all	ethnicity	8	caucasian	4	NA	NA	NA	NA	NA	NA
+Wang2003	DT2	all	ethnicity	8	african american	4	NA	NA	NA	NA	NA	NA
+Wang2003	DT2	all	age	8	NA	8	NA	46.0	9.0	yr	NA	NA
+Wang2003	DT2	all	weight	8	NA	8	NA	106.6	17.6	kg	NA	NA
+Wang2003	DT2	all	bmi	8	NA	8	NA	37.5	6.4	kg/m^2	NA	NA
+Wang2003	DT2	all	disease	8	t2dm	8	NA	NA	NA	NA	NA	NA

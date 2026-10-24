@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	method	comments	mean_unit	count_unit
+Burckart1998	16	healthy	CZX250	Tab2_healthy_cumulative amount_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	0.0008547100668247468	0.0001999353308902781	4.998383272256953e-05	8.0	hr	HPLC		mole	dimensionless

@@ -1,0 +1,10 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	28.373266	0.00020621527807717177	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	59.2686	0.00041243053459797367	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	88.9029	0.002062152726880793	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	120.42875	0.0030932291442121143	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	189.78563	0.00783618075016167	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	240.22699	0.007217534490191851	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	300.1261	0.006392673528777753	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	360.0252	0.005361597111446431	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	479.82346	0.0022683680750161667	min	HPLC		mole/meter^3	dimensionless

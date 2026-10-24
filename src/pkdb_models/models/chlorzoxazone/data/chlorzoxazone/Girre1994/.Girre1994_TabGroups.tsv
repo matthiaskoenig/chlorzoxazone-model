@@ -1,0 +1,14 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	sd	min	unit	substance	comments
+Girre1994	all	NA	sex	35	M	35	NA	NA	NA	NA	NA	NA
+Girre1994	all	NA	species	35	homo sapiens	35	NA	NA	NA	NA	NA	NA
+Girre1994	all	NA	healthy	35	Y	35	NA	NA	NA	NA	NA	NA
+Girre1994	alcoholics	all	alcohol amount	15	NA	15	333.0	191.0	NA	g/day	NA	NA
+Girre1994	alcoholics	all	alcohol duration	15	NA	15	15.7	10.7	NA	yr	NA	NA
+Girre1994	alcoholics	all	age	15	NA	15	44.8	9.0	NA	yr	NA	NA
+Girre1994	alcoholics	all	smoking amount (cigarettes)	15	NA	15	21.0	11.0	NA	1/day	NA	NA
+Girre1994	healthy	all	age	20	NA	20	37.0	6.0	NA	yr	NA	NA
+Girre1994	healthy	all	abstinence alcohol	20	NA	20	1.5	NA	NA	day	NA	NA
+Girre1994	healthy	all	alcohol amount	20	NA	20	NA	NA	100.0	g/day	NA	NA
+Girre1994	healthy_smoke	healthy	smoking	20	Y	10	NA	NA	NA	NA	NA	NA
+Girre1994	healthy_smoke	healthy	smoking amount (cigarettes)	20	NA	10	18.0	9.0	NA	1/day	NA	NA
+Girre1994	healthy_no_smoke	healthy	smoking	20	N	10	NA	NA	NA	NA	NA	NA

@@ -1,55 +1,34 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7760665.svg)](https://doi.org/10.5281/zenodo.7760665)
+[![Release](https://img.shields.io/github/v/release/matthiaskoenig/chlorzoxazone-model)](https://github.com/matthiaskoenig/chlorzoxazone-model/releases)
+[![Documentation](https://github.com/matthiaskoenig/chlorzoxazone-model/actions/workflows/docs.yml/badge.svg)](https://matthiaskoenig.github.io/chlorzoxazone-model/)
+[![CI](https://github.com/matthiaskoenig/chlorzoxazone-model/actions/workflows/ci.yml/badge.svg)](https://github.com/matthiaskoenig/chlorzoxazone-model/actions/workflows/ci.yml)
+[![Docker](https://img.shields.io/docker/v/matthiaskoenig/chlorzoxazone?sort=semver&label=docker)](https://hub.docker.com/r/matthiaskoenig/chlorzoxazone)
+[![Python](https://img.shields.io/badge/python-3.14%20%7C%203.15-blue)](https://www.python.org)
+[![Code license: MIT](https://img.shields.io/badge/code%20license-MIT-blue)](https://opensource.org/license/MIT)
+[![Model license: CC BY-SA 4.0](https://img.shields.io/badge/model%20license-CC%20BY--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# chlorzoxazone model
-This repository provides the chlorzoxazone physiologically based pharmacokinetics (PBPK) model.
+# Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone
 
-The model is distributed as [SBML](http://sbml.org) available from [`chlorzoxazone_body_flat.xml`](./models/chlorzoxazone_body_flat.xml) with 
-corresponding SBML4humans model report at [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_body_flat.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_body_flat.xml)
+This repository provides the chlorzoxazone physiologically based pharmacokinetic (PBPK) model: the probe of CYP2E1, its oral absorption, its distribution in the tissues, its 6-hydroxylation by CYP2E1 and a second elimination in the liver, the glucuronidation of 6-hydroxychlorzoxazone and the renal excretion of the glucuronide, and the induction of CYP2E1 by ethanol.
 
-### Comp submodels
-The liver submodel is available from [`chlorzoxazone_liver.xml`](./models/chlorzoxazone_liver.xml) with corresponding SBML4humans report at
-[https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_liver.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_liver.xml)
+Documentation: <https://matthiaskoenig.github.io/chlorzoxazone-model/>
 
-The kidney submodel is available from [`chlorzoxazone_kidney.xml`](./models/chlorzoxazone_kidney.xml) with corresponding SBML4humans report at
-[https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_kidney.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_kidney.xml)
+## Quick start
 
-The intestine submodel is available from [`chlorzoxazone_intestine.xml`](./models/chlorzoxazone_intestine.xml) with corresponding SBML4humans report at
-[https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_intestine.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_intestine.xml)
-
-The whole-body submodel is available from [`chlorzoxazone_body.xml`](./models/chlorzoxazone_body.xml) with corresponding SBML4humans report at
-[https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/chlorzoxazone-model/main/models/chlorzoxazone_body.xml)
+```bash
+git clone https://github.com/matthiaskoenig/chlorzoxazone-model.git && cd chlorzoxazone-model
+uv sync
+uv run run_simulation pkdb_models.models.chlorzoxazone --action all -r results
+```
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7760665.svg)](https://doi.org/10.5281/zenodo.7760665)
 
-> Küttner, Jonas, & König, Matthias. (2023). 
-> *Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone.*   
-> Zenodo. [https://doi.org/10.5281/zenodo.7760665](https://doi.org/10.5281/zenodo.7760665)
+> Küttner, J. & König, M. (2026). *Physiologically based pharmacokinetic (PBPK) model of chlorzoxazone*. Zenodo. https://doi.org/10.5281/zenodo.7760665
 
 ## License
 
-* Source Code: [LGPLv3](http://opensource.org/licenses/LGPL-3.0)
-* Documentation: [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-* Models: [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+* Source Code: [MIT](https://opensource.org/license/MIT)
+* Documentation: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+* Models: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The chlorzoxazone-model source is released under both the GPL and LGPL licenses version 2 or
-later. You may choose which license you choose to use the software under.
-
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU General Public License or the GNU Lesser General Public
-License as published by the Free Software Foundation, either version 2 of the
-License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-Funding
-=======
-Matthias König were supported by the Federal Ministry of Education and Research (BMBF, Germany)
-within the research network Systems Medicine of the Liver (LiSyM, grant number 031L0054)
-and by the German Research Foundation (DFG) within the Research Unit Programme FOR 5151
-[QuaLiPerF](https://qualiperf.de) (Quantifying Liver Perfusion-Function Relationship in Complex Resection -
-A Systems Medicine Approach) by grant number 436883643.
-
-© 2021-2023 Jonas Küttner & Matthias König, [Systems Medicine of the Liver](https://livermetabolism.com)
+&copy; 2022-2026 Jonas Küttner and Matthias König

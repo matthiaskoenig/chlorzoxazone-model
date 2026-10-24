@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" level="3" version="2" comp:required="true">
+<sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" xmlns:distrib="http://www.sbml.org/sbml/level3/version1/distrib/version1" level="3" version="2" comp:required="true" distrib:required="true">
   <notes>
     <body xmlns="http://www.w3.org/1999/xhtml">
       <p>Created with <a href="https://github.com/matthiaskoenig/sbmlutils">https://github.com/matthiaskoenig/sbmlutils</a>.
@@ -11,29 +11,27 @@
     <notes>
       <body xmlns="http://www.w3.org/1999/xhtml">
         <h1>Model for chlorzoxazone elimination in the liver</h1>
-        <p>Model for hepatic metabolism of chlorzoxazone via CYP2E1 in
-in <a href="http://sbml.org">SBML</a>.</p>
+        <p>Model for the hepatic metabolism of chlorzoxazone via CYP2E1 and a second,
+CYP2E1 independent pathway, the glucuronidation of 6-hydroxychlorzoxazone,
+the elimination of ethanol and the turnover of CYP2E1 encoded in
+<a href="http://sbml.org">SBML</a> format.</p>
+        <p>The content of this model has been carefully created in a manual research effort.</p>
         <h2>Terms of use</h2>
-        <p>The content of this model has been carefully created in a manual research effort.
-This file has been created by <a href="https://livermetabolism.com">Matthias König</a>
-using <a href="https://github.com/matthiaskoenig/sbmlutils">sbmlutils</a>.
-For questions contact <a href="mailto:koenigmx@hu-berlin.de">koenigmx@hu-berlin.de</a>. Copyright © 2023 Matthias König.</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+        <p>Copyright © 2026 <a href="https://livermetabolism.com" title="Matthias König" target="_blank">Matthias König</a>.</p>
+        <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png"/>
         </a>
-        <br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-<p>Redistribution and use of any part of this model, with or without modification,
-are permitted provided that the following conditions are met:</p>
-        <ol>
-          <li>Redistributions of this SBML file must retain the above copyright notice, this
-list of conditions and the following disclaimer.</li>
-          <li>Redistributions in a different form must reproduce the above copyright notice,
-this list of conditions and the following disclaimer in the documentation and/or
-other materials provided with the distribution.</li>
-        </ol>
-        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.</p></body>
+        <br/>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p>Redistribution and use of any part of this model, with or without modification, are permitted provided
+that the following conditions are met:</p>
+        <ul>
+          <li>Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+          <li>Redistributions in a different form must reproduce the above copyright notice, this list of conditions
+and the following disclaimer in the documentation and/or other materials provided
+with the distribution.</li>
+        </ul>
+        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p></body>
       </notes>
     <annotation>
       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -59,10 +57,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
             </rdf:Bag>
           </dcterms:creator>
           <dcterms:created rdf:parseType="Resource">
-            <dcterms:W3CDTF>1900-01-01T00:00:00Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2026-10-24T22:18:31Z</dcterms:W3CDTF>
           </dcterms:created>
           <dcterms:modified rdf:parseType="Resource">
-            <dcterms:W3CDTF>1900-01-01T00:00:00Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2026-10-24T22:18:31Z</dcterms:W3CDTF>
           </dcterms:modified>
         </rdf:Description>
       </rdf:RDF>
@@ -169,31 +167,29 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </unitDefinition>
     </listOfUnitDefinitions>
     <listOfCompartments>
-      <compartment metaid="meta_Vext" sboTerm="SBO:0000290" id="Vext" name="plasma" spatialDimensions="3" size="4" units="litre" constant="true">
+      <compartment metaid="meta_Vext" sboTerm="SBO:0000290" id="Vext" name="plasma" size="4" units="litre" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_Vext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C13356"/>
-                  <rdf:li rdf:resource="http://identifiers.org/BTO:0000131"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13356"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000131"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </compartment>
-      <compartment metaid="meta_Vli" sboTerm="SBO:0000290" id="Vli" name="liver" spatialDimensions="3" size="1.5" units="litre" constant="true">
+      <compartment metaid="meta_Vli" sboTerm="SBO:0000290" id="Vli" name="liver" size="1.5" units="litre" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_Vli">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="http://identifiers.org/FMA:7197"/>
-                  <rdf:li rdf:resource="http://identifiers.org/BTO:0000759"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C12392"/>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:7197"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000759"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C12392"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -208,11 +204,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_czx_ext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/2733"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:3655"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C28926"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/TZFWDZFKRBELIQ-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:2733"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:3655"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C28926"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:TZFWDZFKRBELIQ-UHFFFAOYSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -225,71 +220,68 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_czx">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/2733"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:3655"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C28926"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/TZFWDZFKRBELIQ-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:2733"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:3655"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C28926"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:TZFWDZFKRBELIQ-UHFFFAOYSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_czx6oh" sboTerm="SBO:0000247" id="czx6oh" name="6-hydroxy-chlorzoxazone (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_czx6oh" sboTerm="SBO:0000247" id="czx6oh" name="6-hydroxychlorzoxazone (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_czx6oh">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:184399"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/2734"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/AGLXDWOTVQZHIQ-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:184399"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:2734"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:AGLXDWOTVQZHIQ-UHFFFAOYSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_czx6oh_ext" sboTerm="SBO:0000247" id="czx6oh_ext" name="6-hydroxy-chlorzoxazone (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_czx6oh_ext" sboTerm="SBO:0000247" id="czx6oh_ext" name="6-hydroxychlorzoxazone (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_czx6oh_ext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:184399"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/2734"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/AGLXDWOTVQZHIQ-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:184399"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:2734"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:AGLXDWOTVQZHIQ-UHFFFAOYSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_czxoglu" sboTerm="SBO:0000247" id="czxoglu" name="chlorzoxazone-o-glucuronide (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_czxoglu" sboTerm="SBO:0000247" id="czxoglu" name="6-hydroxychlorzoxazone-O-glucuronide (liver)" compartment="Vli" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_czxoglu">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/XZSZLTOSEPTADQ-LIJGXYGRSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:XZSZLTOSEPTADQ-LIJGXYGRSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:129522086"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_czxoglu_ext" sboTerm="SBO:0000247" id="czxoglu_ext" name="chlorzoxazone-o-glucuronide (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_czxoglu_ext" sboTerm="SBO:0000247" id="czxoglu_ext" name="6-hydroxychlorzoxazone-O-glucuronide (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_czxoglu_ext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/XZSZLTOSEPTADQ-LIJGXYGRSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:XZSZLTOSEPTADQ-LIJGXYGRSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:129522086"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -302,10 +294,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_ethanol">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:16236"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/702"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/LFQSCWFLJHTTHZ-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:16236"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:702"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:LFQSCWFLJHTTHZ-UHFFFAOYSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -318,266 +309,256 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_ethanol_ext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="http://identifiers.org/CHEBI:16236"/>
-                  <rdf:li rdf:resource="http://identifiers.org/pubchem.compound/702"/>
-                  <rdf:li rdf:resource="http://identifiers.org/inchikey/LFQSCWFLJHTTHZ-UHFFFAOYSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:16236"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:702"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:LFQSCWFLJHTTHZ-UHFFFAOYSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_cyp2e1" sboTerm="SBO:0000247" id="cyp2e1" name="CYP2E1" compartment="Vli" initialAmount="1" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="cf_units_per_mmole">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_cyp2e1">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
+      <species sboTerm="SBO:0000247" id="cyp2e1" name="CYP2E1" compartment="Vli" initialAmount="1" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="cf_units_per_mmole"/>
     </listOfSpecies>
     <listOfParameters>
-      <parameter metaid="meta_BW" sboTerm="SBO:0000002" id="BW" name="body weight [kg]" value="75" units="kg" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_BW">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_cf_units_per_mmole" sboTerm="SBO:0000002" id="cf_units_per_mmole" name="conversion factor for dimensionless species" value="1" units="per_mmole" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_cf_units_per_mmole">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_cyp2e1_thalf" sboTerm="SBO:0000002" id="cyp2e1_thalf" name="CYP2E1 half life" value="2592" units="min" constant="true">
+      <parameter sboTerm="SBO:0000002" id="BW" name="body weight [kg]" value="75" units="kg" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="cf_units_per_mmole" name="conversion factor for dimensionless species" value="1" units="per_mmole" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="cyp2e1_thalf" name="CYP2E1 half life" value="2592" units="min" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>(Roberts1995)</p>
+            <p>Half-life of CYP2E1 without ethanol: about 7 hr for the
+unstabilized and about 37 hr for the ethanol stabilized protein in
+rats (Roberts1995); the activity of drinkers normalizes within about
+one week of withdrawal (Oneta2002, Lucas1995).</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_cyp2e1_thalf">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
       </parameter>
-      <parameter metaid="meta_CZX_k_IM" sboTerm="SBO:0000009" id="CZX_k_IM" name="rate constant for czx import into liver" value="100" units="per_min" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZX_k_IM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000009"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000009" id="CZX_k_IM" name="rate constant for chlorzoxazone import into the liver" value="100" units="per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="CZX_F_EX" name="liver partition of chlorzoxazone (inverse)" value="1.59" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The liver concentration at equilibrium is the concentration of
+the hepatic plasma over <code>CZX_F_EX</code>, a liver to plasma ratio of
+1/1.59 = 0.627 (0.627 +- 0.062 in rats, Kim2002). The
+parameter is equivalent to the Km of the CYP2E1 and to the rate
+of the second pathway, which are fitted, and stays fixed.</p>
+          </body>
+        </notes>
       </parameter>
-      <parameter metaid="meta_CZX_F_EX" sboTerm="SBO:0000002" id="CZX_F_EX" name="factor that scales import rate constant such that target equilibrium concentrationequals Tissue-Plasma ratio (T/P). Reported in rats: 0.627 +-0.0618 {Kim2002}" value="1.59" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZX_F_EX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000009" id="CZX6OH_k_EX" name="rate constant for 6-hydroxychlorzoxazone export" value="100" units="per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="CZX6OH_F_IM" name="liver to plasma ratio of 6-hydroxychlorzoxazone" value="0.221" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>The liver to plasma ratio at equilibrium, 0.221 +- 0.009 in rats
+(Kim2002).</p>
+          </body>
+        </notes>
       </parameter>
-      <parameter metaid="meta_CZX6OH_k_EX" sboTerm="SBO:0000009" id="CZX6OH_k_EX" name="rate constant for 6-oh-chlorzoxazone export" value="100" units="per_min" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZX6OH_k_EX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000009"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000009" id="CZXOGLU_k_EX" name="rate constant for 6-hydroxychlorzoxazone-O-glucuronide export" value="100" units="per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="CZXOGLU_F_IM" name="liver to plasma ratio of 6-hydroxychlorzoxazone-O-glucuronide" value="1" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000002" id="f_cyp2e1" name="CYP2E1 activity" value="1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Activity of CYP2E1 relative to healthy subjects (1), e.g. the
+inhibition by a coadministered drug; set by the experiments,
+not fitted.</p>
+          </body>
+        </notes>
       </parameter>
-      <parameter metaid="meta_CZX6OH_F_IM" sboTerm="SBO:0000002" id="CZX6OH_F_IM" name="scaling factor to rach target equilibrium tissue-plasma ratio (T/P)reported T/P in rats (0.221 +- 0.0092) {Kim et al.}" value="0.221" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZX6OH_F_IM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000002" id="f_cyp2e1_Km" name="factor of the Km of CYP2E1" value="1" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000186" id="CZXOX_Vmax" name="Vmax of the chlorzoxazone 6-hydroxylation" value="0.0071748083525124" units="mmole_per_min_l" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_035132__b4a12">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CZXOX_Vmax</code> is the result of the fit <code>PK_20261020_035132__b4a12</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_035132__b4a12</code> |
+| record | <code>PK_20261020_035132__b4a12/</code> |
+| cost | 130.726 |
+| data points | 414 |
+| value | 0.00717481 (mmol)/(min)/l |
+| bounds | [0.0001, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.00554468, 0.00986633] |
+| Fisher confidence interval | [0.0057445, 0.00896125] |
+| distribution of the draws | <code>lognormal(-4.937179228144417, 0.14701509767717993, 0.0001, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mmole_per_min_l" distrib:type="confidenceInterval" distrib:valueLower="0.00554468165740078" distrib:valueUpper="0.00986632853198575"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.000811472296372223" distrib:units="mmole_per_min_l" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 4.93717922814442 </cn>
+                  </apply>
+                  <cn> 0.14701509767718 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter metaid="meta_CZXOGLU_k_EX" sboTerm="SBO:0000009" id="CZXOGLU_k_EX" name="rate constant for chlorzoxazone-o-glucuronide export" value="100" units="per_min" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOGLU_k_EX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000009"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_CZXOGLU_F_IM" sboTerm="SBO:0000002" id="CZXOGLU_F_IM" name="scaling factor to rach target equilibrium tissue-plasma ratio (T/P)" value="1" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOGLU_F_IM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_f_cyp2e1" sboTerm="SBO:0000002" id="f_cyp2e1" name="factor for scanning CYP2E1 activity" value="1" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_f_cyp2e1">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_f_cyp2e1_Km" sboTerm="SBO:0000002" id="f_cyp2e1_Km" name="factor for scanning CYP2E1 Km" value="1" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_f_cyp2e1_Km">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_CZXOX_Vmax" sboTerm="SBO:0000186" id="CZXOX_Vmax" name="Vmax for chlorzoxazone oxidation" value="0.007527" units="mmole_per_min_l" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOX_Vmax">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_CZXOX_Km" sboTerm="SBO:0000027" id="CZXOX_Km" name="Km for chlorzoxazone oxidation" value="0.0189287" units="mM" constant="true">
+      <parameter sboTerm="SBO:0000027" id="CZXOX_Km" name="Km of the chlorzoxazone 6-hydroxylation" value="0.00990140603641784" units="mM" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>14.4 µM (median) Yang2012
 110±10 µM (Km CYP2E1 chlorzoxazone, human liver microsomes) {Emoto2005}
-22-64.2 µM (Km CYP2E1 chlorzoxazone, human liver microsomes) {Emoto2003}
-see also table in chlorzoxazone document</p>
+22-64.2 µM (Km CYP2E1 chlorzoxazone, human liver microsomes) {Emoto2003}</p>
+            <p>The Km in vivo refers to the total concentration in the liver
+(fu 0.04, DeVries1994): the dose dependence of the clearance
+(CL/F 612-805 ml/min after microdoses, 250-400 ml/min after
+250-750 mg, Hohmann2019, Frye1998) sets it.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOX_Km">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_035132__b4a12">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CZXOX_Km</code> is the result of the fit <code>PK_20261020_035132__b4a12</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_035132__b4a12</code> |
+| record | <code>PK_20261020_035132__b4a12/</code> |
+| cost | 130.726 |
+| data points | 414 |
+| value | 0.00990141 mmol/l |
+| bounds | [0.0001, 0.5] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.00670297, 0.0155567] |
+| Fisher confidence interval | [0.00720527, 0.0136064] |
+| distribution of the draws | <code>lognormal(-4.615078508045439, 0.2147847125430648, 0.0001, 0.5)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mM" distrib:type="confidenceInterval" distrib:valueLower="0.00670296574766875" distrib:valueUpper="0.0155566885719833"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00160102010287793" distrib:units="mM" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 4.61507850804544 </cn>
+                  </apply>
+                  <cn> 0.214784712543065 </cn>
+                  <cn> 0.0001 </cn>
+                  <cn> 0.5 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter metaid="meta_CZXOGLU_Km" sboTerm="SBO:0000027" id="CZXOGLU_Km" name="mm constant for glucuronidation of czx6oh (Quesnot2018) by UGT1A9, UGT1A6, UGT1A1" value="0.000255" units="mM" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOGLU_Km">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000002" id="f_czxother" name="activity of the CYP2E1 independent elimination" value="1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Activity of the second pathway relative to healthy subjects
+(1); set by the experiments, not fitted.</p>
+          </body>
+        </notes>
       </parameter>
-      <parameter metaid="meta_CZXOGLU_Vmax" sboTerm="SBO:0000186" id="CZXOGLU_Vmax" name="maximum velocity for czx-o-glucuronidation" value="0.011346" units="mmole_per_min_l" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOGLU_Vmax">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000009" id="CZXOTHER_k" name="rate constant of the CYP2E1 independent elimination" value="0.263160773946114" units="per_min" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_035132__b4a12">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CZXOTHER_k</code> is the result of the fit <code>PK_20261020_035132__b4a12</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_035132__b4a12</code> |
+| record | <code>PK_20261020_035132__b4a12/</code> |
+| cost | 130.726 |
+| data points | 414 |
+| value | 0.263161 1/(min) |
+| bounds | [0.001, 2] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.227645, 0.30195] |
+| Fisher confidence interval | [0.235353, 0.294254] |
+| distribution of the draws | <code>lognormal(-1.334990125796959, 0.07206038910373717, 0.001, 2.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="0.227645409737037" distrib:valueUpper="0.301949786173823"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.014950236197901" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 1.33499012579696 </cn>
+                  </apply>
+                  <cn> 0.0720603891037372 </cn>
+                  <cn> 0.001 </cn>
+                  <cn> 2 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter metaid="meta_f_GLU" sboTerm="SBO:0000002" id="f_GLU" name="scaling parameter of O-Glucuronidation activity for parameter scans" value="1" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_f_GLU">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000009" id="CZXOGLU_k" name="rate constant of the glucuronidation of 6-hydroxychlorzoxazone" value="42.7782424502833" units="per_min" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>First order: the glucuronidation by UGT1A1, UGT1A6 and UGT1A9
+is not saturated at the concentrations of 6-hydroxychlorzoxazone
+in vivo. The free 6-hydroxychlorzoxazone in plasma is 1.4-3.3 %
+of chlorzoxazone 0.5 hr after a microdose (Witt2016,
+Hohmann2019), the glucuronide is the main form in plasma and
+urine.</p>
+          </body>
+        </notes>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_035132__b4a12">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__CZXOGLU_k</code> is the result of the fit <code>PK_20261020_035132__b4a12</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_035132__b4a12</code> |
+| record | <code>PK_20261020_035132__b4a12/</code> |
+| cost | 130.726 |
+| data points | 414 |
+| value | 42.7782 1/(min) |
+| bounds | [1, 10000] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [35.9381, 51.2306] |
+| Fisher confidence interval | [37.1861, 49.2113] |
+| distribution of the draws | <code>lognormal(3.7560296193667244, 0.09044492043048095, 1.0, 10000.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_min" distrib:type="confidenceInterval" distrib:valueLower="35.9381328447122" distrib:valueUpper="51.2305739482776"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="3.04858928421796" distrib:units="per_min" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <cn> 3.75602961936672 </cn>
+                  <cn> 0.090444920430481 </cn>
+                  <cn> 1 </cn>
+                  <cn> 10000 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter metaid="meta_ETH_k_IM" sboTerm="SBO:0000009" id="ETH_k_IM" name="rate constant for czx import into liver" value="100" units="per_min" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_ETH_k_IM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000009"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_ETHEL_VMAX" sboTerm="SBO:0000186" id="ETHEL_VMAX" name="rate of ethanol elimination" value="0.03295" units="mmole_per_min_kg" constant="true">
+      <parameter sboTerm="SBO:0000002" id="f_GLU" name="UGT activity (6-hydroxychlorzoxazone glucuronidation)" value="1" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000009" id="ETH_k_IM" name="rate constant for ethanol import into the liver" value="100" units="per_min" constant="true"/>
+      <parameter sboTerm="SBO:0000186" id="ETHEL_VMAX" name="rate of ethanol elimination" value="0.0485245432051771" units="mmole_per_min_kg" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>Rates of alcohol elimination
@@ -588,81 +569,79 @@ see also table in chlorzoxazone document</p>
 4.376e-2 mmole/min/kg</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_ETHEL_VMAX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit ALCOHOL_20261020_043001__556d3">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>LI__ETHEL_VMAX</code> is the result of the fit <code>ALCOHOL_20261020_043001__556d3</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>ALCOHOL_20261020_043001__556d3</code> |
+| record | <code>ALCOHOL_20261020_043001__556d3/</code> |
+| cost | 2.75214 |
+| data points | 85 |
+| value | 0.0485245 (mmol)/(min)/(kg) |
+| bounds | [0.01, 0.2] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.0345568, 0.0654183] |
+| Fisher confidence interval | [0.044537, 0.0528691] |
+| distribution of the draws | <code>lognormal(-3.025685563568959, 0.16280889116358283, 0.01, 0.2)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="mmole_per_min_kg" distrib:type="confidenceInterval" distrib:valueLower="0.0345567741651558" distrib:valueUpper="0.0654183451191657"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.00209164403004198" distrib:units="mmole_per_min_kg" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 3.02568556356896 </cn>
+                  </apply>
+                  <cn> 0.162808891163583 </cn>
+                  <cn> 0.01 </cn>
+                  <cn> 0.2 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter metaid="meta_ETHEL_KM" sboTerm="SBO:0000027" id="ETHEL_KM" name="KM value for ethanol degradation" value="0.0462" units="mM" constant="true">
+      <parameter sboTerm="SBO:0000027" id="ETHEL_KM" name="Km of the ethanol elimination" value="2.17" units="mM" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>FIXME: add reference for the value</p>
+            <p>The alcohol dehydrogenase has a Km of about 0.1 g/l (2.17 mM)
+in vivo (Holford1987). Not fitted: the blood ethanol of
+Wilkinson1977 does not identify it (flat profile likelihood
+from 0.05 to 5 mM).</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_ETHEL_KM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
       </parameter>
-      <parameter metaid="meta_k_cyp2e1_prod" sboTerm="SBO:0000009" id="k_cyp2e1_prod" name="rate constant for CYP2E1 production" value="NaN" units="mmole_per_min_l" constant="false">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_k_cyp2e1_prod">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000009"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_k_cyp2e1_deg" sboTerm="SBO:0000009" id="k_cyp2e1_deg" name="rate constant for CYP2E1 mRNA degradation" value="NaN" units="mmole_per_min_l" constant="false">
+      <parameter sboTerm="SBO:0000009" id="k_cyp2e1_prod" name="rate constant for CYP2E1 production" value="NaN" units="mmole_per_min_l" constant="false"/>
+      <parameter sboTerm="SBO:0000009" id="k_cyp2e1_deg" name="rate constant for CYP2E1 degradation" value="NaN" units="mmole_per_min_l" constant="false">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>half life of cyp2e1 is reported to be 6 hrs (Roberts1995).Calculated by kd = ln(2)/t_half</p>
+            <p>Calculated from the half-life <code>cyp2e1_thalf</code>, kd = ln(2)/t_half.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_k_cyp2e1_deg">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000009"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
       </parameter>
-      <parameter metaid="meta_Ki_cyp2e1_deg_ethanol" sboTerm="SBO:0000261" id="Ki_cyp2e1_deg_ethanol" name="stabilization constant (inhibition degradation)" value="1e-05" units="mM" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_Ki_cyp2e1_deg_ethanol">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000261"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000261" id="Ki_cyp2e1_deg_ethanol" name="stabilization constant (inhibition degradation)" value="1e-05" units="mM" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Ethanol stabilizes CYP2E1 against its degradation. With a
+constant far below the hepatic ethanol of drinking the
+stabilization is a switch: the induction is the fraction of
+the day with ethanol in the liver, about 1.9-fold after
+weeks of 50 g ethanol a day, back to 1 within a week of
+abstinence (the about twofold activity of drinkers). A
+constant of 1 mM gives an induction of 1.3-fold only. The
+value is not identified by the data.</p>
+          </body>
+        </notes>
       </parameter>
-      <parameter id="kd_cyp2e1" value="NaN" units="mmole_per_min_l" constant="false"/>
+      <parameter id="kd_cyp2e1" units="mmole_per_min_l" constant="false"/>
     </listOfParameters>
     <listOfRules>
       <assignmentRule variable="kd_cyp2e1">
@@ -717,18 +696,7 @@ see also table in chlorzoxazone document</p>
       </assignmentRule>
     </listOfRules>
     <listOfReactions>
-      <reaction metaid="meta_CZXIM" sboTerm="SBO:0000655" id="CZXIM" name="chlorzoxazone import" reversible="true" compartment="Vli">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXIM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <reaction sboTerm="SBO:0000655" id="CZXIM" name="chlorzoxazone import" reversible="true" compartment="Vli">
         <listOfReactants>
           <speciesReference species="czx_ext" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -754,18 +722,7 @@ see also table in chlorzoxazone document</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_CZX6OHEX" sboTerm="SBO:0000655" id="CZX6OHEX" name="6-oh-chlorzoxazone export" reversible="true" compartment="Vli">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZX6OHEX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <reaction sboTerm="SBO:0000655" id="CZX6OHEX" name="6-hydroxychlorzoxazone export" reversible="true" compartment="Vli">
         <listOfReactants>
           <speciesReference species="czx6oh" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -791,18 +748,7 @@ see also table in chlorzoxazone document</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_CZXOGLU_EX" sboTerm="SBO:0000655" id="CZXOGLU_EX" name="chlorzoxazone-o-glucuronide export" reversible="true" compartment="Vli">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOGLU_EX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <reaction sboTerm="SBO:0000655" id="CZXOGLU_EX" name="6-hydroxychlorzoxazone-O-glucuronide export" reversible="true" compartment="Vli">
         <listOfReactants>
           <speciesReference species="czxoglu" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -828,23 +774,12 @@ see also table in chlorzoxazone document</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_CZXOX" sboTerm="SBO:0000176" id="CZXOX" name="chlorzoxazone oxidation to 6-hydroxy-chlorzoxazone (CYP2E1)" reversible="false" compartment="Vli">
+      <reaction sboTerm="SBO:0000176" id="CZXOX" name="chlorzoxazone 6-hydroxylation (CYP2E1)" reversible="false" compartment="Vli">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>cyp2e1 is normalized to 1</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOX">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000176"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
         <listOfReactants>
           <speciesReference species="czx" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -879,23 +814,39 @@ see also table in chlorzoxazone document</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_CZXOGLU" sboTerm="SBO:0000176" id="CZXOGLU" name="6-oh-chlorzoxazone glucuronidation (UGT)" reversible="false" compartment="Vli">
+      <reaction sboTerm="SBO:0000176" id="CZXOTHER" name="chlorzoxazone elimination (CYP2E1 independent)" reversible="false" compartment="Vli">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>Catalyzed by UGT enzyme.</p>
+            <p>The elimination of chlorzoxazone which is not the 6-hydroxylation:
+only 71-74 % of an oral dose are recovered as 6-hydroxychlorzoxazone in
+the urine (Desiraju1983, Kharasch1993), the formation clearance of
+6-hydroxychlorzoxazone is 70 % of the clearance (Kharasch1993), the
+remaining clearance is 158-191 ml/min (Frye1998). Under disulfiram,
+which inactivates CYP2E1, Kharasch1993 found a &quot;metabolic switching to
+an as-yet unidentified metabolite&quot;. The products are not modeled.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CZXOGLU">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000176"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+        <listOfReactants>
+          <speciesReference species="czx" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <apply>
+              <times/>
+              <ci> f_czxother </ci>
+              <ci> CZXOTHER_k </ci>
+              <ci> Vli </ci>
+              <ci> czx </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000176" id="CZXOGLU" name="6-hydroxychlorzoxazone glucuronidation (UGT)" reversible="false" compartment="Vli">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Catalyzed by UGT enzymes.</p>
+          </body>
+        </notes>
         <listOfReactants>
           <speciesReference species="czx6oh" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -905,35 +856,16 @@ see also table in chlorzoxazone document</p>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <apply>
-              <divide/>
-              <apply>
-                <times/>
-                <ci> f_GLU </ci>
-                <ci> CZXOGLU_Vmax </ci>
-                <ci> Vli </ci>
-                <ci> czx6oh </ci>
-              </apply>
-              <apply>
-                <plus/>
-                <ci> czx6oh </ci>
-                <ci> CZXOGLU_Km </ci>
-              </apply>
+              <times/>
+              <ci> f_GLU </ci>
+              <ci> CZXOGLU_k </ci>
+              <ci> Vli </ci>
+              <ci> czx6oh </ci>
             </apply>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_ETHIM" sboTerm="SBO:0000655" id="ETHIM" name="ethanol import" reversible="true" compartment="Vli">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_ETHIM">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <reaction sboTerm="SBO:0000655" id="ETHIM" name="ethanol import" reversible="true" compartment="Vli">
         <listOfReactants>
           <speciesReference species="ethanol_ext" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -955,24 +887,13 @@ see also table in chlorzoxazone document</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_ETH_ELIMINATION" sboTerm="SBO:0000176" id="ETH_ELIMINATION" name="ethanol elimination (ALD)" reversible="false" compartment="Vli">
+      <reaction sboTerm="SBO:0000176" id="ETH_ELIMINATION" name="ethanol elimination (ALD)" reversible="false" compartment="Vli">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>Ethanol elimination via alcohol dehydrogenase in the liver.
 Due to saturation of enzyme (<code>ethanol &gt; ETHEL_KM</code>) constant rate of ethanol elimination.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_ETH_ELIMINATION">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000176"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
         <listOfReactants>
           <speciesReference species="ethanol" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -995,18 +916,7 @@ Due to saturation of enzyme (<code>ethanol &gt; ETHEL_KM</code>) constant rate o
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_CYP2E1_PROD" sboTerm="SBO:0000655" id="CYP2E1_PROD" name="CYP2E1 production" reversible="false" compartment="Vli">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CYP2E1_PROD">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <reaction sboTerm="SBO:0000176" id="CYP2E1_PROD" name="CYP2E1 production" reversible="false" compartment="Vli">
         <listOfProducts>
           <speciesReference species="cyp2e1" stoichiometry="1" constant="true"/>
         </listOfProducts>
@@ -1020,23 +930,12 @@ Due to saturation of enzyme (<code>ethanol &gt; ETHEL_KM</code>) constant rate o
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_CYP2E1_DEG" sboTerm="SBO:0000655" id="CYP2E1_DEG" name="CYP2E1 degradation" reversible="false" compartment="Vli">
+      <reaction sboTerm="SBO:0000176" id="CYP2E1_DEG" name="CYP2E1 degradation" reversible="false" compartment="Vli">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>Ethanol stabilizes CYP2E1, i.e., the degradation rate is reduced.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_CYP2E1_DEG">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
         <listOfReactants>
           <speciesReference species="cyp2e1" stoichiometry="1" constant="true"/>
         </listOfReactants>

@@ -1,0 +1,9 @@
+study	count	group	intervention	label	measurement	substance	tissue	median	min	max	time	time_unit	unit	method	comments
+Emery2003	16	obese	CZX750	Tab1_group_clearance	clearance	chlorzoxazone	plasma	885.0	328.0	2027.0	NA	NA	ml/min	HPLC	NA
+Emery2003	16	obese	CZX750	Tab1_obese_fraction_unbound	fraction_unbound	chlorzoxazone	plasma	3.7	2.9	6.7	NA	NA	percent	HPLC	NA
+Emery2003	16	obese	CZX750	Tab1_obese_clearance_unbound	clearance_unbound	chlorzoxazone	plasma	27.5	9.1	55.6	NA	NA	l/min	HPLC	NA
+Emery2003	16	obese	CZX750	Tab1_obese_recovery	recovery	6-hydroxychlorzoxazone	urine	68.1	27.8	96.1	24.0	hr	percent	HPLC	NA
+Emery2003	16	control	CZX750	Tab1_obese_clearance	clearance	chlorzoxazone	plasma	248.0	84.0	543.0	NA	NA	ml/min	HPLC	NA
+Emery2003	16	control	CZX750	Tab1_control_fraction_unbound	fraction_unbound	chlorzoxazone	plasma	2.5	1.1	4.0	NA	NA	percent	HPLC	NA
+Emery2003	16	control	CZX750	Tab1_control_clearance_unbound	clearance_unbound	chlorzoxazone	plasma	9.9	3.2	49.4	NA	NA	l/min	HPLC	NA
+Emery2003	16	control	CZX750	Tab1_control_recovery	recovery	6-hydroxychlorzoxazone	urine	59.6	26.1	68.5	24.0	hr	percent	HPLC	NA

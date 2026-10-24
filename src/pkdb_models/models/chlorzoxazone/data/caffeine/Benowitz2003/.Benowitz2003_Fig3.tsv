@@ -1,0 +1,25 @@
+study	count	subjects	intervention	label	time	time_unit	mean	se	sd	substance	unit	method
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	0.0	hr	0.073518254	0.0	0.0	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	0.5	hr	2.1747646	0.4245088	1.40793640980402	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	1.0	hr	3.9068546	0.387465	1.28507602439506	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	2.0	hr	3.8653998	0.3136622	1.04029982831741	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	3.0	hr	2.8091562	0.3688718	1.22340935634302	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	6.0	hr	2.1684563	0.1654873	0.548859281668981	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	8.0	hr	1.5315986	0.1843648	0.611468866148915	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo, CO	caffeine_CO	12.0	hr	0.86746794	0.18464936	0.612412644899259	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	0.0	hr	0.11070426	0.0	0.0	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	0.5	hr	1.6401211	0.5725412	1.89890433741983	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	1.0	hr	3.113332	0.3505635	1.16268759469376	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	2.0	hr	3.6069477	0.2397167	0.795050349882188	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	3.0	hr	2.3478885	0.2398594	0.795523632239772	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	6.0	hr	1.6142236	0.2028154	0.672662583505847	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	8.0	hr	1.0149788	0.1660564	0.550746772837172	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo,Smoking	caffeine_Smoking	12.0	hr	0.49845374	0.14760566	0.48955259115277	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	0.0	hr	0.073518254	0.0	0.0	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	0.5	hr	1.4736378	0.2028154	0.672662583505847	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	1.0	hr	3.1503756	0.3136621	1.04029949665493	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	2.0	hr	3.8837082	0.2401441	0.796467875317586	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	3.0	hr	2.845773	0.2214083	0.734328256570445	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	6.0	hr	2.168172	0.1847914	0.612883738284481	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	8.0	hr	1.4944127	0.2214084	0.734328588232925	caffeine	microg/ml	HPLC
+Benowitz2003	11	11G	Dcaf, Dchlo	caffeine_Air	12.0	hr	0.8859186	0.1476057	0.489552723817762	caffeine	microg/ml	HPLC

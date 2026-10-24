@@ -1,0 +1,23 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Park2006	10	all	CZX	Tab1_CZX_chlorzoxazone	tmax	chlorzoxazone	plasma	1.2	0.5	0.158113883008419	hr	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_chlorzoxazone	cmax	chlorzoxazone	plasma	10.7	2.2	0.695701085237043	µg/ml	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_chlorzoxazone	thalf	chlorzoxazone	plasma	1.4	0.4	0.126491106406735	hr	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_chlorzoxazone	auc_inf	chlorzoxazone	plasma	28.4	3.7	1.1700427342623	µg*hr/ml	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_chlorzoxazone	auc_end	chlorzoxazone	plasma	29.2	4.0	1.26491106406735	µg*hr/ml	8.0	hr	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_chlorzoxazone	clearance	chlorzoxazone	plasma	14.0	1.9	0.600832755431992	l/hr	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_6-hydroxychlorzoxazone	tmax	6-hydroxychlorzoxazone	plasma	1.3	0.7	0.221359436211787	hr	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_6-hydroxychlorzoxazone	cmax	6-hydroxychlorzoxazone	plasma	3.0	0.3	0.0948683298050514	µg/ml	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	plasma	1.4	0.3	0.0948683298050514	hr	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_6-hydroxychlorzoxazone	auc_inf	6-hydroxychlorzoxazone	plasma	8.9	1.1	0.347850542618522	µg*hr/ml	NA	NA	HPLC	NA
+Park2006	10	all	CZX	Tab1_CZX_6-hydroxychlorzoxazone	auc_end	6-hydroxychlorzoxazone	plasma	9.2	1.2	0.379473319220205	µg*hr/ml	8.0	hr	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_chlorzoxazone	tmax	chlorzoxazone	plasma	1.4	0.5	0.158113883008419	hr	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_chlorzoxazone	cmax	chlorzoxazone	plasma	9.5	2.1	0.66407830863536	µg/ml	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_chlorzoxazone	thalf	chlorzoxazone	plasma	1.3	0.3	0.0948683298050514	hr	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_chlorzoxazone	auc_inf	chlorzoxazone	plasma	26.7	4.0	1.26491106406735	µg*hr/ml	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_chlorzoxazone	auc_end	chlorzoxazone	plasma	27.4	3.8	1.20166551086398	µg*hr/ml	8.0	hr	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_chlorzoxazone	clearance	chlorzoxazone	plasma	15.2	2.8	0.885437744847146	l/hr	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_6-hydroxychlorzoxazone	tmax	6-hydroxychlorzoxazone	plasma	1.3	0.5	0.158113883008419	hr	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_6-hydroxychlorzoxazone	cmax	6-hydroxychlorzoxazone	plasma	3.2	0.3	0.0948683298050514	µg/ml	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	plasma	1.3	0.5	0.158113883008419	hr	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_6-hydroxychlorzoxazone	auc_inf	6-hydroxychlorzoxazone	plasma	8.9	1.1	0.347850542618522	µg*hr/ml	NA	NA	HPLC	NA
+Park2006	10	all	ASP, CZX	Tab1_ASP_CZX_6-hydroxychlorzoxazone	auc_end	6-hydroxychlorzoxazone	plasma	9.2	1.4	0.442718872423573	µg*hr/ml	8.0	hr	HPLC	NA

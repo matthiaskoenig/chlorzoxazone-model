@@ -1,0 +1,1068 @@
+--------------------------------------------------------------------------------
+OptimizationProblem: PK
+--------------------------------------------------------------------------------
+Experiments
+	*** FitMappingCollection ***
+experiment: Bedada2016
+mappings: ['fm_bedada2016_czx_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Bedada2016
+mappings: ['fm_bedada2016_czx6oh_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: outlier
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Bedada2017
+mappings: ['fm_bedada2017_czx_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Bedada2017
+mappings: ['fm_bedada2017_czx6oh_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: outlier
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Bedada2018
+mappings: ['fm_bedada2018_czx_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Bedada2018
+mappings: ['fm_bedada2018_czx6oh_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: outlier
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Benowitz2003
+mappings: ['fm_Fig1', 'fm_Tab1']
+weights: [10.0, 9.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Burckart1998
+mappings: ['fm_Fig4czx_250', 'fm_Fig4czx6oh_250', 'fm_Tab2urine_250']
+weights: [16.0, 16.0, 16.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Chalasani2003
+mappings: ['fm_Fig1', 'fm_Tab1']
+weights: [17.0, 17.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Desiraju1983
+mappings: ['fm_Fig1_czx750', 'fm_Fig3_urine_czx750']
+weights: [23.0, 23.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: DeVries1994
+mappings: ['fm_Subject_1_po_CZX250', 'fm_Subject_2_po_CZX250', 'fm_Subject_3_po_CZX250', 'fm_Subject_4_po_CZX250', 'fm_Subject_5_po_CZX250', 'fm_Subject_6_po_CZX250', 'fm_Subject_7_po_CZX250', 'fm_Subject_8_po_CZX250', 'fm_Subject_9_po_CZX250', 'fm_Subject_10_po_CZX250', 'fm_Subject_11_po_CZX250', 'fm_Subject_12_po_CZX250', 'fm_Subject_13_po_CZX250', 'fm_Subject_14_po_CZX250', 'fm_Subject_15_po_CZX250', 'fm_Subject_16_po_CZX250', 'fm_Subject_17_po_CZX250']
+weights: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: DeVries1994Mean
+mappings: ['fm_interpol_250']
+weights: [None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Dreisbach1995
+mappings: ['fm_Fig1_500']
+weights: [15.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Dreisbach1995
+mappings: ['fm_Fig4_czx', 'fm_Fig4_czx6oh']
+weights: [1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Eap1998
+mappings: ['fm_Fig1_czx_250_healthy', 'fm_Fig1_czx6oh_250_healthy']
+weights: [5.0, 5.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Eap1998
+mappings: ['fm_Fig1_czx_250_alcoholics', 'fm_Fig1_czx6oh_250_alcoholics']
+weights: [16.0, 16.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Frye1998
+mappings: ['fm_Fig1A_czx_250', 'fm_Fig1A_czx6oh_250', 'fm_Fig1B_250', 'fm_Fig4_750', 'fm_Fig3A_750', 'fm_Fig3B_750']
+weights: [16.0, 16.0, 16.0, 6.0, 6.0, 6.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Frye1998
+mappings: ['fm_Fig4_250', 'fm_Fig3A_250', 'fm_Fig3B_250']
+weights: [None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Gade2018
+mappings: ['fm_Fig1_no_czx', 'fm_Fig1_no_czx6oh']
+weights: [36.0, 36.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Gade2018
+mappings: ['fm_Fig1_o_czx', 'fm_Fig1_o_czx6oh']
+weights: [34.0, 34.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Girre1994
+mappings: ['fm_czx_500', 'fm_czx6oh_500', 'fm_cumulative_amount_500']
+weights: [20.0, 20.0, 20.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: He2019
+mappings: ['fm_CZX400_REF_400']
+weights: [20.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: He2019
+mappings: ['fm_CZX400_TEST_400']
+weights: [None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Hohmann2019
+mappings: ['fm_czx_0p05', 'fm_czx_0p1', 'fm_czx_0p5', 'fm_czx_5', 'fm_czx_50', 'fm_czx_250', 'fm_czx_500', 'fm_czx6oh_0p05', 'fm_czx6oh_0p1', 'fm_czx6oh_0p5', 'fm_czx6oh_5', 'fm_czx6oh_50', 'fm_czx6oh_250', 'fm_czx6oh_500']
+weights: [5.0, 12.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 12.0, 6.0, 6.0, 6.0, 6.0, 6.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Hukkanen2010
+mappings: ['fm_Tab5']
+weights: [12.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Kharasch1993
+mappings: ['fm_Tab2Mean']
+weights: [6.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Kharasch1993
+mappings: ['fm_Fig2', 'fm_Fig2_dsf', 'fm_Tab2Mean_dsf']
+weights: [1.0, 1.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: LaMaza2000
+mappings: ['fm_Fig1_na_nw_750']
+weights: [10.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: LaMaza2000
+mappings: ['fm_Fig1_na_o_750', 'fm_Fig1_a_nw_750', 'fm_Fig1_a_o_750']
+weights: [11.0, 9.0, 8.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Leclercq1998
+mappings: ['fm_Fig1_czx_500', 'fm_Fig1_czx_watercress_500', 'fm_Fig1_czx_isoniazid_500', 'fm_Fig1_czx6oh_500', 'fm_Fig1_czx6oh_watercress_500', 'fm_Fig1_czx6oh_isoniazid_500']
+weights: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Liangpunsakul2005
+mappings: ['fm_Fig1_control', 'fm_Tab2_control']
+weights: [20.0, 20.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Liangpunsakul2005
+mappings: ['fm_Fig1_alcohol', 'fm_Tab2_alcohol']
+weights: [20.0, 20.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lucas1993
+mappings: ['fm_Fig2_czx_healthy_500', 'fm_Fig2_czx6oh_healthy_500', 'fm_Tab5_czx6oh_healthy_500']
+weights: [5.0, 5.0, 5.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Lucas1993
+mappings: ['fm_Fig2_czx_alcoholics_500', 'fm_Fig2_czx6oh_alcoholics_500', 'fm_Tab5_czx6oh_alcoholics_500']
+weights: [5.0, 5.0, 5.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Mishin1998
+mappings: ['fm_Fig1_rda_750', 'fm_Fig1_aa_750', 'fm_Fig2_rda_750', 'fm_Fig2_aa_750', 'fm_Fig7_750', 'fm_Fig8_750']
+weights: [6.0, 5.0, 6.0, 5.0, 6.0, 6.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: OShea1994
+mappings: ['fm_Tab1_2Mean']
+weights: [6.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: OShea1994
+mappings: ['fm_Fig1_control_czx', 'fm_Fig1_control_czx6oh', 'fm_Fig1_fasting_czx', 'fm_Fig1_fasting_czx6oh', 'fm_Fig2_control_czx', 'fm_Fig2_control_czx6oh', 'fm_Fig2_obese_czx', 'fm_Fig2_obese_czx6oh']
+weights: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Park2006
+mappings: ['fm_Fig1_czx_400', 'fm_Fig1_czx6oh_400']
+weights: [10.0, 10.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Park2006
+mappings: ['fm_Fig1_czx_asa_400', 'fm_Fig1_czx6oh_asa_400']
+weights: [10.0, 10.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Puris2019
+mappings: ['fm_Fig1_healthy_62p5']
+weights: [6.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Puris2019
+mappings: ['fm_Fig1_obese_62p5']
+weights: [7.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Rajnarayana2008
+mappings: ['fm_Fig1_diosmin_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Rajnarayana2008
+mappings: ['fm_Fig1_250']
+weights: [12.0]
+use_mapping_weights: True
+kind: outlier
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Vesell1995
+mappings: ['fm_Fig1_mean']
+weights: [5.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Vesell1995
+mappings: ['fm_Fig3_JR_500', 'fm_Fig3_TG_500', 'fm_Fig3_CM_500', 'fm_Fig3_WS_250', 'fm_Fig3_EG_500', 'fm_Fig3_JW_500']
+weights: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Vesell1995
+mappings: ['fm_Fig1_WS_250']
+weights: [1.0]
+use_mapping_weights: True
+kind: outlier
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Vesell1995
+mappings: ['fm_Fig1_BL_250', 'fm_Fig1_EG_250', 'fm_Fig1_SM_250', 'fm_Fig1_MF_250', 'fm_Fig1_CN_250']
+weights: [None, None, None, None, None]
+use_mapping_weights: True
+kind: excluded
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Wang2003
+mappings: ['fm_Fig1_healthy', 'fm_Tab3_recovery_healthy']
+weights: [10.0, 10.0]
+use_mapping_weights: True
+kind: training
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Wang2003
+mappings: ['fm_Fig1_DT1', 'fm_Tab3_recovery_DT1', 'fm_Fig1_DT2', 'fm_Tab3_recovery_DT2']
+weights: [14.0, 14.0, 8.0, 8.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+	*** FitMappingCollection ***
+experiment: Witt2016
+mappings: ['fm_CZX1_chlorzoxazone', 'fm_CZX2_chlorzoxazone', 'fm_CZX3_chlorzoxazone', 'fm_CZX4_chlorzoxazone', 'fm_CZX5_chlorzoxazone', 'fm_CZX6_chlorzoxazone', 'fm_CZX7_chlorzoxazone', 'fm_CZX8_chlorzoxazone', 'fm_CZX2_6_hydroxychlorzoxazone', 'fm_CZX3_6_hydroxychlorzoxazone', 'fm_CZX4_6_hydroxychlorzoxazone', 'fm_CZX5_6_hydroxychlorzoxazone', 'fm_CZX6_6_hydroxychlorzoxazone', 'fm_CZX7_6_hydroxychlorzoxazone', 'fm_CZX8_6_hydroxychlorzoxazone']
+weights: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+use_mapping_weights: True
+kind: validation
+fit_parameters: {}
+Parameters
+	FitParameter<GU__Ka_abs_czx = 1.7 [0.3 - 10]>
+	FitParameter<Ka_dis_tablet_czx = 3.1 [0.2 - 20]>
+	FitParameter<LI__CZXOX_Vmax = 0.0082 [0.0001 - 1]>
+	FitParameter<LI__CZXOX_Km = 0.0085 [0.0001 - 0.5]>
+	FitParameter<LI__CZXOTHER_k = 0.19 [0.001 - 2]>
+	FitParameter<LI__CZXOGLU_k = 100 [1 - 10000.0]>
+	FitParameter<KI__CZXOGLU_EX_f = 10 [0.5 - 50]>
+FitSettings:
+	residual: NORMALIZED
+	parameter_scale: LOG10
+	loss_function: LINEAR
+	weighting_curves: ['MAPPING', 'POINTS']
+	weighting_points: ERROR_WEIGHTING
+	variable_step_size: True
+	relative_tolerance: 1e-06
+	absolute_tolerance: {'amount': 1e-12, 'concentration': 1e-12, 'other': 1e-06, 'ids': {}}
+	initial_time_step: 0.0
+	data_at_change: before
+Mappings: 144 (54 training, 85 validation, 5 outlier)
+Data
+	experiment_keys: ['Bedada2016', 'Bedada2016', 'Bedada2017', 'Bedada2017', 'Bedada2018', 'Bedada2018', 'Benowitz2003', 'Benowitz2003', 'Burckart1998', 'Burckart1998', 'Burckart1998', 'Chalasani2003', 'Chalasani2003', 'Desiraju1983', 'Desiraju1983', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'DeVries1994', 'Dreisbach1995', 'Dreisbach1995', 'Dreisbach1995', 'Eap1998', 'Eap1998', 'Eap1998', 'Eap1998', 'Frye1998', 'Frye1998', 'Frye1998', 'Frye1998', 'Frye1998', 'Frye1998', 'Gade2018', 'Gade2018', 'Gade2018', 'Gade2018', 'Girre1994', 'Girre1994', 'Girre1994', 'He2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hohmann2019', 'Hukkanen2010', 'Kharasch1993', 'Kharasch1993', 'Kharasch1993', 'Kharasch1993', 'LaMaza2000', 'LaMaza2000', 'LaMaza2000', 'LaMaza2000', 'Leclercq1998', 'Leclercq1998', 'Leclercq1998', 'Leclercq1998', 'Leclercq1998', 'Leclercq1998', 'Liangpunsakul2005', 'Liangpunsakul2005', 'Liangpunsakul2005', 'Liangpunsakul2005', 'Lucas1993', 'Lucas1993', 'Lucas1993', 'Lucas1993', 'Lucas1993', 'Lucas1993', 'Mishin1998', 'Mishin1998', 'Mishin1998', 'Mishin1998', 'Mishin1998', 'Mishin1998', 'OShea1994', 'OShea1994', 'OShea1994', 'OShea1994', 'OShea1994', 'OShea1994', 'OShea1994', 'OShea1994', 'OShea1994', 'Park2006', 'Park2006', 'Park2006', 'Park2006', 'Puris2019', 'Puris2019', 'Rajnarayana2008', 'Rajnarayana2008', 'Vesell1995', 'Vesell1995', 'Vesell1995', 'Vesell1995', 'Vesell1995', 'Vesell1995', 'Vesell1995', 'Vesell1995', 'Wang2003', 'Wang2003', 'Wang2003', 'Wang2003', 'Wang2003', 'Wang2003', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016', 'Witt2016']
+	mapping_keys: ['fm_bedada2016_czx_250', 'fm_bedada2016_czx6oh_250', 'fm_bedada2017_czx_250', 'fm_bedada2017_czx6oh_250', 'fm_bedada2018_czx_250', 'fm_bedada2018_czx6oh_250', 'fm_Fig1', 'fm_Tab1', 'fm_Fig4czx_250', 'fm_Fig4czx6oh_250', 'fm_Tab2urine_250', 'fm_Fig1', 'fm_Tab1', 'fm_Fig1_czx750', 'fm_Fig3_urine_czx750', 'fm_Subject_1_po_CZX250', 'fm_Subject_2_po_CZX250', 'fm_Subject_3_po_CZX250', 'fm_Subject_4_po_CZX250', 'fm_Subject_5_po_CZX250', 'fm_Subject_6_po_CZX250', 'fm_Subject_7_po_CZX250', 'fm_Subject_8_po_CZX250', 'fm_Subject_9_po_CZX250', 'fm_Subject_10_po_CZX250', 'fm_Subject_11_po_CZX250', 'fm_Subject_12_po_CZX250', 'fm_Subject_13_po_CZX250', 'fm_Subject_14_po_CZX250', 'fm_Subject_15_po_CZX250', 'fm_Subject_16_po_CZX250', 'fm_Subject_17_po_CZX250', 'fm_Fig1_500', 'fm_Fig4_czx', 'fm_Fig4_czx6oh', 'fm_Fig1_czx_250_healthy', 'fm_Fig1_czx6oh_250_healthy', 'fm_Fig1_czx_250_alcoholics', 'fm_Fig1_czx6oh_250_alcoholics', 'fm_Fig1A_czx_250', 'fm_Fig1A_czx6oh_250', 'fm_Fig1B_250', 'fm_Fig4_750', 'fm_Fig3A_750', 'fm_Fig3B_750', 'fm_Fig1_no_czx', 'fm_Fig1_no_czx6oh', 'fm_Fig1_o_czx', 'fm_Fig1_o_czx6oh', 'fm_czx_500', 'fm_czx6oh_500', 'fm_cumulative_amount_500', 'fm_CZX400_REF_400', 'fm_czx_0p05', 'fm_czx_0p1', 'fm_czx_0p5', 'fm_czx_5', 'fm_czx_50', 'fm_czx_250', 'fm_czx_500', 'fm_czx6oh_0p05', 'fm_czx6oh_0p1', 'fm_czx6oh_0p5', 'fm_czx6oh_5', 'fm_czx6oh_50', 'fm_czx6oh_250', 'fm_czx6oh_500', 'fm_Tab5', 'fm_Tab2Mean', 'fm_Fig2', 'fm_Fig2_dsf', 'fm_Tab2Mean_dsf', 'fm_Fig1_na_nw_750', 'fm_Fig1_na_o_750', 'fm_Fig1_a_nw_750', 'fm_Fig1_a_o_750', 'fm_Fig1_czx_500', 'fm_Fig1_czx_watercress_500', 'fm_Fig1_czx_isoniazid_500', 'fm_Fig1_czx6oh_500', 'fm_Fig1_czx6oh_watercress_500', 'fm_Fig1_czx6oh_isoniazid_500', 'fm_Fig1_control', 'fm_Tab2_control', 'fm_Fig1_alcohol', 'fm_Tab2_alcohol', 'fm_Fig2_czx_healthy_500', 'fm_Fig2_czx6oh_healthy_500', 'fm_Tab5_czx6oh_healthy_500', 'fm_Fig2_czx_alcoholics_500', 'fm_Fig2_czx6oh_alcoholics_500', 'fm_Tab5_czx6oh_alcoholics_500', 'fm_Fig1_rda_750', 'fm_Fig1_aa_750', 'fm_Fig2_rda_750', 'fm_Fig2_aa_750', 'fm_Fig7_750', 'fm_Fig8_750', 'fm_Tab1_2Mean', 'fm_Fig1_control_czx', 'fm_Fig1_control_czx6oh', 'fm_Fig1_fasting_czx', 'fm_Fig1_fasting_czx6oh', 'fm_Fig2_control_czx', 'fm_Fig2_control_czx6oh', 'fm_Fig2_obese_czx', 'fm_Fig2_obese_czx6oh', 'fm_Fig1_czx_400', 'fm_Fig1_czx6oh_400', 'fm_Fig1_czx_asa_400', 'fm_Fig1_czx6oh_asa_400', 'fm_Fig1_healthy_62p5', 'fm_Fig1_obese_62p5', 'fm_Fig1_diosmin_250', 'fm_Fig1_250', 'fm_Fig1_mean', 'fm_Fig3_JR_500', 'fm_Fig3_TG_500', 'fm_Fig3_CM_500', 'fm_Fig3_WS_250', 'fm_Fig3_EG_500', 'fm_Fig3_JW_500', 'fm_Fig1_WS_250', 'fm_Fig1_healthy', 'fm_Tab3_recovery_healthy', 'fm_Fig1_DT1', 'fm_Tab3_recovery_DT1', 'fm_Fig1_DT2', 'fm_Tab3_recovery_DT2', 'fm_CZX1_chlorzoxazone', 'fm_CZX2_chlorzoxazone', 'fm_CZX3_chlorzoxazone', 'fm_CZX4_chlorzoxazone', 'fm_CZX5_chlorzoxazone', 'fm_CZX6_chlorzoxazone', 'fm_CZX7_chlorzoxazone', 'fm_CZX8_chlorzoxazone', 'fm_CZX2_6_hydroxychlorzoxazone', 'fm_CZX3_6_hydroxychlorzoxazone', 'fm_CZX4_6_hydroxychlorzoxazone', 'fm_CZX5_6_hydroxychlorzoxazone', 'fm_CZX6_6_hydroxychlorzoxazone', 'fm_CZX7_6_hydroxychlorzoxazone', 'fm_CZX8_6_hydroxychlorzoxazone']
+	xid_observable: ['time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time', 'time']
+	yid_observable: [<Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.cbl_czx: '[Cve_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.cve_czx6oh: '[Cve_czx6oh]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cve_czx6oh_all: 'Cve_czx6oh_all'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, <Sids.cpl_czx: '[Cveplasma_czx]'>, <Sids.aurine_czxoglu: 'Aurine_czxoglu'>, '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cveplasma_czx]', '[Cve_czx6oh]', '[Cve_czx6oh]', '[Cve_czx6oh]', '[Cve_czx6oh]', '[Cve_czx6oh]', '[Cve_czx6oh]', '[Cve_czx6oh]']
+	x_references: [array([ 15.,  30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 15.,  30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 15.,  30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 15.,  30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 15.,  30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 15.,  30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([  0.,  30.,  60.,  90., 120., 180., 240., 300., 360., 420., 480.]), array([1440.]), array([120., 240., 480., 600.]), array([120., 240., 480., 600.]), array([480.]), array([ 14.1617232,  29.8616982,  58.986948 ,  89.043552 , 119.97666  ,
+       179.383764 , 239.700048 , 358.689336 , 478.5201   ]), array([480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([120., 240., 360., 480., 600.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360.]), array([ 30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480., 600.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 30.,  45.,  60.,  90., 120., 150., 180., 240., 390., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([ 45.,  60.,  90., 120., 150., 180., 240., 360., 480.]), array([240., 300., 360., 420., 480.]), array([ 15.,  30.,  45.,  60.,  90., 120., 150., 210., 270., 330., 390.,
+       450.]), array([ 45.,  60.,  90., 120., 150., 210., 270., 330., 390., 450.]), array([ 33.620296,  62.493774,  93.80324 , 123.18585 , 185.53734 ,
+       250.27339 , 378.5472  ]), array([ 33.423157,  61.730927,  93.59409 , 123.64014 , 186.02591 ,
+       249.58939 , 377.29578 ]), array([ 37.89055,  68.59144, 101.02032, 131.03207, 195.22298, 259.407  ,
+       369.17526]), array([ 38.16826 ,  68.858864, 100.68261 , 129.4978  , 193.69728 ,
+       257.8796  , 368.2547  ]), array([ 15.,  30.,  45.,  60.,  75.,  90., 105., 120., 180., 240., 300.,
+       360., 420., 480.]), array([ 30.,  45.,  60.,  75.,  90., 105., 120., 180., 240., 300., 360.,
+       420., 480., 540., 600.]), array([120., 240., 360., 480., 600.]), array([120., 240., 360., 480., 600.]), array([ 15.,  30.,  45.,  60.,  75.,  90., 105., 120., 180., 240., 300.,
+       360., 420., 480., 540.]), array([ 30.,  45.,  60.,  75.,  90., 105., 120., 180., 240., 300., 360.,
+       420., 480., 540., 600.]), array([ 10.,  20.,  30.,  40.,  50.,  60.,  90., 120., 180., 240., 300.,
+       360.]), array([ 10.,  20.,  30.,  40.,  50.,  60.,  90., 120., 180., 240., 300.,
+       360.]), array([ 10.,  20.,  30.,  40.,  50.,  60.,  90., 120., 180., 240., 300.,
+       360.]), array([ 10.,  20.,  30.,  40.,  50.,  60.,  90., 120., 180., 240., 300.,
+       360.]), array([ 30.,  60.,  90., 120., 150., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60.,  90., 120., 150., 180., 240., 300., 360., 420., 480.]), array([ 120.,  240.,  360.,  480., 1440.]), array([ 19.8,  40.2,  60. ,  79.8, 100.2, 120. , 150. , 180. , 240. ,
+       300. , 360. , 420. , 480. ]), array([ 30.,  60., 120., 180., 240., 300., 360.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([30., 60.]), array([ 30.,  60., 120.]), array([ 30.,  60., 120., 180., 240.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([1440.]), array([1440.]), array([ 75.846102, 120.571416, 168.100608, 257.07252 , 311.1669  ,
+       366.583416, 432.312756]), array([ 24.4917816,  55.015326 ,  92.11773  , 130.565088 , 169.048908 ,
+       257.560356 , 313.92516  , 358.81917  , 419.118576 , 480.60336  ,
+       601.2933   , 722.99082  ]), array([1440.]), array([  0.,  30.,  60.,  90., 120., 180., 240., 300., 360., 420., 480.]), array([  0.,  30.,  60.,  90., 120., 180., 240., 300., 360., 420., 480.]), array([  0.,  30.,  60.,  90., 120., 180., 240., 300., 360., 420., 480.]), array([  0.,  30.,  60.,  90., 120., 180., 240., 300., 360., 420., 480.]), array([ 28.373266,  61.160152,  90.79445 , 129.8865  , 179.06683 ,
+       240.8575  , 301.38715 , 374.5271  , 480.45398 ]), array([ 27.742748,  58.638084,  88.272385, 119.79823 , 178.43633 ,
+       240.22699 , 300.75662 , 359.3947  , 479.82346 ]), array([ 29.003782,  60.529633,  88.9029  , 120.42875 , 188.5246  ,
+       238.96596 , 300.1261  , 359.3947  , 479.19293 ]), array([ 29.003782,  60.529633,  90.16393 , 129.8865  , 180.32787 ,
+       241.48802 , 300.75662 , 373.8966  , 480.45398 ]), array([ 27.112232,  59.2686  ,  88.9029  , 120.42875 , 179.69736 ,
+       240.8575  , 299.49557 , 360.0252  , 479.82346 ]), array([ 28.373266,  59.2686  ,  88.9029  , 120.42875 , 189.78563 ,
+       240.22699 , 300.1261  , 360.0252  , 479.82346 ]), array([ 15.,  30.,  60.,  90., 120., 180., 240., 360., 480.]), array([480.]), array([ 15.,  30.,  60.,  90., 120., 180., 240., 360., 480.]), array([480.]), array([ 30.,  60.,  90., 120., 150., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60.,  90., 120., 150., 180., 240., 300., 360., 420., 480.]), array([ 120.,  240.,  360.,  480., 1440.]), array([ 30.,  60.,  90., 120., 150., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60.,  90., 120., 150., 180., 240., 300., 360., 420., 480.]), array([ 120.,  240.,  360.,  480., 1440.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([ 15.,  30.,  45.,  60.,  90., 120., 180., 240., 300., 360.]), array([1440.]), array([ 30.6499782,  61.475106 , 120.411126 , 180.990498 , 240.0723   ,
+       300.670482 , 358.954098 , 421.946784 , 481.87374  ]), array([ 31.719684,  61.183584, 121.885212, 181.65702 , 240.07698 ,
+       299.16348 , 359.832204, 421.115682, 480.46578 ]), array([ 28.5894744,  59.585772 , 117.438954 , 179.03595  , 238.4268   ,
+       296.33157  , 356.45514  , 418.05672  , 477.430344 ]), array([ 30.187908,  58.982634, 118.279446, 178.408728, 239.268438,
+       297.9048  , 356.53539 , 417.401964, 476.788218]), array([ 30.6968484,  60.116688 , 120.52836  , 180.18576  , 241.44876  ,
+       301.10244  , 359.255076 , 419.8161   , 481.09404  ]), array([ 29.528121,  62.203968, 120.73746 , 180.357528, 239.981334,
+       300.404208, 360.797196, 418.105944, 480.13812 ]), array([ 31.313736,  61.50042 , 122.57016 , 182.796708, 241.47888 ,
+       300.83316 , 361.005132, 421.1298  , 480.48768 ]), array([ 30.698646,  61.096422, 123.184032, 182.563776, 242.881338,
+       300.709422, 360.98694 , 421.184376, 480.51684 ]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 60., 120., 240., 360.]), array([ 60., 120., 240., 360.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([120., 240., 360., 480., 600.]), array([ 54.845352,  80.938938, 114.968922, 141.081576, 175.016214,
+       204.679458, 232.49304 , 284.855664]), array([157.20537, 182.00406, 214.71711, 244.63623, 303.86526]), array([126.119184, 156.704892, 188.988804, 222.152436, 250.88694 ,
+       311.997156]), array([ 94.37736 , 118.20006 , 152.5224  , 186.912216, 209.717658,
+       245.82021 ]), array([ 89.283744, 125.142576, 155.631396, 178.116162, 218.302128,
+       245.195616, 300.986796]), array([ 57.077988,  89.527104, 123.74595 , 158.729352, 179.764422,
+       222.513726, 247.25904 , 308.43924 ]), array([120., 240., 360., 480., 600.]), array([ 15.,  30.,  60.,  90., 120., 180., 240., 360., 480., 600.]), array([1440.]), array([ 15.,  30.,  60.,  90., 120., 180., 240., 360., 480., 600.]), array([1440.]), array([ 15.,  30.,  60.,  90., 120., 180., 240., 360., 480., 600.]), array([1440.]), array([ 30.,  60., 120., 180., 240.]), array([ 30.,  60., 120., 180., 240., 300.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([30.]), array([ 30.,  60., 120.]), array([ 30.,  60., 120., 180.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.]), array([ 30.,  60., 120., 180., 240., 300., 360., 420., 480.])]
+	y_references: [array([0.00134847, 0.00337236, 0.00694698, 0.01443465, 0.0103744 ,
+       0.0060438 , 0.00367192, 0.00217794, 0.00149398, 0.00060789]), array([0.00035495, 0.00047326, 0.00055087, 0.000673  , 0.00092999,
+       0.00092872, 0.00070862, 0.00060685, 0.0004809 , 0.00030024]), array([0.00289367, 0.00466869, 0.01006135, 0.01584543, 0.01524672,
+       0.01017325, 0.00569202, 0.00311914, 0.00205961, 0.00100021]), array([0.00035831, 0.00046792, 0.00055007, 0.00068108, 0.00091   ,
+       0.00089218, 0.00071574, 0.00061176, 0.00048427, 0.00030783]), array([0.0024405 , 0.00481324, 0.00955846, 0.01870947, 0.01292569,
+       0.00822795, 0.00441259, 0.00263395, 0.00153391, 0.00084197]), array([0.00032568, 0.00042622, 0.00050753, 0.00063424, 0.000931  ,
+       0.0009571 , 0.00071735, 0.00061412, 0.00047975, 0.00029748]), array([9.14338759e-05, 1.38697883e-02, 2.79517811e-02, 2.33536565e-02,
+       1.86041814e-02, 9.71229771e-03, 4.70799658e-03, 2.52890929e-03,
+       1.29090234e-03, 1.11671786e-03, 8.50269285e-04]), array([0.79028073]), array([2.07085852e-02, 8.71946037e-03, 5.88371113e-04, 7.36251356e-05]), array([7.59490030e-03, 4.00825663e-03, 4.27765143e-04, 3.06163273e-05]), array([0.85471007]), array([0.00094538, 0.00409803, 0.01361979, 0.02259936, 0.02801547,
+       0.02951977, 0.0182777 , 0.00560653, 0.00166178]), array([1.50389243]), array([0.10299667, 0.19060244, 0.18526905, 0.17312397, 0.13492706,
+       0.10679303, 0.06858091, 0.03835976, 0.02027503, 0.01166191]), array([0.68515211, 1.92276181, 2.66581371, 3.10035428, 3.26404058]), array([0.00020248, 0.00261462, 0.01282563, 0.02105229, 0.01621653,
+       0.01041808, 0.00665274, 0.00491178, 0.0036452 , 0.00087137]), array([0.0014029 , 0.01186161, 0.03903433, 0.04403382, 0.02631019,
+       0.0187325 , 0.01434224, 0.01071815, 0.00735262, 0.001948  ,
+       0.0001868 ]), array([0.00805774, 0.01143911, 0.01404408, 0.02918534, 0.01621673,
+       0.00939992, 0.00911196, 0.00561089, 0.00153482, 0.00065574]), array([0.00098139, 0.00169063, 0.00202608, 0.00316722, 0.00368085,
+       0.012035  , 0.01415661, 0.0125207 , 0.00611057, 0.00080254,
+       0.00069576]), array([0.00176547, 0.00632319, 0.02731819, 0.03138254, 0.01852491,
+       0.01828492, 0.01514521, 0.01494882, 0.00594983, 0.00217207,
+       0.00018567]), array([0.01747722, 0.03277069, 0.04432184, 0.03694964, 0.03412577,
+       0.02504345, 0.01638401, 0.00921396, 0.00524009, 0.00182259,
+       0.00066937]), array([0.001156  , 0.0023878 , 0.00302162, 0.00370985, 0.0129645 ,
+       0.02504345, 0.02138016, 0.01308606, 0.00416409]), array([0.00046153, 0.00912389, 0.02971711, 0.02149744, 0.01654241,
+       0.0134598 , 0.01081708, 0.00716969, 0.00356682, 0.00080904,
+       0.00017248]), array([1.27952518e-03, 7.85902866e-03, 1.66676327e-02, 2.16317799e-02,
+       2.57223343e-02, 2.19969598e-02, 1.31979600e-02, 9.96823543e-03,
+       3.43591354e-03, 4.13369545e-04, 5.91948514e-05]), array([0.0002286 , 0.00211653, 0.00489703, 0.00702046, 0.01749384,
+       0.01388447, 0.0104861 , 0.00690715, 0.00258129, 0.00064681,
+       0.00017356]), array([0.00460583, 0.01155564, 0.01666763, 0.01946251, 0.01896724,
+       0.01450245, 0.01172785, 0.00758242, 0.0044612 , 0.00262008,
+       0.00127704]), array([0.0181933 , 0.01751786, 0.01585187, 0.01593647, 0.01226111,
+       0.00892067, 0.00613747, 0.00341445, 0.00096888, 0.00028717]), array([0.01617191, 0.01491072, 0.01383159, 0.01740139, 0.01760359,
+       0.02283278, 0.01681982, 0.01394557, 0.00846402, 0.00340192,
+       0.00113477]), array([0.02659802, 0.05536803, 0.04708212, 0.0336376 , 0.02201827,
+       0.01736943, 0.01504023, 0.00913646, 0.00381925, 0.00064688,
+       0.00016824]), array([0.00079739, 0.00205081, 0.0022087 , 0.04151826, 0.03399761,
+       0.02143772, 0.01521107, 0.00631979, 0.00155301, 0.00065656]), array([0.00036903, 0.003917  , 0.00586454, 0.00604653, 0.0048297 ,
+       0.02838844, 0.02143667, 0.01360152, 0.00561563, 0.00100578,
+       0.00028359]), array([0.00028572, 0.00684818, 0.03004805, 0.03528899, 0.02157195,
+       0.01891385, 0.01236973, 0.00291264, 0.00087396]), array([1.11579615, 1.31161751, 1.45603743, 1.53992872, 1.59292482]), array([0.00137377, 0.01188313, 0.0184869 , 0.04586705, 0.05616891,
+       0.06140314, 0.05697212, 0.0421555 , 0.02855636, 0.01839233,
+       0.01665309, 0.00822956]), array([0.00535974, 0.00455085, 0.0072634 , 0.01159297, 0.01267329,
+       0.00902927, 0.00539156, 0.00365221, 0.00280672, 0.00194983]), array([0.00797173, 0.01463276, 0.03616276, 0.03132283, 0.02097603,
+       0.01236317, 0.00435645]), array([0.00142788, 0.00347986, 0.00586577, 0.00858225, 0.00763029,
+       0.00564216, 0.00260249]), array([0.01424752, 0.03280369, 0.04164756, 0.04589736, 0.04257326,
+       0.03731388, 0.02870005]), array([0.00090704, 0.00191817, 0.00233405, 0.00264637, 0.00263494,
+       0.00227693, 0.00185336]), array([0.00054427, 0.0065913 , 0.01259918, 0.01697551, 0.01903808,
+       0.02326878, 0.02184658, 0.02074786, 0.01380965, 0.00877954,
+       0.00521052, 0.00267941, 0.00159019, 0.00092766]), array([0.00080967, 0.00327996, 0.00495621, 0.00623376, 0.00727747,
+       0.00757549, 0.00757549, 0.00652635, 0.00400885, 0.00269904,
+       0.00177598, 0.00123049, 0.00099528, 0.00077337, 0.00066626]), array([0.22058547, 0.57673421, 0.74711394, 0.82711244, 0.85021067]), array([0.40329763, 1.22805293, 1.69574753, 2.15465603, 2.32967194]), array([0.00597755, 0.02668541, 0.0351373 , 0.03796436, 0.04998854,
+       0.05886001, 0.0521845 , 0.05542183, 0.04245421, 0.02933257,
+       0.01648765, 0.01565862, 0.0090316 , 0.00674221, 0.00457892]), array([0.00429987, 0.00679938, 0.01052336, 0.01130812, 0.01422249,
+       0.01392523, 0.0165395 , 0.01435532, 0.01143408, 0.00823944,
+       0.0068019 , 0.00573699, 0.00416362, 0.00315446, 0.0026606 ]), array([0.00117374, 0.00284903, 0.00556628, 0.00827138, 0.01313059,
+       0.01541134, 0.03810069, 0.04028703, 0.02304965, 0.01061441,
+       0.00428302, 0.00202897]), array([0.00017031, 0.00041339, 0.00082305, 0.00133144, 0.00195992,
+       0.00234418, 0.0050304 , 0.00692779, 0.00567314, 0.00370427,
+       0.00207969, 0.00110334]), array([0.00085965, 0.0021264 , 0.00456564, 0.00704544, 0.00826917,
+       0.01402351, 0.02005553, 0.01823499, 0.00940416, 0.00489582,
+       0.002622  , 0.00152871]), array([0.00022181, 0.00057517, 0.00127042, 0.00190572, 0.00234479,
+       0.00420813, 0.00596174, 0.00673441, 0.0048323 , 0.00287107,
+       0.00164262, 0.0010231 ]), array([0.02016894, 0.03479167, 0.04457356, 0.04775408, 0.03711455,
+       0.02823437, 0.01452437, 0.00732798, 0.00426853, 0.00261865,
+       0.00123198]), array([0.00388799, 0.00842798, 0.01256418, 0.01399807, 0.01397236,
+       0.01214484, 0.00839688, 0.00514536, 0.00416198, 0.0024635 ,
+       0.00163529]), array([0.60000377, 1.4478837 , 1.73607178, 1.8843172 , 2.07889292]), array([0.01551802, 0.02477566, 0.03484984, 0.03961615, 0.0471045 ,
+       0.04322845, 0.03806088, 0.03459461, 0.02439563, 0.01310797,
+       0.00624348, 0.00339385, 0.00210942]), array([5.21767339e-06, 3.01999233e-06, 1.28117357e-06, 6.71367540e-07,
+       3.56212981e-07, 1.60804146e-07, 8.01791283e-08]), array([1.26086589e-05, 7.57511146e-06, 3.25378037e-06, 1.70506352e-06,
+       9.15982248e-07, 3.60667333e-07, 2.01115033e-07, 1.08041602e-07,
+       7.16948042e-08]), array([6.50252654e-05, 3.08501970e-05, 1.42770872e-05, 7.76574546e-06,
+       3.41960958e-06, 1.83705868e-06, 9.50776126e-07, 4.68214945e-07,
+       2.16684053e-07]), array([5.18075254e-04, 3.94146202e-04, 1.40507826e-04, 7.93296001e-05,
+       3.81072954e-05, 1.63684418e-05, 6.85823661e-06, 2.94585710e-06,
+       1.21904488e-06]), array([1.24750649e-02, 5.49333646e-03, 2.54224758e-03, 1.13346544e-03,
+       5.11676870e-04, 2.33873160e-04, 1.16612320e-04, 4.26168908e-05,
+       1.34169633e-05]), array([0.01879949, 0.02564914, 0.01879949, 0.01521934, 0.00758857,
+       0.00455911, 0.00179515, 0.00145328, 0.00065605]), array([0.02155331, 0.04113027, 0.04715517, 0.03632377, 0.01975761,
+       0.01035349, 0.00591859, 0.00355581, 0.001687  ]), array([1.73353600e-07, 9.54880362e-08]), array([3.22849052e-07, 1.73463462e-07, 7.93360557e-08]), array([1.62610762e-06, 8.84645398e-07, 3.19454085e-07, 1.80506144e-07,
+       1.00735934e-07]), array([1.52539028e-05, 8.50722893e-06, 3.98890009e-06, 2.42856181e-06,
+       1.38940477e-06, 1.01939680e-06, 6.12961145e-07, 4.22606488e-07,
+       1.25070721e-07]), array([3.50332906e-04, 2.83742886e-04, 3.78857529e-05, 1.82114044e-05,
+       8.75408870e-06, 4.31405831e-06, 2.12596449e-06, 1.34353993e-06,
+       7.49787077e-07]), array([3.09366809e-04, 4.06977905e-04, 3.42372473e-04, 2.67309463e-04,
+       1.86600884e-04, 1.05439243e-04, 6.10784867e-05, 4.21101099e-05,
+       2.59584355e-05]), array([3.37510606e-04, 5.02801843e-04, 6.21946163e-04, 5.92506467e-04,
+       3.83875269e-04, 2.27967795e-04, 1.80214718e-04, 1.00572122e-04,
+       5.40693468e-05]), array([0.75342062]), array([3.12721161]), array([0.07362292, 0.09359751, 0.07171798, 0.02156877, 0.01183136,
+       0.00595545, 0.00262314]), array([0.0924714 , 0.14780234, 0.16434357, 0.15986286, 0.14406132,
+       0.11371868, 0.11498229, 0.10264913, 0.08574546, 0.08754245,
+       0.05045948, 0.05159936]), array([1.495046]), array([0.        , 0.02330146, 0.05327055, 0.07604489, 0.10478587,
+       0.10575255, 0.07091056, 0.0402822 , 0.01983411, 0.00517714,
+       0.00456412]), array([0.        , 0.02312428, 0.05853675, 0.07060316, 0.069331  ,
+       0.04853132, 0.02597641, 0.01237477, 0.00544132, 0.00324805,
+       0.00263283]), array([0.        , 0.01575236, 0.04115953, 0.05866767, 0.05616631,
+       0.03887761, 0.0266796 , 0.01448048, 0.00596898, 0.00307253,
+       0.0012292 ]), array([0.        , 0.02259882, 0.04765439, 0.05287545, 0.04423192,
+       0.02939998, 0.025101  , 0.00939145, 0.00526579, 0.00254596,
+       0.00070209]), array([0.00586753, 0.03520516, 0.06702522, 0.08598185, 0.04919696,
+       0.02256741, 0.01263775, 0.00496483, 0.00135404]), array([0.0130891 , 0.0444578 , 0.08485347, 0.11531949, 0.09207505,
+       0.06070634, 0.03633353, 0.02256741, 0.01060668]), array([0.0191823 , 0.05032533, 0.08011432, 0.15684352, 0.12457213,
+       0.09658852, 0.07514949, 0.05777258, 0.03272275]), array([0.00103108, 0.00659889, 0.00886726, 0.01278535, 0.01464128,
+       0.01031076, 0.00701132, 0.00391809, 0.00206215]), array([0.00123729, 0.00206215, 0.00618646, 0.00907347, 0.01113563,
+       0.01278535, 0.00927969, 0.00701132, 0.00453674]), array([0.00020622, 0.00041243, 0.00206215, 0.00309323, 0.00783618,
+       0.00721753, 0.00639267, 0.0053616 , 0.00226837]), array([0.00260759, 0.00736292, 0.019825  , 0.03746485, 0.04066205,
+       0.02750544, 0.01838791, 0.00783951, 0.00338168]), array([1.7987733]), array([0.00330167, 0.01477137, 0.02366432, 0.02889937, 0.02956727,
+       0.02224242, 0.01260518, 0.00419428, 0.002291  ]), array([1.91672564]), array([0.00946149, 0.03513315, 0.04795761, 0.0401739 , 0.02937364,
+       0.02012457, 0.01119765, 0.00528882, 0.00300046, 0.00191958,
+       0.00101114]), array([0.00297242, 0.00821075, 0.01360662, 0.01531462, 0.01370303,
+       0.01103777, 0.00770974, 0.00438171, 0.00300349, 0.00178229,
+       0.00108845]), array([0.72752748, 1.43888769, 1.69486958, 1.90342746, 2.0570166 ]), array([0.00928866, 0.02961506, 0.02398762, 0.01654956, 0.01324969,
+       0.01046791, 0.00593783, 0.00287388, 0.00179377, 0.00079872,
+       0.00066626]), array([0.00576465, 0.01748361, 0.02103503, 0.01810634, 0.01644259,
+       0.01377732, 0.00807852, 0.00485586, 0.00337176, 0.00252039,
+       0.00177386]), array([0.79758569, 1.53589136, 1.84576417, 1.94276784, 2.03492132]), array([0.00206321, 0.00705607, 0.00911929, 0.01267615, 0.01990456,
+       0.01478257, 0.01332725, 0.00670196, 0.00530418, 0.00258499]), array([0.01147001, 0.04509584, 0.0849376 , 0.09863936, 0.08412076,
+       0.07789114, 0.05204229, 0.03352581, 0.01787912, 0.01482368]), array([0.00283261, 0.00642139, 0.01180633, 0.01738073, 0.03032549,
+       0.03230275, 0.03058516, 0.02234402, 0.01249563, 0.00841444]), array([0.00084718, 0.00169381, 0.00424279, 0.00565687, 0.00678378,
+       0.00705961, 0.00581438, 0.00428607, 0.00313593, 0.0018907 ]), array([0.0030972 , 0.0106176 , 0.02365272, 0.04381092, 0.04770745,
+       0.05051276, 0.03303055, 0.0207183 , 0.01415046, 0.0058593 ]), array([0.00153725, 0.00314437, 0.0069176 , 0.01198353, 0.01673501,
+       0.01823732, 0.01799276, 0.01757351, 0.01166909, 0.01124984]), array([0.92445152]), array([0.03168575, 0.03434658, 0.01019744, 0.00461259, 0.00211628,
+       0.00101255, 0.00040374, 0.00029428, 0.00017877]), array([0.00795546, 0.01314266, 0.00856386, 0.00327335, 0.00196114,
+       0.0009125 , 0.00053894, 0.00021183, 0.00016339]), array([0.00401832, 0.02965248, 0.03516556, 0.02734774, 0.01674276,
+       0.01054226, 0.00722318, 0.00530997, 0.00401465]), array([0.0008993 , 0.00493834, 0.0095831 , 0.00612   , 0.00449889,
+       0.00321523, 0.00246529, 0.00166557, 0.00107872]), array([0.00274044, 0.04507989, 0.02816245, 0.01636869, 0.00755463,
+       0.00445471, 0.00220908, 0.00077515, 0.0003377 ]), array([0.00058352, 0.0050907 , 0.01147607, 0.00770485, 0.00509886,
+       0.00305051, 0.00204821, 0.00133576, 0.00062549]), array([0.00133578, 0.007175  , 0.00777924, 0.00614585, 0.00451894,
+       0.00231852, 0.00147607, 0.00077938, 0.00040567]), array([0.00010723, 0.00132712, 0.00394   , 0.00223574, 0.00253114,
+       0.00129882, 0.00125515, 0.00088377, 0.00041593]), array([0.03893482, 0.05362322, 0.04757919, 0.02726843, 0.01489924,
+       0.00997968, 0.00576291, 0.00358425, 0.00196782]), array([0.00834859, 0.01354461, 0.01305204, 0.00889572, 0.00520802,
+       0.00296878, 0.00170941, 0.00117419, 0.0006603 ]), array([0.02698731, 0.04800087, 0.04518969, 0.02544116, 0.01405589,
+       0.00780102, 0.00456816, 0.00231922, 0.00119475]), array([0.00873199, 0.01535522, 0.01409576, 0.00812891, 0.00503763,
+       0.00309661, 0.0019863 , 0.00134462, 0.00087333]), array([0.0047405 , 0.00320477, 0.00271349, 0.00102265]), array([0.00231776, 0.00177695, 0.00113293, 0.00064461]), array([0.00529784, 0.01345682, 0.02141142, 0.01312646, 0.00796618,
+       0.00491848, 0.00275066, 0.00185919, 0.00101228]), array([0.00177705, 0.00456657, 0.01326955, 0.00986975, 0.00580959,
+       0.00293812, 0.00169492, 0.00106716, 0.00052832]), array([0.41314193, 0.76239428, 0.88568617, 0.92803501, 0.94232593]), array([0.07587248, 0.05120259, 0.04567593, 0.03305611, 0.02079046,
+       0.01855206, 0.01135135, 0.00983431]), array([0.08335304, 0.07228364, 0.05147691, 0.02582919, 0.01367004]), array([0.10460749, 0.09724886, 0.0785712 , 0.06437154, 0.04522127,
+       0.03303238]), array([0.01816689, 0.01810645, 0.01261385, 0.01154281, 0.00666836,
+       0.00494607]), array([0.08451027, 0.08422067, 0.05949504, 0.02895561, 0.02534753,
+       0.0136351 , 0.00808785]), array([0.10791043, 0.08176214, 0.06282998, 0.03892163, 0.03173749,
+       0.01452622, 0.0167098 , 0.0067031 ]), array([0.27394667, 0.52081305, 0.6234307 , 0.82818682, 0.95284544]), array([0.01259543, 0.03200175, 0.05744119, 0.05929904, 0.06528405,
+       0.05310604, 0.03678311, 0.01364322, 0.00357562, 0.00120428]), array([2.05531965]), array([0.00542365, 0.00767472, 0.01863781, 0.02960563, 0.03803406,
+       0.05109541, 0.03922646, 0.01381993, 0.0048377 , 0.00181759]), array([1.81056853]), array([0.00276057, 0.00715047, 0.01300088, 0.01691843, 0.01440076,
+       0.02023718, 0.00984054, 0.00306812, 0.00130258, 0.00070613]), array([1.91082803]), array([2.55958817e-07, 1.63040428e-07, 6.99956829e-08, 3.69711636e-08,
+       2.54226427e-08]), array([4.59040835e-07, 2.92391260e-07, 1.30348744e-07, 7.42389420e-08,
+       3.70573071e-08, 1.84981405e-08]), array([3.44715499e-06, 1.85326138e-06, 8.57869663e-07, 4.28228450e-07,
+       3.83352972e-07, 1.80838588e-07, 1.06950436e-07, 4.95112291e-08,
+       2.71557702e-08]), array([5.02488500e-06, 2.41255957e-06, 1.42686099e-06, 7.67992215e-07,
+       4.37402955e-07, 2.44468743e-07, 1.29130072e-07, 6.95028368e-08,
+       3.60255898e-08]), array([4.64249587e-05, 2.44938075e-05, 1.71626740e-05, 9.96021762e-06,
+       6.00282555e-06, 4.45088464e-06, 2.63246237e-06, 1.44376398e-06,
+       7.91915664e-07]), array([5.29705414e-05, 3.50369403e-05, 2.23434737e-05, 1.27255225e-05,
+       8.58740859e-06, 5.90466619e-06, 3.00362025e-06, 1.26535781e-06,
+       7.07240623e-07]), array([2.88746149e-04, 1.58193088e-04, 8.19966443e-05, 4.33087603e-05,
+       3.15134053e-05, 1.97213464e-05, 1.10224516e-05, 7.29909943e-06,
+       2.74631387e-06]), array([4.37091531e-04, 2.26298526e-04, 9.53398266e-05, 6.19540870e-05,
+       3.39803928e-05, 2.33654299e-05, 1.38190257e-05, 7.29909943e-06,
+       4.07953763e-06]), array([1.40608159e-08]), array([6.23022796e-08, 3.21792552e-08, 1.69173119e-08]), array([1.34898550e-07, 4.77997305e-08, 2.65900086e-08, 1.42444261e-08]), array([6.32485471e-07, 3.39216534e-07, 1.75009366e-07, 9.91975803e-08,
+       7.89407685e-08, 5.50531203e-08, 4.21882194e-08, 2.99833019e-08,
+       1.79843000e-08]), array([1.13431343e-06, 6.81195139e-07, 3.13848028e-07, 1.88259916e-07,
+       1.24079689e-07, 1.04475469e-07, 6.14992078e-08, 3.23305184e-08,
+       2.21257345e-08]), array([7.05507383e-06, 4.15750108e-06, 1.81036791e-06, 8.82601315e-07,
+       7.43194654e-07, 4.99175329e-07, 2.62412233e-07, 2.25154689e-07,
+       1.63057340e-07]), array([1.64726142e-05, 7.74293975e-06, 2.54136107e-06, 1.49596546e-06,
+       8.48004096e-07, 5.18316846e-07, 3.48123761e-07, 1.83010848e-07,
+       1.25248944e-07])]
+	y_errors: [array([0.00101284, 0.00121588, 0.00128285, 0.00533513, 0.00378185,
+       0.00225105, 0.00141818, 0.00087793, 0.00074268, 0.00533513]), array([1.41215618e-04, 1.83198588e-04, 1.75565343e-04, 1.85743048e-04,
+       2.97697726e-04, 2.18820543e-04, 1.50121093e-04, 1.42487794e-04,
+       1.32310088e-04, 6.61550442e-05]), array([0.00131607, 0.00164508, 0.00250052, 0.00506692, 0.00513279,
+       0.00355352, 0.00276381, 0.00092138, 0.00072377, 0.00513279]), array([1.39033358e-04, 1.76242132e-04, 1.78198265e-04, 1.86033358e-04,
+       2.54571890e-04, 2.11488413e-04, 1.42951929e-04, 1.40991539e-04,
+       1.27281742e-04, 5.87516275e-05]), array([0.00142561, 0.00149362, 0.00291923, 0.00515934, 0.0054989 ,
+       0.00346219, 0.00196856, 0.00108605, 0.00067834, 0.0054989 ]), array([8.86204893e-05, 1.60474941e-04, 1.46104063e-04, 1.74845797e-04,
+       3.52084501e-04, 2.32327064e-04, 1.53287131e-04, 1.65265278e-04,
+       1.55684690e-04, 5.50907739e-05]), array([0.00134505, 0.01306334, 0.00864464, 0.00922095, 0.00825945,
+       0.0049937 , 0.00528349, 0.00489765, 0.00394008, 0.00172794,
+       0.001824  ]), array([0.18872376]), array([0.00962875, 0.00561661, 0.00144447, 0.00128368]), array([0.00307905, 0.00146656, 0.00161263, 0.00131963]), array([0.19993533]), array([0.00140099, 0.0057299 , 0.01185178, 0.02114013, 0.02132604,
+       0.01819783, 0.00930884, 0.00353438, 0.0012902 ]), array([0.38334513]), array([0.06671795, 0.05962161, 0.05252403, 0.04968166, 0.04542421,
+       0.03123026, 0.02839129, 0.01987533, 0.01419507, 0.00425964]), None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, array([0.34619414, 0.34187779, 0.31619412, 0.28692916, 0.27389032]), None, None, array([0.01758501, 0.00801478, 0.01758501, 0.0156811 , 0.01298305,
+       0.01005557, 0.00365637]), array([0.00105351, 0.00191916, 0.00098912, 0.00203336, 0.00250034,
+       0.00262999, 0.00090129]), array([0.02527277, 0.0283833 , 0.01686959, 0.01859361, 0.01896153,
+       0.01662344, 0.01842879]), array([0.00049096, 0.00094654, 0.00089228, 0.00096476, 0.00086309,
+       0.0006564 , 0.0004769 ]), array([7.61965086e-05, 8.95487615e-03, 1.22679429e-02, 1.27440245e-02,
+       1.07343996e-02, 1.19090517e-02, 1.00573484e-02, 9.55154989e-03,
+       6.35744987e-03, 5.18062987e-03, 2.80193701e-03, 1.58106700e-03,
+       1.02251805e-03, 5.71875206e-04]), array([0.00140902, 0.00347676, 0.00399232, 0.00417484, 0.0031647 ,
+       0.00291125, 0.00272137, 0.00154048, 0.00164166, 0.00117371,
+       0.00077231, 0.00038088, 0.00038249, 0.00022033, 0.00017349]), array([0.1824275 , 0.19748724, 0.18911626, 0.19916086, 0.20083441]), array([0.28681928, 0.68193043, 0.74339171, 0.34827763, 0.24877479]), array([0.01096288, 0.02448371, 0.02725985, 0.02329629, 0.02297558,
+       0.01844331, 0.01759661, 0.01346674, 0.02165487, 0.02194651,
+       0.02441969, 0.02757446, 0.01689811, 0.00998581, 0.00529895]), array([0.00541667, 0.00489236, 0.00686496, 0.00737624, 0.0080335 ,
+       0.00847134, 0.0089887 , 0.00570137, 0.0047755 , 0.00293872,
+       0.00536224, 0.00618719, 0.00480961, 0.00364367, 0.00228403]), None, None, None, None, array([0.02873616, 0.02676784, 0.02401348, 0.02440587, 0.01850089,
+       0.01653257, 0.00984289, 0.00590495, 0.00551129, 0.00315061,
+       0.00196961]), array([0.00347273, 0.00555637, 0.00430558, 0.00402715, 0.003056  ,
+       0.00333321, 0.00222255, 0.00180521, 0.00291709, 0.00152616,
+       0.00124957]), array([1.35880293, 0.91182866, 0.5542489 , 0.33970013, 0.67940098]), array([0.00592031, 0.00578427, 0.00585232, 0.00585232, 0.00585226,
+       0.00598842, 0.00653276, 0.0085062 , 0.00891461, 0.00714521,
+       0.00700911, 0.00660093, 0.00680508]), array([2.35743808e-06, 1.31033616e-06, 7.73281493e-07, 6.42047948e-07,
+       4.23123832e-07, 2.35743808e-06, 1.20935905e-07]), array([3.16077731e-06, 2.63237261e-06, 1.29724375e-06, 9.29071597e-07,
+       5.71229594e-07, 1.69503698e-07, 1.21387538e-07, 7.40407938e-08,
+       8.32246874e-08]), array([1.44987414e-05, 1.44987414e-05, 1.16467292e-05, 8.20088228e-06,
+       3.43862703e-06, 2.28327654e-06, 1.34680190e-06, 7.20904659e-07,
+       3.06939207e-07]), array([1.54485197e-04, 2.86824457e-04, 6.09645730e-05, 2.89039750e-05,
+       1.13632402e-05, 6.24315169e-06, 2.26912067e-06, 1.12359088e-06,
+       6.18013800e-07]), array([7.03853267e-03, 1.72723797e-03, 7.99344185e-04, 5.32697570e-04,
+       2.59402512e-04, 1.27435050e-04, 5.26875147e-05, 2.32215027e-05,
+       9.19463022e-06]), array([0.01249198, 0.01599545, 0.01024365, 0.01311084, 0.00619048,
+       0.00554022, 0.00180513, 0.00219202, 0.00098953]), array([0.01387878, 0.03355259, 0.02569436, 0.02881704, 0.01794592,
+       0.01174222, 0.0052364 , 0.00366476, 0.0018249 ]), array([5.09755551e-08, 4.02428056e-08]), array([1.28832884e-07, 6.62210875e-08, 2.62724537e-08]), array([9.82484857e-07, 5.16924445e-07, 1.99413365e-07, 1.43348265e-07,
+       9.15901595e-08]), array([5.56279155e-06, 2.00292412e-06, 2.17557717e-06, 1.37161366e-06,
+       9.24147284e-07, 9.26914745e-07, 6.32422289e-07, 4.68654505e-07,
+       9.11089836e-08]), array([1.16025059e-04, 2.58007383e-04, 1.57828880e-05, 1.40590542e-05,
+       6.75808526e-06, 3.52285590e-06, 1.73601493e-06, 9.21611123e-07,
+       4.68040903e-07]), array([1.62827360e-04, 2.29847273e-04, 1.80192951e-04, 1.77797909e-04,
+       2.02078411e-04, 1.37154527e-04, 9.03397176e-05, 6.62526083e-05,
+       4.16776336e-05]), array([3.46208073e-04, 2.93802005e-04, 3.04013742e-04, 3.46208073e-04,
+       3.31026865e-04, 2.18248092e-04, 1.51263995e-04, 1.01242035e-04,
+       4.66279317e-05]), array([0.13269639]), array([0.31404812]), None, None, array([0.4423213]), None, None, None, None, None, None, None, None, None, None, array([0.02624968, 0.00672712, 0.01994588, 0.02624968, 0.02152228,
+       0.01262006, 0.01109242, 0.00386954, 0.00293887]), array([0.64873791]), array([0.00118555, 0.01896864, 0.02004392, 0.01743142, 0.01407807,
+       0.01788308, 0.00960428, 0.0035531 , 0.00199091]), array([0.70771408]), array([0.00793265, 0.01480302, 0.0101439 , 0.00855155, 0.00583864,
+       0.00342062, 0.00548478, 0.002477  , 0.0012385 , 0.00103503,
+       0.00111971]), array([0.00242345, 0.00537426, 0.00374055, 0.00210787, 0.00126441,
+       0.00073705, 0.00194878, 0.00136978, 0.00105316, 0.00131709,
+       0.00094779]), array([0.23550334, 0.27626288, 0.30323739, 0.30808363, 0.35298556]), array([0.0125027 , 0.01503892, 0.007431  , 0.00389243, 0.00383345,
+       0.00401038, 0.00241802, 0.00182826, 0.0012385 , 0.00232833,
+       0.00094881]), array([0.00537426, 0.00258254, 0.00500496, 0.00516353, 0.00252882,
+       0.00310834, 0.0016332 , 0.00068541, 0.00094883, 0.00047364,
+       0.00057952]), array([0.07868075, 0.36480494, 0.40123847, 0.40536079, 0.53352016]), array([0.00309585, 0.00999058, 0.01013129, 0.0118198 , 0.0149154 ,
+       0.00942826, 0.00605099, 0.00534694, 0.00576957, 0.00225185]), array([0.00748424, 0.03706787, 0.03992023, 0.04205719, 0.02993953,
+       0.02708768, 0.01390128, 0.00748373, 0.00499035, 0.00748526]), array([0.0028771 , 0.00600843, 0.00860194, 0.01160958, 0.01269748,
+       0.01677905, 0.01724005, 0.01296796, 0.01017581, 0.00817719]), array([0.00174791, 0.00157116, 0.00393242, 0.00356945, 0.00371181,
+       0.00403473, 0.00338625, 0.00258695, 0.00215112, 0.00134382]), array([0.00225108, 0.01139766, 0.03011191, 0.04812236, 0.04488606,
+       0.03574001, 0.01618175, 0.01083457, 0.00787969, 0.0032363 ]), array([0.00136926, 0.00213947, 0.00342315, 0.00710304, 0.0084723 ,
+       0.00795882, 0.0072742 , 0.01172429, 0.01223777, 0.01335029]), array([0.16218448]), None, None, None, None, None, None, None, None, array([0.01806182, 0.01616427, 0.014337  , 0.00850382, 0.00358425,
+       0.00288146, 0.00231922, 0.00224894, 0.00126503]), array([0.00583639, 0.0027478 , 0.0028543 , 0.00204487, 0.00142717,
+       0.00117156, 0.00093723, 0.0006177 , 0.00023429]), array([0.00400593, 0.00435733, 0.00449789, 0.00288146, 0.00182727,
+       0.00098391, 0.00070279, 0.00070279, 0.00056224]), array([0.00078813, 0.00100117, 0.00100114, 0.00085205, 0.00097984,
+       0.00078811, 0.00048994, 0.00051124, 0.00029821]), array([0.00260616, 0.00156287, 0.00082036, 0.00040741]), array([0.0004057 , 0.00074605, 0.00054146, 0.00053362]), array([0.00440157, 0.00633776, 0.009683  , 0.00497337, 0.00347695,
+       0.00246467, 0.00114449, 0.00074857, 0.00039629]), array([0.00167228, 0.00325689, 0.00616151, 0.00426917, 0.00268456,
+       0.00149659, 0.00083641, 0.00061599, 0.00039593]), array([0.16031627, 0.1711507 , 0.20967975, 0.20093078, 0.20025844]), None, None, None, None, None, None, None, array([0.01501001, 0.02695541, 0.0398948 , 0.04314232, 0.03778667,
+       0.03403595, 0.02435593, 0.01198179, 0.00296955, 0.00119241]), array([0.23295589]), array([0.01183826, 0.01312325, 0.01893415, 0.02287238, 0.02895136,
+       0.02075491, 0.02113083, 0.00758184, 0.00232426, 0.00118418]), array([0.35385704]), array([0.00373334, 0.00689811, 0.01604819, 0.01807572, 0.01444331,
+       0.0103063 , 0.00520391, 0.0024408 , 0.00111268, 0.00026785]), array([0.39808917]), None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+	y_errors_type: ['SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'SD', None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, 'SD', None, None, None, None, None, None, None, None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, None, None, None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, None, None, None, None, 'SD', 'SD', 'SD', 'SD', 'SD', 'SD', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+	weights: [array([1.59764809, 3.3283062 , 6.49830756, 3.24670489, 3.29184698,
+       3.22185669, 3.10702538, 2.97691107, 2.41391921, 0.13672837]), array([3.01621563, 3.1000005 , 3.76521725, 4.34794479, 3.74871815,
+       5.09302375, 5.66440629, 5.11071494, 4.36153923, 5.44615497]), array([2.63847627, 3.40556174, 4.8284382 , 3.7526753 , 3.56454283,
+       3.4354442 , 2.47138144, 4.06233399, 3.41481628, 0.23383979]), array([3.09260139, 3.18600198, 3.70422389, 4.39327122, 4.28953876,
+       5.06227589, 6.00821076, 5.20674311, 4.56569251, 6.28751893]), array([2.05428023, 3.8670284 , 3.92916883, 4.35159813, 2.82071335,
+       2.85181914, 2.689834  , 2.91032151, 2.71353662, 0.18373927]), array([4.41001028, 3.18717538, 4.1685288 , 4.35288474, 3.17308739,
+       4.94355287, 5.61573114, 4.45913334, 3.69785274, 6.479754  ]), array([0.06179822, 0.96521232, 2.93947558, 2.30243084, 2.04770171,
+       1.76810142, 0.8100695 , 0.46941096, 0.29784841, 0.58751799,
+       0.42377965]), array([37.6875]), array([8.60281589, 6.2097647 , 1.62930655, 0.22941972]), array([ 9.86656599, 10.93239899,  1.06103879,  0.09280262]), array([68.39892183]), array([1.2746117 , 1.35093345, 2.17066706, 2.01927157, 2.48138423,
+       3.06407846, 3.70879172, 2.99631628, 2.43290316]), array([66.69230769]), array([3.55065384, 7.35279734, 8.11283573, 8.01473102, 6.83186858,
+       7.86493385, 5.5557919 , 4.43904252, 3.28512547, 6.29686389]), array([9.2, 9.2, 9.2, 9.2, 9.2]), array([0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]), array([0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818, 0.18181818, 0.18181818, 0.18181818, 0.18181818,
+       0.18181818]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([ 9.66910773, 11.50952947, 13.8146537 , 16.10078985, 17.44776722]), array([0.16666667, 0.16666667, 0.16666667, 0.16666667, 0.16666667,
+       0.16666667, 0.16666667, 0.16666667, 0.16666667, 0.16666667,
+       0.16666667, 0.16666667]), array([0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]), array([0.32380371, 1.30408703, 1.46889547, 1.42677782, 1.15403393,
+       0.8782033 , 0.85104814]), array([0.9681171 , 1.29515597, 4.23592891, 3.01480789, 2.17978273,
+       1.53237018, 2.06250398]), array([1.28857111, 2.6416892 , 5.64296006, 5.6421668 , 5.13198548,
+       5.13063842, 3.55965445]), array([4.22283906, 4.63200488, 5.97901364, 6.26980486, 6.97806984,
+       7.9286729 , 8.8828593 ]), array([8.16344247, 0.8412083 , 1.17371477, 1.52232819, 2.02692349,
+       2.23299783, 2.48251509, 2.4825124 , 2.48251323, 1.93678354,
+       2.1252709 , 1.93678367, 1.77733547, 1.85386511]), array([0.61293921, 1.00628999, 1.3241976 , 1.59272001, 2.45287956,
+       2.77561668, 2.96928307, 4.51900497, 2.60475057, 2.45288067,
+       2.45288142, 3.44605727, 2.77561749, 3.7440806 , 4.09631005]), array([ 3.8693371 ,  9.34515799, 12.64177206, 13.2895578 , 13.54685285]), array([ 1.68732436,  2.1610174 ,  2.73731469,  7.4239256 , 11.2374985 ]), array([0.21810153, 0.43597004, 0.5155905 , 0.65185239, 0.87029013,
+       1.2765609 , 1.18623974, 1.64618395, 0.78419685, 0.53461927,
+       0.27007136, 0.22714674, 0.21378965, 0.27007138, 0.34564743]), array([0.31752857, 0.5559183 , 0.61316359, 0.61321882, 0.70815955,
+       0.657522  , 0.73601276, 1.00714877, 0.95772963, 1.12150129,
+       0.50739197, 0.37089447, 0.34627499, 0.34629551, 0.46594743]), array([6., 6., 6., 6., 6., 6., 6., 6., 6., 6., 6., 6.]), array([6., 6., 6., 6., 6., 6., 6., 6., 6., 6., 6., 6.]), array([5.66666667, 5.66666667, 5.66666667, 5.66666667, 5.66666667,
+       5.66666667, 5.66666667, 5.66666667, 5.66666667, 5.66666667,
+       5.66666667, 5.66666667]), array([5.66666667, 5.66666667, 5.66666667, 5.66666667, 5.66666667,
+       5.66666667, 5.66666667, 5.66666667, 5.66666667, 5.66666667,
+       5.66666667, 5.66666667]), array([1.27612052, 2.3631934 , 3.37488845, 3.55757013, 3.6474459 ,
+       3.10509655, 2.68294545, 2.25634485, 1.40819347, 1.51119513,
+       1.13725587]), array([2.03559252, 2.7578439 , 5.30566948, 6.31986656, 8.31292274,
+       6.62470794, 6.86916462, 5.18234222, 2.59409806, 2.93487851,
+       2.37941913]), array([ 1.76627164,  6.35156042, 12.5291852 , 22.18800678, 12.23956376]), array([ 4.03253743,  6.58966192,  9.16134495, 10.4143104 , 12.3829774 ,
+       11.1056501 ,  8.96331856,  6.25690728,  4.21013708,  2.8223267 ,
+        1.37040972,  0.79099534,  0.47688806]), array([1.58091515, 1.64624731, 1.1834293 , 0.7469041 , 0.60133187,
+       0.04872243, 0.4735633 ]), array([5.3188009 , 3.8368993 , 3.3443012 , 2.44697828, 2.1380364 ,
+       2.83704594, 2.20906842, 1.94562297, 1.14861437]), array([2.98992689, 1.41852298, 0.81723014, 0.6312935 , 0.66297964,
+       0.53638084, 0.47063399, 0.43298832, 0.47063403]), array([2.23570613, 0.91611481, 1.53649701, 1.82972758, 2.23570595,
+       1.74788234, 2.01494694, 1.74788241, 1.31501366]), array([1.18159712, 2.12027779, 2.12027779, 1.41852276, 1.31501391,
+       1.22348946, 1.47552123, 1.22348932, 0.97281152]), array([1.00328338, 1.06901845, 1.22348941, 0.7738808 , 0.81722998,
+       0.5486076 , 0.66297976, 0.44199244, 0.44199252]), array([1.03531234, 0.8172298 , 1.22348948, 0.84033068, 0.73396837,
+       0.58782102, 0.7535202 , 0.64684703, 0.61628931]), array([10.2021606 ,  7.11839308]), array([10.02380886, 10.47783831, 12.07897165]), array([1.98611626, 2.05363567, 1.92236314, 1.51105681, 1.31982652]), array([1.82808729, 2.831603  , 1.222327  , 1.18039158, 1.00229678,
+       0.73318271, 0.64615174, 0.60116281, 0.91517299]), array([2.01297265, 0.73316477, 1.60028814, 0.86356707, 0.86356696,
+       0.81639413, 0.81641559, 0.97187769, 1.06797942]), array([1.26664547, 1.18042994, 1.26668837, 1.00229699, 0.61560554,
+       0.51250827, 0.45073188, 0.42373285, 0.41522568]), array([0.64991861, 1.14090858, 1.36385537, 1.14094483, 0.77309993,
+       0.69635674, 0.79426135, 0.66225537, 0.77306091]), array([68.13333333]), array([59.74647887]), array([0.28571429, 0.28571429, 0.28571429, 0.28571429, 0.28571429,
+       0.28571429, 0.28571429]), array([0.16666667, 0.16666667, 0.16666667, 0.16666667, 0.16666667,
+       0.16666667, 0.16666667, 0.16666667, 0.16666667, 0.16666667,
+       0.16666667, 0.16666667]), array([20.28]), array([1.81818182, 1.81818182, 1.81818182, 1.81818182, 1.81818182,
+       1.81818182, 1.81818182, 1.81818182, 1.81818182, 1.81818182,
+       1.81818182]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364, 1.63636364, 1.63636364, 1.63636364, 1.63636364,
+       1.63636364]), array([1.45454545, 1.45454545, 1.45454545, 1.45454545, 1.45454545,
+       1.45454545, 1.45454545, 1.45454545, 1.45454545, 1.45454545,
+       1.45454545]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22075066, 2.43225043, 2.20875527, 3.1716654 , 4.19844581,
+       4.84333502, 3.68377721, 4.50211994, 2.55705635]), array([55.45454545]), array([6.18871273, 1.73050211, 2.62360805, 3.68419921, 4.66719175,
+       2.76393174, 2.91656675, 2.62323881, 2.55717524]), array([54.16666667]), array([0.54214908, 1.07880786, 2.14896749, 2.13538787, 2.28677438,
+       2.67423378, 0.92799262, 0.97053203, 1.10120909, 0.84300748,
+       0.4104714 ]), array([0.55750932, 0.69445051, 1.65345469, 3.30247831, 4.92613265,
+       6.8070465 , 1.7982649 , 1.45401971, 1.29631511, 0.61509193,
+       0.52200513]), array([3.08924485, 5.20840042, 5.58924999, 6.17828177, 5.82748092]), array([0.33769653, 0.89510321, 1.46729484, 1.93260592, 1.57106084,
+       1.18645595, 1.11620621, 0.71450865, 0.65833543, 0.15592852,
+       0.31918333]), array([0.48756414, 3.07723817, 1.91038146, 1.59390186, 2.95548962,
+       2.01471391, 2.24838524, 3.22028744, 1.61527905, 2.4187983 ,
+       1.39132003]), array([10.1369863 ,  4.21017147,  4.60016747,  4.79268814,  3.81414141]), array([0.39986656, 0.42376346, 0.54006646, 0.64347026, 0.80069838,
+       0.94074054, 1.32149397, 0.75205184, 0.55160243, 0.68876332]), array([0.76627724, 0.60828742, 1.06384159, 1.1726814 , 1.40484418,
+       1.43775962, 1.87185164, 2.23991252, 1.79137133, 0.99019111]), array([0.59072233, 0.64123857, 0.82351165, 0.89826166, 1.43298492,
+       1.1551101 , 1.0644456 , 1.03381058, 0.7367843 , 0.61740852]), array([0.24234246, 0.53903005, 0.53946353, 0.79239955, 0.91381085,
+       0.87485612, 0.85852855, 0.82840273, 0.72890763, 0.7034791 ]), array([0.82552261, 0.5589357 , 0.47129638, 0.54624405, 0.63771406,
+       0.84800368, 1.22473361, 1.14734395, 1.07748903, 1.08629512]), array([0.67360961, 0.88181628, 1.21249739, 1.01225906, 1.18515735,
+       1.3748754 , 1.48410256, 0.89933825, 0.57211854, 0.5055999 ]), array([34.2]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([2.39515758, 3.68599093, 3.68736585, 3.56290069, 4.6187353 ,
+       3.84823798, 2.76094291, 1.77083338, 1.72839488]), array([1.58937547, 5.47695558, 5.08084556, 4.83361509, 4.05465585,
+       2.81560065, 2.02653858, 2.11211809, 3.13148084]), array([ 7.48537895, 12.24013872, 11.16319261,  9.81028802,  8.54700811,
+        8.80952238,  7.22222138,  3.66666736,  2.36111118]), array([12.31043866, 17.04133867, 15.64419051, 10.60046343,  5.71255976,
+        4.36573791,  4.50464992,  2.9223634 ,  3.25396883]), array([2.72844535, 3.07584906, 4.96153846, 3.76519977]), array([9.99781945, 4.16818182, 3.66163817, 2.11400309]), array([1.60483397, 2.83103853, 2.94831692, 3.51913598, 3.05485363,
+       2.66079012, 3.2045254 , 3.31156292, 3.40585989]), array([1.41687313, 1.86949838, 2.8714932 , 3.08248828, 2.88543952,
+       2.61761291, 2.70189036, 2.3099067 , 1.7791932 ]), array([2.57704301, 4.45452028, 4.22399471, 4.61868018, 4.70554918]), array([0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25]), array([0.4, 0.4, 0.4, 0.4, 0.4]), array([0.33333333, 0.33333333, 0.33333333, 0.33333333, 0.33333333,
+       0.33333333]), array([0.33333333, 0.33333333, 0.33333333, 0.33333333, 0.33333333,
+       0.33333333]), array([0.28571429, 0.28571429, 0.28571429, 0.28571429, 0.28571429,
+       0.28571429, 0.28571429]), array([0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25]), array([0.4, 0.4, 0.4, 0.4, 0.4]), array([0.83913524, 1.18721054, 1.4398165 , 1.37449843, 1.72770039,
+       1.56029246, 1.51023236, 1.13866287, 1.20409497, 1.00995384]), array([88.2278481]), array([0.64140424, 0.81874651, 1.37808866, 1.81213695, 1.839212  ,
+       3.44658624, 2.59890598, 2.5518727 , 2.91394789, 2.14885337]), array([71.63333333]), array([0.59154861, 0.8292667 , 0.64809216, 0.74878027, 0.797643  ,
+       1.57085908, 1.51279198, 1.00561136, 0.93654045, 2.10900468]), array([38.4]), array([0.4, 0.4, 0.4, 0.4, 0.4]), array([0.33333333, 0.33333333, 0.33333333, 0.33333333, 0.33333333,
+       0.33333333]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([2.]), array([0.66666667, 0.66666667, 0.66666667]), array([0.5, 0.5, 0.5, 0.5]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222]), array([0.22222222, 0.22222222, 0.22222222, 0.22222222, 0.22222222,
+       0.22222222, 0.22222222, 0.22222222, 0.22222222])]
+	weights_points: [array([1.33137341, 2.7735885 , 5.4152563 , 2.7055874 , 2.74320582,
+       2.68488058, 2.58918781, 2.48075923, 2.01159934, 0.11394031]), array([2.51351303, 2.58333375, 3.13768104, 3.62328732, 3.12393179,
+       4.24418646, 4.72033858, 4.25892912, 3.63461603, 4.53846248]), array([2.19873023, 2.83796812, 4.0236985 , 3.12722942, 2.97045236,
+       2.86287017, 2.05948453, 3.38527832, 2.84568023, 0.19486649]), array([2.57716782, 2.65500165, 3.08685324, 3.66105935, 3.57461563,
+       4.21856324, 5.0068423 , 4.3389526 , 3.80474376, 5.23959911]), array([1.71190019, 3.22252367, 3.27430736, 3.62633178, 2.35059446,
+       2.37651595, 2.24152834, 2.42526793, 2.26128052, 0.15311605]), array([3.67500857, 2.65597949, 3.473774  , 3.62740395, 2.64423949,
+       4.1196274 , 4.67977595, 3.71594445, 3.08154395, 5.399795  ]), array([0.06797804, 1.06173355, 3.23342314, 2.53267393, 2.25247188,
+       1.94491156, 0.89107645, 0.51635206, 0.32763325, 0.64626978,
+       0.46615762]), array([4.1875]), array([2.15070397, 1.55244118, 0.40732664, 0.05735493]), array([2.4666415 , 2.73309975, 0.2652597 , 0.02320066]), array([4.27493261]), array([0.67479443, 0.71520006, 1.14917668, 1.06902612, 1.313674  ,
+       1.62215918, 1.96347797, 1.58628509, 1.28800756]), array([3.92307692]), array([1.54376254, 3.19686841, 3.52731988, 3.48466566, 2.97037764,
+       3.41953645, 2.4155617 , 1.93001849, 1.42831542, 2.73776691]), array([2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([3.22303591, 3.83650982, 4.60488457, 5.36692995, 5.81592241]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([0.45332519, 1.82572184, 2.05645366, 1.99748895, 1.6156475 ,
+       1.22948462, 1.19146739]), array([1.35536394, 1.81321836, 5.93030047, 4.22073105, 3.05169582,
+       2.14531825, 2.88750558]), array([0.56374986, 1.15573902, 2.46879503, 2.46844797, 2.24524365,
+       2.24465431, 1.55734882]), array([1.84749209, 2.02650214, 2.61581847, 2.74303962, 3.05290556,
+       3.46879439, 3.88625094]), array([7.14301216, 0.73605726, 1.02700043, 1.33203716, 1.77355805,
+       1.9538731 , 2.17220071, 2.17219835, 2.17219908, 1.6946856 ,
+       1.85961204, 1.69468571, 1.55516854, 1.62213197]), array([0.57463051, 0.94339686, 1.24143525, 1.49317501, 2.29957459,
+       2.60214064, 2.78370288, 4.23656716, 2.44195366, 2.29957563,
+       2.29957633, 3.23067869, 2.6021414 , 3.51007556, 3.84029067]), array([1.20916785, 2.92036187, 3.95055377, 4.15298681, 4.23339152]), array([1.40610364, 1.80084784, 2.28109558, 6.18660467, 9.36458208]), array([0.54525382, 1.08992511, 1.28897625, 1.62963099, 2.17572531,
+       3.19140225, 2.96559935, 4.11545988, 1.96049212, 1.33654816,
+       0.67517839, 0.56786684, 0.53447413, 0.67517845, 0.86411856]), array([0.79382143, 1.38979574, 1.53290897, 1.53304706, 1.77039886,
+       1.64380501, 1.84003191, 2.51787193, 2.39432408, 2.80375324,
+       1.26847993, 0.92723617, 0.86568748, 0.86573877, 1.16486858]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([0.70186629, 1.29975637, 1.85618865, 1.95666357, 2.00609525,
+       1.7078031 , 1.47562   , 1.24098967, 0.77450641, 0.83115732,
+       0.62549073]), array([1.11957589, 1.51681415, 2.91811821, 3.47592661, 4.57210751,
+       3.64358937, 3.77804054, 2.85028822, 1.42675393, 1.61418318,
+       1.30868052]), array([0.44156791, 1.5878901 , 3.1322963 , 5.5470017 , 3.05989094]), array([2.62114933, 4.28328025, 5.95487422, 6.76930176, 8.04893531,
+       7.21867256, 5.82615706, 4.06698973, 2.7365891 , 1.83451236,
+       0.89076632, 0.51414697, 0.30997724]), array([2.21328121, 2.30474623, 1.65680102, 1.04566574, 0.84186461,
+       0.0682114 , 0.66298862]), array([3.98910067, 2.87767447, 2.5082259 , 1.83523371, 1.6035273 ,
+       2.12778445, 1.65680131, 1.45921723, 0.86146078]), array([4.48489034, 2.12778448, 1.22584521, 0.94694024, 0.99446946,
+       0.80457126, 0.70595098, 0.64948248, 0.70595104]), array([3.3535592 , 1.37417222, 2.30474551, 2.74459136, 3.35355892,
+       2.62182351, 3.02242041, 2.62182361, 1.97252048]), array([1.77239568, 3.18041669, 3.18041668, 2.12778414, 1.97252087,
+       1.83523419, 2.21328185, 1.83523398, 1.45921728]), array([1.50492508, 1.60352768, 1.83523412, 1.1608212 , 1.22584497,
+       0.8229114 , 0.99446964, 0.66298866, 0.66298878]), array([1.55296852, 1.22584469, 1.83523422, 1.26049602, 1.10095255,
+       0.88173153, 1.1302803 , 0.97027055, 0.92443396]), array([3.4007202 , 2.37279769]), array([2.50595221, 2.61945958, 3.01974291]), array([1.65509688, 1.71136306, 1.60196928, 1.25921401, 1.09985543]), array([2.74213093, 4.2474045 , 1.8334905 , 1.77058737, 1.50344517,
+       1.09977407, 0.96922761, 0.90174421, 1.37275948]), array([3.01945897, 1.09974716, 2.40043222, 1.29535061, 1.29535044,
+       1.22459119, 1.22462339, 1.45781653, 1.60196913]), array([1.89996821, 1.77064491, 1.90003255, 1.50344548, 0.92340831,
+       0.7687624 , 0.67609783, 0.63559928, 0.62283852]), array([0.97487792, 1.71136287, 2.04578306, 1.71141725, 1.1596499 ,
+       1.04453511, 1.19139202, 0.99338306, 1.15959136]), array([5.67777778]), array([9.95774648]), array([2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([3.38]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([0.0993378 , 1.09451269, 0.99393987, 1.42724943, 1.88930061,
+       2.17950076, 1.65769975, 2.02595397, 1.15067536]), array([2.77272727]), array([2.78492073, 0.77872595, 1.18062362, 1.65788964, 2.10023629,
+       1.24376928, 1.31245504, 1.18045747, 1.15072886]), array([2.70833333]), array([1.19272798, 2.37337729, 4.72772849, 4.69785331, 5.03090364,
+       5.88331431, 2.04158376, 2.13517048, 2.42266   , 1.85461645,
+       0.90303708]), array([ 1.22652051,  1.52779113,  3.63760033,  7.26545229, 10.83749183,
+       14.97550229,  3.95618279,  3.19884337,  2.85189324,  1.35320224,
+        1.14841128]), array([3.08924485, 5.20840042, 5.58924999, 6.17828177, 5.82748092]), array([0.74293236, 1.96922706, 3.22804865, 4.25173303, 3.45633385,
+       2.61020309, 2.45565366, 1.57191903, 1.44833795, 0.34304275,
+       0.70220333]), array([1.0726411 , 6.76992398, 4.20283922, 3.50658408, 6.50207715,
+       4.4323706 , 4.94644752, 7.08463237, 3.5536139 , 5.32135626,
+       3.06090407]), array([10.1369863 ,  4.21017147,  4.60016747,  4.79268814,  3.81414141]), array([0.66644427, 0.70627244, 0.90011077, 1.07245044, 1.33449731,
+       1.56790089, 2.20248994, 1.25341974, 0.91933738, 1.14793887]), array([1.53255449, 1.21657484, 2.12768319, 2.34536279, 2.80968835,
+       2.87551924, 3.74370329, 4.47982504, 3.58274266, 1.98038223]), array([0.98453722, 1.06873095, 1.37251941, 1.49710276, 2.38830821,
+       1.92518349, 1.77407599, 1.72301763, 1.22797383, 1.02901419]), array([0.48468491, 1.07806009, 1.07892706, 1.5847991 , 1.82762169,
+       1.74971225, 1.7170571 , 1.65680547, 1.45781525, 1.40695821]), array([1.37587102, 0.9315595 , 0.78549397, 0.91040675, 1.06285677,
+       1.41333947, 2.04122268, 1.91223992, 1.79581505, 1.81049187]), array([1.12268269, 1.46969381, 2.02082898, 1.68709843, 1.97526224,
+       2.291459  , 2.47350427, 1.49889709, 0.9535309 , 0.8426665 ]), array([5.7]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2.15564182, 3.31739184, 3.31862926, 3.20661062, 4.15686177,
+       3.46341418, 2.48484862, 1.59375004, 1.55555539]), array([1.43043792, 4.92926002, 4.572761  , 4.35025358, 3.64919027,
+       2.53404059, 1.82388472, 1.90090628, 2.81833275]), array([ 6.73684106, 11.01612485, 10.04687335,  8.82925922,  7.6923073 ,
+        7.92857014,  6.49999924,  3.30000062,  2.12500007]), array([11.0793948 , 15.3372048 , 14.07977146,  9.54041709,  5.14130379,
+        3.92916412,  4.05418493,  2.63012706,  2.92857194]), array([1.81896357, 2.05056604, 3.30769231, 2.51013318]), array([5.71303969, 2.38181818, 2.09236467, 1.20800177]), array([1.20362547, 2.1232789 , 2.21123769, 2.63935199, 2.29114022,
+       1.99559259, 2.40339405, 2.48367219, 2.55439492]), array([1.06265485, 1.40212379, 2.1536199 , 2.31186621, 2.16407964,
+       1.96320968, 2.02641777, 1.73243002, 1.3343949 ]), array([2.57704301, 4.45452028, 4.22399471, 4.61868018, 4.70554918]), array([2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2.]), array([0.83913524, 1.18721054, 1.4398165 , 1.37449843, 1.72770039,
+       1.56029246, 1.51023236, 1.13866287, 1.20409497, 1.00995384]), array([8.82278481]), array([0.45814589, 0.58481894, 0.98434904, 1.29438353, 1.31372286,
+       2.46184732, 1.85636142, 1.82276621, 2.08139135, 1.53489526]), array([5.11666667]), array([0.73943576, 1.03658337, 0.8101152 , 0.93597534, 0.99705375,
+       1.96357385, 1.89098997, 1.25701419, 1.17067557, 2.63625585]), array([4.8]), array([2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2.]), array([2., 2., 2.]), array([2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.]), array([2., 2., 2., 2., 2., 2., 2., 2., 2.])]
+	weights_curves: [1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 0.9090909090909091, 9.0, 4.0, 4.0, 16.0, 1.8888888888888888, 17.0, 2.3, 4.6, 0.1, 0.09090909090909091, 0.1, 0.09090909090909091, 0.09090909090909091, 0.09090909090909091, 0.1111111111111111, 0.09090909090909091, 0.09090909090909091, 0.09090909090909091, 0.09090909090909091, 0.1, 0.09090909090909091, 0.09090909090909091, 0.1, 0.09090909090909091, 0.1111111111111111, 3.0, 0.08333333333333333, 0.1, 0.7142857142857143, 0.7142857142857143, 2.2857142857142856, 2.2857142857142856, 1.1428571428571428, 1.0666666666666667, 3.2, 1.2, 0.4, 0.4, 3.0, 3.0, 2.8333333333333335, 2.8333333333333335, 1.8181818181818181, 1.8181818181818181, 4.0, 1.5384615384615385, 0.7142857142857143, 1.3333333333333333, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 3.0, 4.0, 1.2, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 0.6666666666666666, 12.0, 6.0, 0.14285714285714285, 0.08333333333333333, 6.0, 0.9090909090909091, 1.0, 0.8181818181818182, 0.7272727272727273, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 2.2222222222222223, 20.0, 2.2222222222222223, 20.0, 0.45454545454545453, 0.45454545454545453, 1.0, 0.45454545454545453, 0.45454545454545453, 1.0, 0.6, 0.5, 0.6, 0.5, 0.6, 0.6, 6.0, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 1.1111111111111112, 1.1111111111111112, 1.1111111111111112, 1.1111111111111112, 1.5, 1.75, 1.3333333333333333, 1.3333333333333333, 1.0, 0.125, 0.2, 0.16666666666666666, 0.16666666666666666, 0.14285714285714285, 0.125, 0.2, 1.0, 10.0, 1.4, 14.0, 0.8, 8.0, 0.2, 0.16666666666666666, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 1.0, 0.3333333333333333, 0.25, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111, 0.1111111111111111]
+--------------------------------------------------------------------------------
+Parameter sets: ['PK_20261020_035132__b4a12_0']
+--------------------------------------------------------------------------------
+        parameter          unit  PK_20261020_035132__b4a12_0
+   GU__Ka_abs_czx          1/hr                     1.173424
+Ka_dis_tablet_czx          1/hr                     0.564877
+   LI__CZXOX_Vmax   mmole/min/l                     0.007175
+     LI__CZXOX_Km            mM                     0.009901
+   LI__CZXOTHER_k         1/min                     0.263161
+    LI__CZXOGLU_k         1/min                    42.778242
+ KI__CZXOGLU_EX_f dimensionless                    14.608442
+
+PK_20261020_035132__b4a12_0: cost = 130.726
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Metrics: PK_20261020_035132__b4a12_0
+--------------------------------------------------------------------------------
+              parameter_set       kind   n  k       cost      MSE     RMSE    NRMSE   RMSE_w       R2  within_2fold          AIC          BIC     GMFE      AFE  within_1.25fold  within_1.5fold  within_1sd  within_2sd
+PK_20261020_035132__b4a12_0   training 414  7 130.725796 0.016056 0.126712 0.445555 0.794686 0.932648     81.796117 -1696.513189 -1668.332128 1.567200 0.819609        40.776699       65.776699   79.234973   95.628415
+PK_20261020_035132__b4a12_0 validation 727  7        NaN 0.002086 0.045667 0.753688 0.684988 0.947596     60.082873 -4473.580515 -4441.458029 2.073473 0.766500        23.204420       40.193370   58.285714   80.571429
+PK_20261020_035132__b4a12_0    outlier  44  7        NaN 0.002554 0.050539 0.886853 1.694444 0.946171     27.272727  -248.681145  -236.191818 3.667826 0.389239         6.818182       11.363636    0.000000   38.461538
+
+       experiment                        mapping       kind  n          MSE         RMSE    NRMSE   RMSE_w         R2  within_2fold     GMFE      AFE  within_1.25fold  within_1.5fold  within_1sd  within_2sd
+       Bedada2016          fm_bedada2016_czx_250   training 10 1.406717e-05 3.750622e-03 0.743104 1.572033   0.218700     70.000000 1.598328 1.598328        10.000000       30.000000   22.222222   77.777778
+       Bedada2016       fm_bedada2016_czx6oh_250    outlier 10 2.370580e-07 4.868860e-04 0.810479 1.743859  -4.689181      0.000000 5.241845 0.190773         0.000000        0.000000    0.000000   30.000000
+       Bedada2017          fm_bedada2017_czx_250   training 10 3.679271e-06 1.918143e-03 0.271077 0.557401   0.861216    100.000000 1.140531 1.063408        80.000000      100.000000   77.777778  100.000000
+       Bedada2017       fm_bedada2017_czx6oh_250    outlier 10 2.315300e-07 4.811756e-04 0.804754 1.772887  -5.114906      0.000000 5.240132 0.190835         0.000000        0.000000    0.000000   20.000000
+       Bedada2018          fm_bedada2018_czx_250   training 10 4.134171e-06 2.033266e-03 0.307615 0.582786   0.861215    100.000000 1.219168 1.219168        70.000000       90.000000   77.777778  100.000000
+       Bedada2018       fm_bedada2018_czx6oh_250    outlier 10 2.331089e-07 4.828135e-04 0.819653 1.731896  -3.949210     10.000000 5.062860 0.197517         0.000000        0.000000    0.000000   40.000000
+     Benowitz2003                        fm_Fig1   training 11 4.228678e-05 6.502828e-03 0.687284 1.070789   0.538065     80.000000 1.600359 0.934587        40.000000       40.000000   90.909091  100.000000
+     Benowitz2003                        fm_Tab1   training  1 4.260276e-02 2.064044e-01 0.261179 1.603379        NaN    100.000000 1.261179 1.261179         0.000000      100.000000    0.000000  100.000000
+     Burckart1998                 fm_Fig4czx_250   training  4 7.330382e-06 2.707468e-03 0.359915 1.049600   0.894857     75.000000 1.602470 1.299656        25.000000       75.000000  100.000000  100.000000
+     Burckart1998              fm_Fig4czx6oh_250   training  4 1.157454e-06 1.075851e-03 0.356787 1.126550   0.876743     75.000000 1.655510 1.228946        50.000000       75.000000  100.000000  100.000000
+     Burckart1998               fm_Tab2urine_250   training  1 1.206313e-02 1.098323e-01 0.128502 1.062761        NaN    100.000000 1.128502 1.128502       100.000000      100.000000  100.000000  100.000000
+    Chalasani2003                        fm_Fig1 validation  9 2.349214e-05 4.846869e-03 0.350816 0.498422   0.792826     77.777778 1.507341 1.372038        55.555556       66.666667   77.777778   88.888889
+    Chalasani2003                        fm_Tab1 validation  1 7.378985e-02 2.716429e-01 0.180627 1.475093        NaN    100.000000 1.180627 1.180627       100.000000      100.000000  100.000000  100.000000
+     Desiraju1983                 fm_Fig1_czx750   training 10 6.486446e-04 2.546850e-02 0.246647 0.633085   0.841570     70.000000 2.193244 0.465529        50.000000       60.000000   60.000000   90.000000
+     Desiraju1983           fm_Fig3_urine_czx750   training  5 9.798013e-01 9.898491e-01 0.425262 1.289882  -0.100903    100.000000 1.515036 0.761595        20.000000       40.000000         NaN         NaN
+      DeVries1994         fm_Subject_1_po_CZX250 validation 10 3.553372e-05 5.961017e-03 0.750656 0.335704   0.188562     70.000000 1.849163 1.004050        40.000000       50.000000         NaN         NaN
+      DeVries1994         fm_Subject_2_po_CZX250 validation 11 2.877724e-04 1.696386e-02 1.060704 0.452286  -0.430163     45.454545 2.528124 0.459032         9.090909       18.181818         NaN         NaN
+      DeVries1994         fm_Subject_3_po_CZX250 validation 10 7.995418e-05 8.941710e-03 0.849517 0.379916  -0.320362     40.000000 2.376516 0.622996        30.000000       30.000000         NaN         NaN
+      DeVries1994         fm_Subject_4_po_CZX250 validation 11 2.211548e-05 4.702710e-03 0.893938 0.381176   0.090821     18.181818 2.748090 0.923651         0.000000        0.000000         NaN         NaN
+      DeVries1994         fm_Subject_5_po_CZX250 validation 11 1.333029e-04 1.154569e-02 0.894379 0.381365  -0.319068     36.363636 2.271084 0.511548         0.000000       18.181818         NaN         NaN
+      DeVries1994         fm_Subject_6_po_CZX250 validation 11 4.240665e-04 2.059287e-02 1.011173 0.431166  -1.007922     36.363636 3.399078 0.294197         9.090909       27.272727         NaN         NaN
+      DeVries1994         fm_Subject_7_po_CZX250 validation  9 5.828498e-05 7.634460e-03 0.790557 0.372672   0.169402     77.777778 1.654709 0.817133        22.222222       33.333333         NaN         NaN
+      DeVries1994         fm_Subject_8_po_CZX250 validation 11 8.993291e-05 9.483297e-03 0.920406 0.392462  -0.102138     45.454545 2.117318 0.758506        18.181818       27.272727         NaN         NaN
+      DeVries1994         fm_Subject_9_po_CZX250 validation 11 8.398415e-05 9.164287e-03 0.824720 0.351662  -0.047491     36.363636 2.439268 0.759801         9.090909       27.272727         NaN         NaN
+      DeVries1994        fm_Subject_10_po_CZX250 validation 11 1.155420e-05 3.399147e-03 0.562808 0.239982   0.626346     63.636364 1.704332 1.262928        27.272727       45.454545         NaN         NaN
+      DeVries1994        fm_Subject_11_po_CZX250 validation 11 5.129695e-05 7.162189e-03 0.694562 0.296162  -0.296601     45.454545 2.195134 0.455553        18.181818       27.272727         NaN         NaN
+      DeVries1994        fm_Subject_12_po_CZX250 validation 10 5.564389e-05 7.459483e-03 0.749778 0.335311  -0.283375     70.000000 1.858480 0.666607        20.000000       60.000000         NaN         NaN
+      DeVries1994        fm_Subject_13_po_CZX250 validation 11 9.184544e-05 9.583603e-03 0.719499 0.306795  -1.408376      9.090909 2.975272 0.336104         0.000000        0.000000         NaN         NaN
+      DeVries1994        fm_Subject_14_po_CZX250 validation 11 5.667900e-04 2.380735e-02 1.134250 0.483646  -0.841122     27.272727 3.678975 0.376737         9.090909       18.181818         NaN         NaN
+      DeVries1994        fm_Subject_15_po_CZX250 validation 10 2.043945e-04 1.429666e-02 1.136903 0.508438  -0.001085     30.000000 2.533144 0.756972         0.000000       10.000000         NaN         NaN
+      DeVries1994        fm_Subject_16_po_CZX250 validation 11 5.786878e-05 7.607153e-03 0.915938 0.390557   0.236799     63.636364 1.739916 0.905807        18.181818       54.545455         NaN         NaN
+      DeVries1994        fm_Subject_17_po_CZX250 validation  9 1.791353e-04 1.338414e-02 0.932960 0.439801  -0.213768     11.111111 3.096935 0.605391        11.111111       11.111111         NaN         NaN
+    Dreisbach1995                    fm_Fig1_500   training  5 1.335823e-02 1.155778e-01 0.082364 0.308130   0.550138    100.000000 1.082417 1.082417       100.000000      100.000000  100.000000  100.000000
+    Dreisbach1995                    fm_Fig4_czx validation 12 1.701532e-04 1.304428e-02 0.427516 0.174532   0.580213     66.666667 1.859447 0.690599        16.666667       41.666667         NaN         NaN
+    Dreisbach1995                 fm_Fig4_czx6oh validation 10 3.502544e-06 1.871509e-03 0.291195 0.130227   0.707529    100.000000 1.291413 0.954922        50.000000       80.000000         NaN         NaN
+          Eap1998        fm_Fig1_czx_250_healthy   training  7 1.172239e-04 1.082700e-02 0.593094 0.700632   0.029614     57.142857 1.735920 0.576063        28.571429       28.571429   66.666667  100.000000
+          Eap1998     fm_Fig1_czx6oh_250_healthy   training  7 4.361728e-06 2.088475e-03 0.414960 0.612035   0.268238     85.714286 1.641275 0.797221        14.285714       28.571429   42.857143  100.000000
+          Eap1998     fm_Fig1_czx_250_alcoholics validation  7 2.048427e-05 4.525955e-03 0.130279 0.248995   0.795262    100.000000 1.119891 0.900670        85.714286       85.714286  100.000000  100.000000
+          Eap1998  fm_Fig1_czx6oh_250_alcoholics validation  7 2.721573e-07 5.216870e-04 0.250624 0.665781   0.128269    100.000000 1.289484 0.802124        28.571429       85.714286   85.714286  100.000000
+         Frye1998               fm_Fig1A_czx_250   training 14 1.536009e-05 3.919194e-03 0.354888 0.525849   0.761164     92.857143 1.376267 0.892045        50.000000       85.714286   92.857143   92.857143
+         Frye1998            fm_Fig1A_czx6oh_250   training 15 1.362420e-06 1.167228e-03 0.310523 0.510391   0.802134     73.333333 1.689826 0.695622        26.666667       66.666667   60.000000   86.666667
+         Frye1998                   fm_Fig1B_250   training  5 1.815285e-02 1.347325e-01 0.209098 0.699682   0.664444    100.000000 1.243208 1.243208        80.000000      100.000000  100.000000  100.000000
+         Frye1998                    fm_Fig4_750   training  5 8.075492e-02 2.841741e-01 0.181896 0.302791   0.832637    100.000000 1.242772 1.242772        40.000000       80.000000  100.000000  100.000000
+         Frye1998                   fm_Fig3A_750   training 15 4.129770e-05 6.426329e-03 0.215888 0.197428   0.881296     86.666667 1.395529 0.861994        60.000000       73.333333  100.000000  100.000000
+         Frye1998                   fm_Fig3B_750   training 15 7.576309e-06 2.752510e-03 0.307739 0.248761   0.609901     73.333333 1.749939 0.609759        26.666667       66.666667  100.000000  100.000000
+         Gade2018                 fm_Fig1_no_czx   training 12 4.511577e-05 6.716828e-03 0.489190 1.198266   0.728982    100.000000 1.441855 1.184405        33.333333       50.000000         NaN         NaN
+         Gade2018              fm_Fig1_no_czx6oh   training 12 4.226084e-06 2.055744e-03 0.781629 1.914593   0.056093     50.000000 2.098891 2.098891        16.666667       41.666667         NaN         NaN
+         Gade2018                  fm_Fig1_o_czx validation 12 5.422089e-06 2.328538e-03 0.298432 0.710409   0.860548    100.000000 1.385490 1.261293        33.333333       58.333333         NaN         NaN
+         Gade2018               fm_Fig1_o_czx6oh validation 12 7.780951e-07 8.820970e-04 0.315116 0.750127   0.817043     91.666667 1.429756 1.376112        50.000000       58.333333         NaN         NaN
+        Girre1994                     fm_czx_500   training 11 2.776372e-05 5.269129e-03 0.238905 0.387712   0.898186    100.000000 1.321394 1.105179        54.545455       81.818182  100.000000  100.000000
+        Girre1994                  fm_czx6oh_500   training 11 6.517956e-06 2.553029e-03 0.323546 0.832028   0.675308    100.000000 1.376260 0.746937        36.363636       63.636364   72.727273  100.000000
+        Girre1994       fm_cumulative_amount_500   training  5 4.290976e-02 2.071467e-01 0.133692 0.460411   0.839774    100.000000 1.142780 0.875059       100.000000      100.000000  100.000000  100.000000
+           He2019              fm_CZX400_REF_400   training 13 2.753064e-05 5.246965e-03 0.208596 0.607515   0.879424     92.307692 1.228121 0.814252        61.538462       92.307692   61.538462  100.000000
+      Hohmann2019                    fm_czx_0p05   training  7 7.792407e-13 8.827461e-07 0.572818 0.713891   0.751741     71.428571 1.691219 0.873918        28.571429       42.857143   66.666667  100.000000
+      Hohmann2019                     fm_czx_0p1   training  9 9.876466e-13 9.938041e-07 0.333739 0.653876   0.941163     55.555556 2.635205 0.434806        22.222222       44.444444   66.666667  100.000000
+      Hohmann2019                     fm_czx_0p5   training  9 5.507877e-11 7.421507e-06 0.535159 0.646879   0.867086     55.555556 2.453338 0.506791        22.222222       33.333333   87.500000  100.000000
+      Hohmann2019                       fm_czx_5   training  9 2.974792e-09 5.454165e-05 0.409897 0.480591   0.908379     55.555556 2.058228 0.592294        22.222222       44.444444   33.333333   77.777778
+      Hohmann2019                      fm_czx_50   training  9 3.955718e-06 1.988899e-03 0.793362 0.863042   0.740744     55.555556 2.443607 0.412395        22.222222       33.333333   55.555556  100.000000
+      Hohmann2019                     fm_czx_250   training  9 3.411374e-05 5.840697e-03 0.556141 0.564778   0.553630     88.888889 1.397518 0.938669        55.555556       66.666667  100.000000  100.000000
+      Hohmann2019                     fm_czx_500   training  9 2.292752e-05 4.788269e-03 0.229917 0.214996   0.911960    100.000000 1.183763 0.992230        66.666667       88.888889  100.000000  100.000000
+      Hohmann2019                 fm_czx6oh_0p05   training  2 3.145827e-16 1.773648e-08 0.131947 0.366253   0.792459    100.000000 1.148764 1.076282       100.000000      100.000000  100.000000  100.000000
+      Hohmann2019                  fm_czx6oh_0p1   training  3 1.381858e-15 3.717335e-08 0.193729 0.629578   0.862539    100.000000 1.175291 1.175291        66.666667      100.000000  100.000000  100.000000
+      Hohmann2019                  fm_czx6oh_0p5   training  5 2.265296e-14 1.505090e-07 0.241863 0.342749   0.930741     80.000000 1.351968 0.969064        40.000000       80.000000  100.000000  100.000000
+      Hohmann2019                    fm_czx6oh_5   training  9 1.626583e-12 1.275376e-06 0.340120 0.522906   0.928188     44.444444 4.561872 0.247530        22.222222       33.333333   77.777778  100.000000
+      Hohmann2019                   fm_czx6oh_50   training  9 7.825614e-09 8.846250e-05 1.125381 1.372389   0.528896     33.333333 3.259929 0.324702        11.111111       22.222222   66.666667  100.000000
+      Hohmann2019                  fm_czx6oh_250   training  9 5.874326e-09 7.664415e-05 0.394798 0.434711   0.675515    100.000000 1.274599 0.784560        66.666667       77.777778  100.000000  100.000000
+      Hohmann2019                  fm_czx6oh_500   training  9 9.561111e-09 9.778094e-05 0.293200 0.314788   0.753065    100.000000 1.309894 0.763420        33.333333      100.000000  100.000000  100.000000
+     Hukkanen2010                        fm_Tab5   training  1 4.923501e-02 2.218896e-01 0.294510 2.430968        NaN    100.000000 1.294510 1.294510         0.000000      100.000000    0.000000  100.000000
+     Kharasch1993                    fm_Tab2Mean   training  1 5.165981e-01 7.187476e-01 0.229837 1.776541        NaN    100.000000 1.298426 0.770163         0.000000      100.000000    0.000000    0.000000
+     Kharasch1993                        fm_Fig2 validation  7 3.844304e-04 1.960690e-02 0.488572 0.261153   0.690629    100.000000 1.418606 0.966263        14.285714       71.428571         NaN         NaN
+     Kharasch1993                    fm_Fig2_dsf validation 12 1.575125e-03 3.968785e-02 0.362105 0.147829  -0.147277     75.000000 1.473780 0.803752        58.333333       75.000000         NaN         NaN
+     Kharasch1993                fm_Tab2Mean_dsf validation  1 9.058651e-01 9.517695e-01 0.636615 2.866891        NaN      0.000000 2.751906 0.363385         0.000000        0.000000    0.000000    0.000000
+       LaMaza2000              fm_Fig1_na_nw_750   training 11 1.584583e-04 1.258802e-02 0.274780 0.370514   0.886327    100.000000 1.244832 0.869775        40.000000      100.000000         NaN         NaN
+       LaMaza2000               fm_Fig1_na_o_750 validation 11 1.459126e-04 1.207943e-02 0.415490 0.587592   0.791166    100.000000 1.328379 0.891086        50.000000       80.000000         NaN         NaN
+       LaMaza2000               fm_Fig1_a_nw_750 validation 11 2.182789e-04 1.477427e-02 0.620165 0.793318   0.497198     70.000000 1.694490 1.694490        10.000000       40.000000         NaN         NaN
+       LaMaza2000                fm_Fig1_a_o_750 validation 11 7.189565e-05 8.479131e-03 0.389005 0.469157   0.798512     90.000000 1.553957 1.398959        10.000000       50.000000         NaN         NaN
+     Leclercq1998                fm_Fig1_czx_500 validation  9 3.543164e-04 1.882329e-02 0.594836 0.280408   0.560918     77.777778 1.401371 0.898208        44.444444       66.666667         NaN         NaN
+     Leclercq1998     fm_Fig1_czx_watercress_500 validation  9 8.695170e-04 2.948757e-02 0.552882 0.260631   0.298183     77.777778 1.729883 0.588817        11.111111       22.222222         NaN         NaN
+     Leclercq1998      fm_Fig1_czx_isoniazid_500 validation  9 2.110215e-03 4.593708e-02 0.596352 0.281123  -0.231682     44.444444 1.993939 0.501520        22.222222       33.333333         NaN         NaN
+     Leclercq1998             fm_Fig1_czx6oh_500 validation  9 9.104186e-06 3.017314e-03 0.403947 0.190423   0.529073     77.777778 1.689796 0.857731        22.222222       33.333333         NaN         NaN
+     Leclercq1998  fm_Fig1_czx6oh_watercress_500 validation  9 2.126251e-05 4.611129e-03 0.655527 0.309018  -0.538530     33.333333 2.322335 0.591433        11.111111       11.111111         NaN         NaN
+     Leclercq1998   fm_Fig1_czx6oh_isoniazid_500 validation  9 1.117886e-05 3.343481e-03 0.863443 0.407031  -0.494050     22.222222 3.018588 0.689204        11.111111       22.222222         NaN         NaN
+Liangpunsakul2005                fm_Fig1_control   training  9 2.698684e-05 5.194886e-03 0.283294 0.547070   0.853001     88.888889 1.410869 0.840516        33.333333       66.666667  100.000000  100.000000
+Liangpunsakul2005                fm_Tab2_control   training  1 1.203043e-05 3.468492e-03 0.001928 0.014359        NaN    100.000000 1.001932 0.998072       100.000000      100.000000  100.000000  100.000000
+Liangpunsakul2005                fm_Fig1_alcohol validation  9 6.345042e-06 2.518937e-03 0.160173 0.260798   0.939832    100.000000 1.218742 0.998290        66.666667       88.888889  100.000000  100.000000
+Liangpunsakul2005                fm_Tab2_alcohol validation  1 1.844622e-02 1.358169e-01 0.070859 0.521507        NaN    100.000000 1.076263 0.929141       100.000000      100.000000  100.000000  100.000000
+        Lucas1993        fm_Fig2_czx_healthy_500   training 11 5.644536e-05 7.513012e-03 0.403842 0.556127   0.783318     81.818182 1.559666 1.434143         9.090909       45.454545   45.454545   72.727273
+        Lucas1993     fm_Fig2_czx6oh_healthy_500   training 11 7.344825e-06 2.710134e-03 0.359995 0.666438   0.705279    100.000000 1.263892 0.859421        45.454545       81.818182   63.636364   72.727273
+        Lucas1993     fm_Tab5_czx6oh_healthy_500   training  5 4.563684e-02 2.136278e-01 0.136560 0.312578   0.790799    100.000000 1.180407 0.847166        80.000000      100.000000  100.000000  100.000000
+        Lucas1993     fm_Fig2_czx_alcoholics_500 validation 11 2.168709e-04 1.472654e-02 1.405827 1.703012  -1.541886     27.272727 2.560837 2.536279         9.090909       18.181818   18.181818   45.454545
+        Lucas1993  fm_Fig2_czx6oh_alcoholics_500 validation 11 3.510117e-05 5.924624e-03 0.575664 0.866683   0.248760     72.727273 1.603159 0.623769        27.272727       36.363636   36.363636   63.636364
+        Lucas1993  fm_Tab5_czx6oh_alcoholics_500 validation  5 7.563328e-02 2.750150e-01 0.168578 0.393614   0.625615    100.000000 1.241455 0.805507        60.000000       80.000000   80.000000   80.000000
+       Mishin1998                fm_Fig1_rda_750 validation 10 6.579538e-04 2.565061e-02 2.742787 2.602212 -21.276933      0.000000 3.371911 3.371911         0.000000        0.000000    0.000000   30.000000
+       Mishin1998                 fm_Fig1_aa_750 validation 10 7.681101e-04 2.771480e-02 0.532541 0.560791   0.194866     70.000000 1.550004 0.677780        40.000000       60.000000   80.000000  100.000000
+       Mishin1998                fm_Fig2_rda_750 validation 10 1.593529e-04 1.262351e-02 0.721720 0.774644  -0.508752     40.000000 2.050129 0.487774        10.000000       20.000000   60.000000  100.000000
+       Mishin1998                 fm_Fig2_aa_750 validation 10 1.444109e-05 3.800143e-03 0.917662 0.800666  -2.316432     50.000000 2.044696 2.044696         0.000000        0.000000   20.000000   90.000000
+       Mishin1998                    fm_Fig7_750 validation 10 6.942694e-05 8.332283e-03 0.329135 0.334217   0.749785     90.000000 1.409501 1.378226        40.000000       50.000000   60.000000  100.000000
+       Mishin1998                    fm_Fig8_750 validation 10 3.354893e-05 5.792144e-03 0.494885 0.498119   0.018521     80.000000 1.705338 0.723794        10.000000       30.000000   80.000000  100.000000
+        OShea1994                  fm_Tab1_2Mean   training  1 5.297596e-03 7.278459e-02 0.078733 0.460435        NaN    100.000000 1.078733 1.078733       100.000000      100.000000  100.000000  100.000000
+        OShea1994            fm_Fig1_control_czx validation  9 1.465295e-04 1.210494e-02 1.283996 0.605281   0.129421     11.111111 3.700735 1.995552         0.000000        0.000000         NaN         NaN
+        OShea1994         fm_Fig1_control_czx6oh validation  9 1.288526e-05 3.589604e-03 0.879730 0.414709   0.338355     33.333333 2.217499 1.245543         0.000000       11.111111         NaN         NaN
+        OShea1994            fm_Fig1_fasting_czx validation  9 1.223035e-04 1.105909e-02 0.710856 0.335101   0.074685     11.111111 2.533151 0.419333         0.000000       11.111111         NaN         NaN
+        OShea1994         fm_Fig1_fasting_czx6oh validation  9 2.845111e-06 1.686746e-03 0.440475 0.207642   0.594212     66.666667 1.761701 0.707742        11.111111       33.333333         NaN         NaN
+        OShea1994            fm_Fig2_control_czx validation  9 9.145020e-05 9.562960e-03 0.799261 0.376775   0.565644     55.555556 2.002084 1.600608        11.111111       22.222222         NaN         NaN
+        OShea1994         fm_Fig2_control_czx6oh validation  9 2.856468e-06 1.690109e-03 0.410953 0.193725   0.759217     88.888889 1.394117 1.110907        66.666667       77.777778         NaN         NaN
+        OShea1994              fm_Fig2_obese_czx validation  9 4.265863e-06 2.065397e-03 0.582085 0.274398   0.426870     88.888889 1.521441 1.521441        11.111111       88.888889         NaN         NaN
+        OShea1994           fm_Fig2_obese_czx6oh validation  9 1.384837e-06 1.176791e-03 0.756784 0.356751  -0.117204     77.777778 1.930364 1.515226        33.333333       55.555556         NaN         NaN
+         Park2006                fm_Fig1_czx_400   training  9 2.072358e-04 1.439569e-02 0.636353 1.129091   0.410585     77.777778 1.436250 0.727609        44.444444       77.777778   77.777778  100.000000
+         Park2006             fm_Fig1_czx6oh_400   training  9 8.797312e-06 2.966026e-03 0.480443 1.009429   0.604730     88.888889 1.370597 0.906052        44.444444       77.777778   77.777778   88.888889
+         Park2006            fm_Fig1_czx_asa_400 validation  9 1.102047e-04 1.049784e-02 0.538173 1.768161   0.616062     77.777778 1.391935 0.915706        33.333333       77.777778   44.444444   55.555556
+         Park2006         fm_Fig1_czx6oh_asa_400 validation  9 1.305613e-05 3.613327e-03 0.554471 2.193433   0.502256     77.777778 1.358115 0.835341        55.555556       66.666667   55.555556   66.666667
+        Puris2019           fm_Fig1_healthy_62p5   training  4 8.790086e-07 9.375546e-04 0.321042 0.564386   0.500416    100.000000 1.361999 0.831312         0.000000      100.000000  100.000000  100.000000
+        Puris2019             fm_Fig1_obese_62p5 validation  4 1.370058e-07 3.701429e-04 0.252130 0.681612   0.659145    100.000000 1.282683 0.864710        50.000000       75.000000   75.000000  100.000000
+  Rajnarayana2008            fm_Fig1_diosmin_250 validation  9 7.870765e-05 8.871733e-03 1.112066 1.963833  -0.931154     33.333333 2.139916 2.139916         0.000000        0.000000   11.111111   33.333333
+  Rajnarayana2008                    fm_Fig1_250    outlier  9 3.445449e-05 5.869795e-03 1.272323 1.954605  -1.031730     66.666667 2.158676 2.158676         0.000000        0.000000    0.000000   66.666667
+       Vesell1995                   fm_Fig1_mean   training  5 3.057982e-03 5.529903e-02 0.070327 0.125689   0.921238    100.000000 1.086929 0.934561        80.000000      100.000000  100.000000  100.000000
+       Vesell1995                 fm_Fig3_JR_500 validation  8 4.327397e-04 2.080240e-02 0.624848 0.312424   0.062449     62.500000 1.719929 1.296372        25.000000       37.500000         NaN         NaN
+       Vesell1995                 fm_Fig3_TG_500 validation  5 5.615402e-04 2.369684e-02 0.480446 0.303861   0.200761    100.000000 1.400121 0.717046        40.000000       40.000000         NaN         NaN
+       Vesell1995                 fm_Fig3_CM_500 validation  6 1.568026e-03 3.959831e-02 0.561608 0.324245  -1.337801     16.666667 2.145112 0.466176         0.000000        0.000000         NaN         NaN
+       Vesell1995                 fm_Fig3_WS_250 validation  6 1.727507e-05 4.156329e-03 0.346147 0.199848   0.327334    100.000000 1.409169 1.409169        33.333333       66.666667         NaN         NaN
+       Vesell1995                 fm_Fig3_EG_500 validation  7 4.910490e-04 2.215963e-02 0.509832 0.272517   0.452899    100.000000 1.581358 1.042253        14.285714       42.857143         NaN         NaN
+       Vesell1995                 fm_Fig3_JW_500 validation  8 9.955921e-04 3.155300e-02 0.699040 0.349520   0.118498     75.000000 1.714759 1.012243        12.500000       50.000000         NaN         NaN
+       Vesell1995                 fm_Fig1_WS_250    outlier  5 2.241332e-02 1.497108e-01 0.233980 0.147982   0.602264    100.000000 1.198989 1.198989        60.000000      100.000000         NaN         NaN
+         Wang2003                fm_Fig1_healthy   training 10 2.862344e-04 1.691846e-02 0.505129 0.609535   0.471521     40.000000 1.933117 0.517299         0.000000        0.000000  100.000000  100.000000
+         Wang2003       fm_Tab3_recovery_healthy   training  1 8.460634e-02 2.908717e-01 0.141521 1.329306        NaN    100.000000 1.164851 0.858479       100.000000      100.000000    0.000000  100.000000
+         Wang2003                    fm_Fig1_DT1 validation 10 8.942700e-05 9.456585e-03 0.449943 0.743604   0.669847     70.000000 1.720075 0.724776        30.000000       40.000000   70.000000  100.000000
+         Wang2003           fm_Tab3_recovery_DT1 validation  1 8.793913e-04 2.965453e-02 0.016379 0.138622        NaN    100.000000 1.016651 0.983621       100.000000      100.000000  100.000000  100.000000
+         Wang2003                    fm_Fig1_DT2 validation 10 2.322903e-05 4.819650e-03 0.539197 0.483392   0.472543    100.000000 1.356293 1.172082        30.000000       80.000000   90.000000  100.000000
+         Wang2003           fm_Tab3_recovery_DT2 validation  1 3.827612e-04 1.956428e-02 0.010239 0.063447        NaN    100.000000 1.010345 0.989761       100.000000      100.000000  100.000000  100.000000
+         Witt2016          fm_CZX1_chlorzoxazone validation  5 1.393509e-15 3.732974e-08 0.338507 0.214090   0.817621     80.000000 1.378943 1.020421        40.000000       60.000000         NaN         NaN
+         Witt2016          fm_CZX2_chlorzoxazone validation  6 7.714584e-15 8.783270e-08 0.520966 0.300780   0.691172     83.333333 1.519281 0.962260        33.333333       33.333333         NaN         NaN
+         Witt2016          fm_CZX3_chlorzoxazone validation  9 1.000799e-13 3.163541e-07 0.388200 0.182999   0.913841     44.444444 3.839509 0.287551        22.222222       44.444444         NaN         NaN
+         Witt2016          fm_CZX4_chlorzoxazone validation  9 6.680096e-13 8.173185e-07 0.697316 0.328718   0.721732     55.555556 3.121451 0.413129        22.222222       33.333333         NaN         NaN
+         Witt2016          fm_CZX5_chlorzoxazone validation  9 5.503573e-11 7.418607e-06 0.588968 0.277642   0.722750     33.333333 7.162608 0.139614        11.111111       11.111111         NaN         NaN
+         Witt2016          fm_CZX6_chlorzoxazone validation  9 2.809714e-11 5.300673e-06 0.334674 0.157767   0.901093     44.444444 4.564040 0.235743        22.222222       33.333333         NaN         NaN
+         Witt2016          fm_CZX7_chlorzoxazone validation  9 8.610741e-10 2.934406e-05 0.409740 0.193153   0.892964     44.444444 3.992842 0.289990        22.222222       44.444444         NaN         NaN
+         Witt2016          fm_CZX8_chlorzoxazone validation  9 1.004489e-08 1.002242e-04 0.998661 0.470773   0.457042     33.333333 3.387007 0.458251        11.111111       33.333333         NaN         NaN
+         Witt2016 fm_CZX2_6_hydroxychlorzoxazone validation  1 1.256264e-18 1.120832e-09 0.079713 0.112731        NaN    100.000000 1.079713 1.079713       100.000000      100.000000         NaN         NaN
+         Witt2016 fm_CZX3_6_hydroxychlorzoxazone validation  3 2.464680e-16 1.569930e-08 0.422786 0.345203   0.306835    100.000000 1.394803 1.394803        33.333333       66.666667         NaN         NaN
+         Witt2016 fm_CZX4_6_hydroxychlorzoxazone validation  4 1.124980e-15 3.354072e-08 0.600193 0.424401   0.494428     75.000000 1.455036 1.455036        50.000000       50.000000         NaN         NaN
+         Witt2016 fm_CZX5_6_hydroxychlorzoxazone validation  9 7.990894e-15 8.939180e-08 0.547275 0.257988   0.780550     44.444444 6.023803 0.202592        11.111111       33.333333         NaN         NaN
+         Witt2016 fm_CZX6_6_hydroxychlorzoxazone validation  9 4.008921e-14 2.002229e-07 0.676905 0.319096   0.680374     44.444444 5.069111 0.252454         0.000000       33.333333         NaN         NaN
+         Witt2016 fm_CZX7_6_hydroxychlorzoxazone validation  9 3.146436e-13 5.609310e-07 0.319547 0.150636   0.936121     44.444444 5.103336 0.221238        33.333333       44.444444         NaN         NaN
+         Witt2016 fm_CZX8_6_hydroxychlorzoxazone validation  9 1.843407e-12 1.357721e-06 0.403609 0.190263   0.930673     55.555556 3.571571 0.342214        22.222222       33.333333         NaN         NaN
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Optimization results: PK_20261020_035132__b4a12
+--------------------------------------------------------------------------------
+   run  success    duration        cost  GU__Ka_abs_czx  Ka_dis_tablet_czx  LI__CZXOX_Vmax  LI__CZXOX_Km  LI__CZXOTHER_k  LI__CZXOGLU_k  KI__CZXOGLU_EX_f                                message                                                  x                                             x0
+0    0     True  214.560331  130.725796        1.173424           0.564877        0.007175      0.009901        0.263161      42.778242         14.608442  Optimization terminated successfully.  [1.1734236884512896, 0.5648774742114893, 0.007...  [1.7, 3.1, 0.0082, 0.0085, 0.19, 100.0, 10.0]
+1    1     True  222.497565  130.725799        1.173394           0.564869        0.007176      0.009904        0.263180      42.768591         14.606155  Optimization terminated successfully.  [1.1733944725933336, 0.5648694380723746, 0.007...  [1.7, 3.1, 0.0082, 0.0085, 0.19, 100.0, 10.0]
+2    2     True  226.150977  130.725814        1.173370           0.564922        0.007173      0.009897        0.263116      42.777019         14.609718  Optimization terminated successfully.  [1.1733702608231107, 0.5649217054964528, 0.007...  [1.7, 3.1, 0.0082, 0.0085, 0.19, 100.0, 10.0]
+--------------------------------------------------------------------------------
+Optimal parameters:
+	'GU__Ka_abs_czx': Q(1.1734236884512896, '1/(hr)'),  # [0.3 - 10]
+	'Ka_dis_tablet_czx': Q(0.5648774742114893, '1/(hr)'),  # [0.2 - 20]
+	'LI__CZXOX_Vmax': Q(0.007174808352512396, '(mmol)/(min)/l'),  # [0.0001 - 1]
+	'LI__CZXOX_Km': Q(0.009901406036417842, 'mmol/l'),  # [0.0001 - 0.5]
+	'LI__CZXOTHER_k': Q(0.26316077394611403, '1/(min)'),  # [0.001 - 2]
+	'LI__CZXOGLU_k': Q(42.77824245028334, '1/(min)'),  # [1 - 10000.0]
+	'KI__CZXOGLU_EX_f': Q(14.608442396298415, 'dimensionless'),  # [0.5 - 50]
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Identifiability 'PK_20261020_035132__b4a12'
+--------------------------------------------------------------------------------
+parameter set: PK_20261020_035132__b4a12_0
+cost: 130.726
+cost_min: 130.726
+alpha: 0.95
+degrees of freedom: 1
+threshold: 132.647
+reoptimize: True
+duration: 97.4 s
+
+        parameter     value          unit  lower_bound  upper_bound  ci_lower  ci_upper identifiability  n_points   cost_min  converged
+   GU__Ka_abs_czx  1.173424          1/hr       0.3000         10.0  0.984990  1.407305    identifiable        13 130.725796       True
+Ka_dis_tablet_czx  0.564877          1/hr       0.2000         20.0  0.485997  0.661668    identifiable        12 130.725796       True
+   LI__CZXOX_Vmax  0.007175   mmole/min/l       0.0001          1.0  0.005545  0.009866    identifiable        16 130.725796       True
+     LI__CZXOX_Km  0.009901            mM       0.0001          0.5  0.006703  0.015557    identifiable        17 130.725796       True
+   LI__CZXOTHER_k  0.263161         1/min       0.0010          2.0  0.227645  0.301950    identifiable        13 130.725796       True
+    LI__CZXOGLU_k 42.778242         1/min       1.0000      10000.0 35.938133 51.230574    identifiable        13 130.725796       True
+ KI__CZXOGLU_EX_f 14.608442 dimensionless       0.5000         50.0 11.400392 19.972566    identifiable        16 130.725796       True
+--------------------------------------------------------------------------------

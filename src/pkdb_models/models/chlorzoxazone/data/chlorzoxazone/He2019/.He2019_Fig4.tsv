@@ -1,0 +1,27 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	sd	se	unit	method	comments
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	0.33	hr	1.6389163	2.4927745	0.8538582	0.190928497834561	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	0.67	hr	3.7394223	4.720194	0.9807717	0.219307219160803	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	1.0	hr	5.332195	6.3245244	0.9923294	0.221891599447158	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	1.33	hr	6.232688	7.213459	0.980771000000001	0.219307062636045	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	1.67	hr	6.8793344	7.848567	0.9692326	0.216726997960886	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	2.0	hr	6.8105745	7.791356	0.980781500000001	0.219309410507421	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	2.5	hr	6.5805163	7.4459233	0.865406999999999	0.193510888020416	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	3.0	hr	6.292796	6.858182	0.565386	0.12642415295267	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	4.0	hr	4.667303	5.140391	0.473088	0.105785692733942	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	5.0	hr	2.43027	3.2033687	0.7730987	0.172870124651672	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	6.0	hr	1.2547879	2.0740507	0.8192628	0.183192731223681	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	7.0	hr	0.6793272	1.5677807	0.8884535	0.198664242084761	µg/ml	LC MS/MS	NA
+He2019	20	TEST	all	CZX400_TEST	concentration	chlorzoxazone	plasma	8.0	hr	0.5192119	1.37308	0.8538681	0.190930711541859	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	0.33	hr	2.6312363	3.6350846	1.0038483	0.22446730378976	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	0.67	hr	4.2009616	5.181743	0.9807814	0.219309388146741	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	1.0	hr	5.909139	6.9014587	0.9923197	0.22188943046122	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	1.33	hr	6.7173142	7.7096343	0.992320100000001	0.221889519903939	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	1.67	hr	7.987039	8.979349	0.992309999999999	0.221887261475281	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	2.0	hr	7.3298163	8.345213	1.0153967	0.227049604532896	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	2.5	hr	6.4536033	7.561298	1.1076947	0.247688064751624	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	3.0	hr	5.8658624	7.308173	1.4423106	0.322510454626851	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	4.0	hr	4.136523	5.6480846	1.5115616	0.337995448977835	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	5.0	hr	2.2225873	3.4341285	1.2115412	0.270908848074167	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	6.0	hr	1.0586437	2.2471077	1.188464	0.265748629281131	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	7.0	hr	0.57546073	1.6947141	1.11925337	0.250272661936572	µg/ml	LC MS/MS	NA
+He2019	20	REF	all	CZX400_REF	concentration	chlorzoxazone	plasma	8.0	hr	0.35767305	1.5115418	1.15386875	0.258012896211271	µg/ml	LC MS/MS	NA

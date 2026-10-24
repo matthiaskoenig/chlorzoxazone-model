@@ -1,0 +1,55 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	value	time_unit	unit	method	comments
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	28.373266	0.99489796	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	61.160152	5.9693875	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	90.79445	11.364796	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	129.8865	14.579082	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	179.06683	8.341837	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	240.8575	3.8265307	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	301.38715	2.142857	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	374.5271	0.84183675	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	480.45398	0.22959183	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	29.003782	0.19132653	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	60.529633	1.2244898	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	90.16393	1.6454082	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	129.8865	2.372449	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	180.32787	2.7168367	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	241.48802	1.9132653	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	300.75662	1.3010204	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	373.8966	0.7270408	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	CZX500	all	CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	480.45398	0.38265306	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	27.742748	2.2193878	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	58.638084	7.538265	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	88.272385	14.387755	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	119.79823	19.553572	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	178.43633	15.612245	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	240.22699	10.293367	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	300.75662	6.160714	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	359.3947	3.8265307	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	479.82346	1.7984694	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	27.112232	0.22959183	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	59.2686	0.38265306	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	88.9029	1.1479592	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	120.42875	1.6836735	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	179.69736	2.0663266	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	240.8575	2.372449	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	299.49557	1.7219387	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	360.0252	1.3010204	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	479.82346	0.84183675	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	29.003782	3.252551	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	60.529633	8.533163	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	88.9029	13.584184	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	120.42875	26.594387	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	188.5246	21.12245	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	238.96596	16.37755	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	300.1261	12.742347	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	359.3947	9.795918	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	479.19293	5.5484695	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	28.373266	0.038265307	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	59.2686	0.07653061	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	88.9029	0.38265306	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	120.42875	0.5739796	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	189.78563	1.4540817	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	240.22699	1.3392857	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	300.1261	1.1862245	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	360.0252	0.99489796	min	µg/ml	HPLC	NA
+Leclercq1998	1	Subject4	ISONIAZID, CZX500	all	ISONIAZID_CZX500_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	479.82346	0.42091838	min	µg/ml	HPLC	NA

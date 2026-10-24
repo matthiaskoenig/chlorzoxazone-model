@@ -1,0 +1,18 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	se	unit	comments
+Lucas1995	all	NA	sex	105	M	105	NA	NA	NA	NA
+Lucas1995	all	NA	species	105	homo sapiens	105	NA	NA	NA	NA
+Lucas1995	all	NA	healthy	105	Y	105	NA	NA	NA	NA
+Lucas1995	control	all	sex	30	M	30	NA	NA	NA	NA
+Lucas1995	control	all	species	30	homo sapiens	30	NA	NA	NA	NA
+Lucas1995	control	all	healthy	30	Y	30	NA	NA	NA	NA
+Lucas1995	control	all	age	30	NA	30	34.0	2.0	yr	NA
+Lucas1995	alcoholic	all	sex	75	M	75	NA	NA	NA	NA
+Lucas1995	alcoholic	all	species	75	homo sapiens	75	NA	NA	NA	NA
+Lucas1995	alcoholic	all	healthy	75	Y	75	NA	NA	NA	NA
+Lucas1995	alcoholic_d1	alcoholic	age	41	NA	41	44.0	2.0	yr	NA
+Lucas1995	alcoholic_d8	alcoholic_d1	age	28	NA	28	45.0	1.0	yr	NA
+Lucas1995	alcoholic_d21	alcoholic	age	34	NA	34	39.0	1.0	yr	NA
+Lucas1995	control_smoke	control	smoking amount (cigarettes)	11	NA	11	16.0	2.0	1/day	NA
+Lucas1995	alcoholic_smoke	alcoholic	smoking amount (cigarettes)	51	NA	51	20.0	1.0	1/day	NA
+Lucas1995	control_no_smoke	control	smoking	19	N	19	NA	NA	NA	NA
+Lucas1995	alcoholic_no_smoke	alcoholic	smoking	11	N	11	NA	NA	NA	NA

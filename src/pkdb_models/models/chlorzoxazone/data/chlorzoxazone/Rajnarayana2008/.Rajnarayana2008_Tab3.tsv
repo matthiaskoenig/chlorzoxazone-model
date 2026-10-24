@@ -1,0 +1,5 @@
+study	count	group	intervention	label	measurement	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Rajnarayana2008	12	all	CZX	Tab1_REF_chlorzoxazone	urinary excretion	chlorzoxazone	urine	1.792	0.88	0.254034118443435	mg/ml	8	hr	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_REF_6-hydroxychlorzoxazone	urinary excretion	6-hydroxychlorzoxazone	urine	2.58	1.17	0.337749907475931	mg/ml	8	hr	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_TEST_chlorzoxazone	urinary excretion	chlorzoxazone	urine	1.746	2.3	0.66395280956807	mg/ml	8	hr	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_6-hydroxychlorzoxazone	urinary excretion	6-hydroxychlorzoxazone	urine	3.59	2.57	0.741895095908669	mg/ml	8	hr	HPLC	NA

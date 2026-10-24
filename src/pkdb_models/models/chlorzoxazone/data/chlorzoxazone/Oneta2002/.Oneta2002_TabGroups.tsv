@@ -1,0 +1,25 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	sd	unit	comments
+Oneta2002	all	NA	sex	15	M	5	NA	NA	NA	NA
+Oneta2002	all	NA	sex	15	NR	10	NA	NA	NA	NA
+Oneta2002	all	NA	species	15	homo sapiens	15	NA	NA	NA	NA
+Oneta2002	all	NA	healthy	15	Y	10	NA	NA	NA	NA
+Oneta2002	all	NA	healthy	15	N	5	NA	NA	NA	NA
+Oneta2002	healthy	all	sex	5	M	5	NA	NA	NA	NA
+Oneta2002	healthy	all	age	5	NA	5	27.4	1.8	yr	NA
+Oneta2002	healthy	all	smoking	5	N	5	NA	NA	NA	NA
+Oneta2002	healthy	all	abstinence alcohol	5	NA	5	19.2	NA	d	NA
+Oneta2002	alcoholics	all	sex	5	NR	5	NA	NA	NA	NA
+Oneta2002	alcoholics	all	age	5	NA	5	46.6	2.8	yr	NA
+Oneta2002	alcoholics	all	smoking	5	Y	5	NA	NA	NA	NA
+Oneta2002	alcoholics	all	alcohol amount	5	NA	5	282.0	41.0	g/day	NA
+Oneta2002	alcoholics	all	alcohol duration	5	NA	5	23.4	2.8	yr	NA
+Oneta2002	alcoholics	all	disease	5	liver cirrhosis	1	NA	NA	NA	NA
+Oneta2002	alcoholics	all	disease	5	liver fibrosis	1	NA	NA	NA	NA
+Oneta2002	NALD	all	sex	5	NR	5	NA	NA	NA	NA
+Oneta2002	NALD	all	age	5	NA	5	52.2	4.7	yr	NA
+Oneta2002	NALD	all	smoking	5	Y	1	NA	NA	NA	NA
+Oneta2002	NALD	all	smoking	5	N	4	NA	NA	NA	NA
+Oneta2002	NALD	all	alcohol amount	5	NA	5	11.0	7.0	g/day	NA
+Oneta2002	NALD	all	disease	5	hcv	1	NA	NA	NA	NA
+Oneta2002	NALD	all	disease	5	liver fibrosis	1	NA	NA	NA	NA
+Oneta2002	NALD	all	disease	5	fatty liver disease	3	NA	NA	NA	NA

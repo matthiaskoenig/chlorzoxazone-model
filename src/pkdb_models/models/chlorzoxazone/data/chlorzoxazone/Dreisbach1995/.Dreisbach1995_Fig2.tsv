@@ -1,0 +1,16 @@
+study	count	individual	intervention	group	x_label	y_label	x_measurement	y_measurement	x_substance	y_substance	x_tissue	y_tissue	x_value	y_value	x_units	y_units	method	comments
+Dreisbach1995	1	Fig2_1	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.198	0.17589042	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_2	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.417	0.27780822	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_3	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.5085	0.30904108	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_4	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.507	0.40767124	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_5	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.4875	0.41753423	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_6	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.4755	0.51945204	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_7	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.477	0.5589041	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_8	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.5955	0.43726027	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_9	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.606	0.5490411	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_10	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.675	0.5671233	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_11	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.567	0.64931506	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_12	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.555	0.749589	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_13	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.6945	0.7479452	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_14	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.726	0.8679452	1/hr	1/hr	HPLC	NA
+Dreisbach1995	1	Fig2_15	CZX500	all	plasma czx kel	urinary excretion rate	kel	excretion rate	chlorzoxazone	6-hydroxychlorzoxazone	plasma	urine	0.8265	0.87945205	1/hr	1/hr	HPLC	NA

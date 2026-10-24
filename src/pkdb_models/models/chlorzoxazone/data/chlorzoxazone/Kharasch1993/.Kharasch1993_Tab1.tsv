@@ -1,0 +1,37 @@
+study	count	individual	group	intervention	label	measurement_type	substance	tissue	value	unit	method	comments
+Kharasch1993	1	Subject_1	all	CZX	Tab1_Subject_1_cmax_CZX_	cmax	chlorzoxazone	plasma	31.5	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_2	all	CZX	Tab1_Subject_2_cmax_CZX_	cmax	chlorzoxazone	plasma	29.7	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_3	all	CZX	Tab1_Subject_3_cmax_CZX_	cmax	chlorzoxazone	plasma	7.8	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_4	all	CZX	Tab1_Subject_4_cmax_CZX_	cmax	chlorzoxazone	plasma	26.9	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_5	all	CZX	Tab1_Subject_5_cmax_CZX_	cmax	chlorzoxazone	plasma	15.6	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_6	all	CZX	Tab1_Subject_6_cmax_CZX_	cmax	chlorzoxazone	plasma	12.3	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_1	all	CZX	Tab1_Subject_1_clearance_CZX_	clearance	chlorzoxazone	plasma	2.75	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_2	all	CZX	Tab1_Subject_2_clearance_CZX_	clearance	chlorzoxazone	plasma	2.06	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_3	all	CZX	Tab1_Subject_3_clearance_CZX_	clearance	chlorzoxazone	plasma	5.92	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_4	all	CZX	Tab1_Subject_4_clearance_CZX_	clearance	chlorzoxazone	plasma	3.33	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_5	all	CZX	Tab1_Subject_5_clearance_CZX_	clearance	chlorzoxazone	plasma	3.37	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_6	all	CZX	Tab1_Subject_6_clearance_CZX_	clearance	chlorzoxazone	plasma	2.24	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_1	all	CZX	Tab1_Subject_1_thalf_CZX_	thalf	chlorzoxazone	plasma	0.66	hr	HPLC	NA
+Kharasch1993	1	Subject_2	all	CZX	Tab1_Subject_2_thalf_CZX_	thalf	chlorzoxazone	plasma	1.4	hr	HPLC	NA
+Kharasch1993	1	Subject_3	all	CZX	Tab1_Subject_3_thalf_CZX_	thalf	chlorzoxazone	plasma	0.75	hr	HPLC	NA
+Kharasch1993	1	Subject_4	all	CZX	Tab1_Subject_4_thalf_CZX_	thalf	chlorzoxazone	plasma	0.59	hr	HPLC	NA
+Kharasch1993	1	Subject_5	all	CZX	Tab1_Subject_5_thalf_CZX_	thalf	chlorzoxazone	plasma	0.91	hr	HPLC	NA
+Kharasch1993	1	Subject_6	all	CZX	Tab1_Subject_6_thalf_CZX_	thalf	chlorzoxazone	plasma	1.2	hr	HPLC	NA
+Kharasch1993	1	Subject_1	all	DSF, CZX	Tab1_Subject_1_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	47.2	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_2	all	DSF, CZX	Tab1_Subject_2_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	40.5	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_3	all	DSF, CZX	Tab1_Subject_3_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	30.6	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_4	all	DSF, CZX	Tab1_Subject_4_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	53.7	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_5	all	DSF, CZX	Tab1_Subject_5_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	27.6	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_6	all	DSF, CZX	Tab1_Subject_6_cmax_DSF_CZX	cmax	chlorzoxazone	plasma	32.5	µg/ml	HPLC	NA
+Kharasch1993	1	Subject_1	all	DSF, CZX	Tab1_Subject_1_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.55	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_2	all	DSF, CZX	Tab1_Subject_2_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.41	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_3	all	DSF, CZX	Tab1_Subject_3_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.53	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_4	all	DSF, CZX	Tab1_Subject_4_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.46	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_5	all	DSF, CZX	Tab1_Subject_5_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.56	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_6	all	DSF, CZX	Tab1_Subject_6_clearance_DSF_CZX	clearance	chlorzoxazone	plasma	0.41	ml/kg/min	HPLC	NA
+Kharasch1993	1	Subject_1	all	DSF, CZX	Tab1_Subject_1_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	3.5	hr	HPLC	NA
+Kharasch1993	1	Subject_2	all	DSF, CZX	Tab1_Subject_2_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	5.8	hr	HPLC	NA
+Kharasch1993	1	Subject_3	all	DSF, CZX	Tab1_Subject_3_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	5.8	hr	HPLC	NA
+Kharasch1993	1	Subject_4	all	DSF, CZX	Tab1_Subject_4_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	5.1	hr	HPLC	NA
+Kharasch1993	1	Subject_5	all	DSF, CZX	Tab1_Subject_5_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	5.4	hr	HPLC	NA
+Kharasch1993	1	Subject_6	all	DSF, CZX	Tab1_Subject_6_thalf_DSF_CZX	thalf	chlorzoxazone	plasma	5.2	hr	HPLC	NA

@@ -1,0 +1,12 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	t_actual	method	comments	value_unit	count_unit
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	15	min	0.00046152942911063924	19.179596	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	30	min	0.009123885940080206	29.40799	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	45	min	0.02971710898796886	45.718506	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	60	min	0.021497438075017687	61.052547	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	90	min	0.016542413305024768	89.00929	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	120	min	0.013459801840056615	122.49206	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	150	min	0.010817076551073364	153.60797	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	180	min	0.007169691554611936	182.72871	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	240	min	0.003566817645671149	241.37996	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	360	min	0.0008090388652984193	363.7964	HPLC	Time course largely invisible	mole/meter^3	dimensionless
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	480	min	0.00017247651568766216	480.686	HPLC	Time course largely invisible	mole/meter^3	dimensionless

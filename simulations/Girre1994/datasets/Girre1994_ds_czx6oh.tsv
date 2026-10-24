@@ -1,0 +1,12 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.0038879855572321615	0.5773624	0.0007765261909894373	0.0034727306987227305	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.008427978551411941	1.3333482	0.00124244179780125	0.005556368635941312	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	1.5	hr	0.01256417870230653	2.15276	0.0009627559818926493	0.004305575642513041	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.013998066932528561	2.430385	0.0009004974132356111	0.004027146859115089	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	2.5	hr	0.013972359344686353	2.46591	0.0006833423151541279	0.003055999737173431	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.012144836171588702	2.1152928	0.0007453276568225911	0.003333206612331898	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.00839688348782065	1.4659066	0.0004969772580297472	0.0022225498644519344	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.005145357458503987	0.87987006	0.00040365633757275324	0.0018052060207225586	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.004161975102392757	0.65125865	0.0006522820112093122	0.0029170938351286047	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.002463501832291442	0.39380324	0.000341259754257383	0.0015261600170087626	HPLC		mole/meter^3	dimensionless
+Girre1994	20	CZX500	healthy	Fig2_healthy	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.0016352871308471652	0.25159615	0.00027941221168355246	0.0012495693981359665	HPLC		mole/meter^3	dimensionless

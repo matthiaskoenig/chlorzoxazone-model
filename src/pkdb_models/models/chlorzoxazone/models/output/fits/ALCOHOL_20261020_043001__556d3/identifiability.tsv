@@ -1,0 +1,4 @@
+parameter	value	unit	lower_bound	upper_bound	ci_lower	ci_upper	identifiability	n_points	cost_min	converged
+LI__ETHEL_VMAX	0.048524543205177066	mmole/min/kg	0.01	0.2	0.034556774165155804	0.06541834511916574	identifiable	16	2.7521363371641074	True
+GU__Ka_abs_eth	2.473946784194836	1/hr	0.3	20.0	1.4641944502812252	4.007739578196278	identifiable	17	2.7521363371641074	True
+Kp_ethanol	0.5043942564436962	dimensionless	0.3	1.5	0.3241772900590304	0.722806200431708	identifiable	17	2.7521363371641074	True

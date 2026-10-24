@@ -1,0 +1,5 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	time	time_unit	unit	method	comments
+Kharasch1993	6	all	CZX	Tab2_recovery_CZX_	recovery	6-hydroxychlorzoxazone	urine	70.7	7.1	2.89856286229343	24.0	hr	percent	HPLC	NA
+Kharasch1993	6	all	CZX	Tab2_clearance_partial_CZX_	clearance_partial	chlorzoxazone	plasma	2.3	0.93	0.379670910131393	NA	NA	ml/kg/min	HPLC	NA
+Kharasch1993	6	all	DSF, CZX	Tab2_recovery_DSF_CZX	recovery	6-hydroxychlorzoxazone	urine	33.8	10.0	4.08248290463863	24.0	hr	percent	HPLC	NA
+Kharasch1993	6	all	DSF, CZX	Tab2_clearance_partial_DSF_CZX	clearance_partial	chlorzoxazone	plasma	0.17	0.05	0.0204124145231932	NA	NA	ml/kg/min	HPLC	NA

@@ -1,0 +1,14 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	0.5	hr	0.008813602264685066	1.9571792	0.0027290917669261614	0.010569726963576786	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	1.0	hr	0.02774959896201934	3.9290874	0.004577344892663363	0.017727980539132753	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	1.5	hr	0.029785789690964844	5.751985	0.004137216914366601	0.0160233722089895	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	2.0	hr	0.02847612644491625	5.604596	0.004577636234961074	0.01772910890299988	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	2.5	hr	0.020389631988676573	4.069218	0.0036090587402689313	0.013977824396545881	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	3.0	hr	0.020751591177164422	2.7873313	0.004312977707006368	0.016704090831799537	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	4.0	hr	0.014524365416371785	1.7910472	0.003961454352441613	0.015342646733767278	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	5.0	hr	0.009968471337579615	2.1529496	0.002728801604151922	0.010568603167984487	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	6.0	hr	0.006204808917197452	1.4103526	0.002112911063930172	0.008183269362618954	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	7.0	hr	0.0039390369190846885	0.9066646	0.0014081239679169613	0.005453640677137897	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	8.0	hr	0.002552363765038924	0.6118376	0.001056020287803727	0.004089948987921001	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	9.0	hr	0.0016069794762915781	0.4067613	0.0007919430290162774	0.0030671821625251	HPLC		mole/meter^3	dimensionless
+Girre1994	15	CZX500	alcoholics	Fig1_alcoholics	concentration	chlorzoxazone	plasma	10.0	hr	0.0011885908233073836	0.2760675	0.00043954965793819293	0.0017023685050257902	HPLC		mole/meter^3	dimensionless

@@ -1,0 +1,7 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	min	max	unit	comments
+Park2006	all	NA	sex	10	M	10	NA	NA	NA	NA	NA
+Park2006	all	NA	species	10	homo sapiens	10	NA	NA	NA	NA	NA
+Park2006	all	NA	healthy	10	Y	10	NA	NA	NA	NA	NA
+Park2006	all	NA	age	10	NA	10	NA	22.0	33.0	yr	NA
+Park2006	all	NA	weight	10	NA	10	NA	63.0	75.0	kg	NA
+Park2006	all	NA	ethnicity	10	korean	10	NA	NA	NA	NA	NA

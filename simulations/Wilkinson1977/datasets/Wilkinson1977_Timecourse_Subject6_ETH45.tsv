@@ -1,0 +1,23 @@
+study	count	intervention	individual	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	0.167	5.3124666811373995	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	0.333	6.0273822444106795	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	0.5	7.4464760147601465	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	0.667	8.796997395268068	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	0.833	10.039885608856087	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	1.0	10.953648795311482	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	1.167	10.787536357716517	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	1.33	10.115878011721293	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	1.5	9.840843281962231	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	1.75	9.174982852181463	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	2.0	8.639612329064466	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	2.5	6.384582157586281	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	3.0	5.183565443889733	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	3.5	4.247609073149555	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	4.0	1.858653136531365	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	4.5	0.4602908617321467	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	4.75	0.34397273713913606	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	5.0	0.20587043629259819	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	5.25	0.17711836336010417	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	5.5	0.0	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	5.75	0.0	hr	GC		mole/meter^3	dimensionless
+Wilkinson1977	1	ETH45	Subject6	Subject6_ETH45	concentration	ethanol	plasma	6.0	0.0	hr	GC		mole/meter^3	dimensionless

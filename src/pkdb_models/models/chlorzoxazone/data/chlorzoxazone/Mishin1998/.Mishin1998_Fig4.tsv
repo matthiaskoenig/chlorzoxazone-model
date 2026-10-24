@@ -1,0 +1,17 @@
+study	group	individual	measurement	substance	tissue	intervention	time	time_unit	value	unit	method	comments
+Mishin1998	alcoholic_drinking	alcoholic_drinking_concentration_S1	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	4.0603523	microg/ml	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_concentration_S2	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	5.7611394	microg/ml	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_concentration_S3	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	6.7060213	microg/ml	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_concentration_S4	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	7.976301	microg/ml	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_concentration_S5	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	10.590474	microg/ml	HPLC	NA
+Mishin1998	alcoholic_drinking	alcoholic_drinking_concentration_S6	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.3516293	microg/ml	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_concentration_S1	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	0.036653314	microg/ml	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_concentration_S2	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.7460976	microg/ml	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_concentration_S3	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.4005618	microg/ml	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_concentration_S4	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.6438735	microg/ml	HPLC	NA
+Mishin1998	alcoholic_abstinent	alcoholic_abstinent_concentration_S5	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.8340777	microg/ml	HPLC	NA
+Mishin1998	NALD	NALD_concentration_S1	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.2290832	microg/ml	HPLC	NA
+Mishin1998	NALD	NALD_concentration_S2	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	1.1261224	microg/ml	HPLC	NA
+Mishin1998	NALD	NALD_concentration_S3	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	2.0812573	microg/ml	HPLC	NA
+Mishin1998	NALD	NALD_concentration_S4	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	2.9412289	microg/ml	HPLC	NA
+Mishin1998	NALD	NALD_concentration_S5	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	3.1741033	microg/ml	HPLC	NA

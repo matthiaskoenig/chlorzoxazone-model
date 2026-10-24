@@ -1,0 +1,31 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	time_unit	sigmaminus	value	unit	method	comments
+Vesell1995	1	BL	CZX250	all	Fig1_BL	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	123.16149	49.69851	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	BL	CZX250	all	Fig1_BL	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	38.02982	134.83018	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	BL	CZX250	all	Fig1_BL	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	15.400925	157.459075	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	BL	CZX250	all	Fig1_BL	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	4.3444858	168.5155142	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	BL	CZX250	all	Fig1_BL	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	172.86	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	EG	CZX250	all	Fig1_EG	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	125.976456	46.883544	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	EG	CZX250	all	Fig1_EG	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	26.49069	146.36931	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	EG	CZX250	all	Fig1_EG	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	6.0975437	166.7624563	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	EG	CZX250	all	Fig1_EG	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	1.7200714	171.1399286	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	EG	CZX250	all	Fig1_EG	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	172.86	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	SM	CZX250	all	Fig1_SM	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	37.04142	78.65858	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	SM	CZX250	all	Fig1_SM	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	24.925772	90.774228	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	SM	CZX250	all	Fig1_SM	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	12.79774	102.90226	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	SM	CZX250	all	Fig1_SM	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	2.5516353	113.1483647	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	SM	CZX250	all	Fig1_SM	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	115.7	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	91.134315	118.585685	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	38.74859	170.97141	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	7.225266	202.494734	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	2.3005784	207.4194216	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	209.72	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	CN	CZX250	all	Fig1_CN	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	113.66324	89.48676	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	CN	CZX250	all	Fig1_CN	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	38.745716	164.404284	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	CN	CZX250	all	Fig1_CN	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	11.028899	192.121101	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	CN	CZX250	all	Fig1_CN	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	2.3423486	200.8076514	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	CN	CZX250	all	Fig1_CN	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	203.15	mg	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	125.976456	50.833544	mg	HPLC	outlier
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	80.16793	96.64207	mg	HPLC	outlier
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	61.1262	115.6838	mg	HPLC	outlier
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	23.131653	153.678347	mg	HPLC	outlier
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	176.81	mg	HPLC	outlier

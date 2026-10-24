@@ -1,0 +1,5 @@
+study	form	name	measurement	substance	given_value	value	unit	time	time_unit	route	application	comments
+Wilkinson1977	solution	ETH15	dosing	ethanol	15	11.24325	g	0	hr	oral	single dose	Each subject received 15, 30, 45, and 60 ml of 95% ethanol in orange juice (total volume of each dose was 150 ml); conversion with average density is 0.789 g/cm3
+Wilkinson1977	solution	ETH30	dosing	ethanol	30	22.4865	g	0	hr	oral	single dose	Each subject received 15, 30, 45, and 60 ml of 95% ethanol in orange juice (total volume of each dose was 150 ml); conversion with average density is 0.789 g/cm3
+Wilkinson1977	solution	ETH45	dosing	ethanol	45	33.72975	g	0	hr	oral	single dose	Each subject received 15, 30, 45, and 60 ml of 95% ethanol in orange juice (total volume of each dose was 150 ml); conversion with average density is 0.789 g/cm3
+Wilkinson1977	solution	ETH60	dosing	ethanol	60	44.973	g	0	hr	oral	single dose	Each subject received 15, 30, 45, and 60 ml of 95% ethanol in orange juice (total volume of each dose was 150 ml); conversion with average density is 0.789 g/cm3

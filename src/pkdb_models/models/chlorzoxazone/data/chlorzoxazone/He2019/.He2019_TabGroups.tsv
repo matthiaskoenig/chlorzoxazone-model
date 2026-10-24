@@ -1,0 +1,9 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	min	max	unit	comments
+He2019	all	NA	sex	20	M	20	NA	NA	NA	NA	NA
+He2019	all	NA	species	20	homo sapiens	20	NA	NA	NA	NA	NA
+He2019	all	NA	healthy	20	Y	20	NA	NA	NA	NA	NA
+He2019	all	NA	age	20	NA	20	24.8	19.0	29.0	yr	NA
+He2019	all	NA	weight	20	NA	20	62.4	55.0	76.0	kg	NA
+He2019	all	NA	height	20	NA	20	172.0	165.0	180.0	cm	NA
+He2019	all	NA	bmi	20	NA	20	21.1	19.6	23.9	kg/m^2	NA
+He2019	all	NA	ethnicity	20	chinese	20	NA	NA	NA	NA	NA

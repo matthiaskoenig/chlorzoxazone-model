@@ -1,0 +1,107 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	t_actual	unit	method	comments
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	15	min	0.06257326	13.63259	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	30	min	0.6641657	28.908094	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	45	min	0.994392	46.304134	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	60	min	1.0252503	63.25933	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	90	min	0.81892383	91.22074	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	120	min	4.8135443	117.06627	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	150	min	3.634801	152.11658	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	180	min	2.3062742	185.56827	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	240	min	0.9521856	241.43669	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	360	min	0.17054056	361.8525	µg/ml	HPLC	NA
+DeVries1994	1	Subject_16	Fig2_Subject_16	concentration	chlorzoxazone	blood	CZX	480	min	0.048084866	485.4788	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	15	min	4.509961	12.590325	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	30	min	9.388204	28.844896	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	45	min	7.983244	43.41071	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	60	min	5.7035913	59.531628	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	90	min	3.7334173	91.01612	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	120	min	2.9451609	119.764404	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	150	min	2.5502207	151.28386	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	180	min	1.5491774	185.12433	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	240	min	0.6475922	241.78273	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	360	min	0.10968523	359.0378	µg/ml	HPLC	NA
+DeVries1994	1	Subject_14	Fig2_Subject_14	concentration	chlorzoxazone	blood	CZX	480	min	0.028526759	480.68292	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	15	min	2.7421088	17.652979	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	30	min	2.5282612	29.469374	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	45	min	2.3452847	46.017147	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	60	min	2.95058	60.631912	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	90	min	2.9848647	89.01706	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	120	min	3.871526	122.558105	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	150	min	2.851969	154.05736	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	180	min	2.3646116	182.02342	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	240	min	1.4351587	244.24748	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	360	min	0.57682943	363.9759	µg/ml	HPLC	NA
+DeVries1994	1	Subject_13	Fig2_Subject_13	concentration	chlorzoxazone	blood	CZX	480	min	0.1924112	480.52725	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	45	min	0.048446674	44.34963	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	60	min	1.1611773	58.544273	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	90	min	5.094947	89.4781	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	120	min	5.9836006	117.881905	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	150	min	3.6577396	149.75206	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	180	min	3.2070322	179.6962	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	240	min	2.0974112	239.17007	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	360	min	0.49386775	358.83163	µg/ml	HPLC	NA
+DeVries1994	1	Subject_17	Fig2_Subject_17	concentration	chlorzoxazone	blood	CZX	480	min	0.1481887	480.88882	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	15	min	0.78096503	17.890234	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	30	min	1.959375	29.043299	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	45	min	2.8261638	46.434673	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	60	min	3.3000634	59.857464	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	90	min	3.2160847	89.02638	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	120	min	2.459036	122.50138	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	150	min	1.9885738	153.22386	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	180	min	1.2856753	182.34149	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	240	min	0.7564419	244.16745	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	360	min	0.44426027	363.94327	µg/ml	HPLC	NA
+DeVries1994	1	Subject_11	Fig2_Subject_11	concentration	chlorzoxazone	blood	CZX	480	min	0.2165357	480.93622	µg/ml	HPLC	NA
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	15	min	0.21695629	18.518597	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	30	min	1.3325769	29.783556	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	45	min	2.8261638	46.434673	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	60	min	3.6678846	60.659107	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	90	min	4.361479	89.45868	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	120	min	3.7298045	122.15923	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	150	min	2.2378461	154.42128	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	180	min	1.690214	182.37569	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	240	min	0.5825935	244.13483	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	360	min	0.07009094	364.1067	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_9	Fig2_Subject_9	concentration	chlorzoxazone	blood	CZX	480	min	0.010037079	480.9466	µg/ml	HPLC	not distinguishable, estimation by eye
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	15	min	0.038761575	18.697575	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	30	min	0.3588787	29.225386	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	45	min	0.8303402	45.887383	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	60	min	1.1903888	59.335815	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	90	min	2.9662547	90.19894	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	120	min	2.3542502	123.28438	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	150	min	1.7780234	153.20987	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	180	min	1.1711768	182.72406	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	240	min	0.43768343	243.70486	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	360	min	0.10967313	362.5858	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_10	Fig2_Subject_10	concentration	chlorzoxazone	blood	CZX	480	min	0.029428238	479.89838	µg/ml	HPLC	pure speculation tbh
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	30	min	3.0848556	29.100023	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	45	min	2.970329	46.046677	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	60	min	2.6878426	60.62026	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	90	min	2.7021878	89.39884	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	120	min	2.0789938	122.87462	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	150	min	1.512588	153.9781	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	180	min	1.040669	183.10352	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	240	min	0.5789541	245.7109	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	360	min	0.16428363	364.21313	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_12	Fig2_Subject_12	concentration	chlorzoxazone	blood	CZX	480	min	0.0486931	481.14395	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	30	min	0.13520557	30.28604	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	45	min	0.34773594	43.807514	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	60	min	0.37450776	58.008636	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	90	min	7.039837	88.73008	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	120	min	5.764635	117.088806	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	150	min	3.634979	150.53972	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	180	min	2.5791898	187.94756	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	240	min	1.0715836	241.45145	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	390	min	0.26332873	387.53098	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	480	min	0.11132658	481.2473	µg/ml	HPLC	Subject 12 and 15 got same marker
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	15	min	0.07825693	19.179596	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	30	min	1.5470461	29.40799	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	45	min	5.038833	45.718506	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	60	min	3.6451056	61.052547	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	90	min	2.8049316	89.00929	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	120	min	2.282244	122.49206	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	150	min	1.8341435	153.60797	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	180	min	1.2156929	182.72871	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	240	min	0.6047896	241.37996	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	360	min	0.13718063	363.7964	µg/ml	HPLC	Time course largely invisible
+DeVries1994	1	Subject_8	Fig2_Subject_8	concentration	chlorzoxazone	blood	CZX	480	min	0.029245118	480.686	µg/ml	HPLC	Time course largely invisible

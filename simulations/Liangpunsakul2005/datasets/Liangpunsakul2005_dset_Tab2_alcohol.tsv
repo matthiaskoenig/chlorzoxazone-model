@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	min	max	method	comments	mean_unit	count_unit
+Liangpunsakul2005	20	alcohol	CZX	Tab2_CZX_alcohol_recovery	recovery	6-hydroxychlorzoxazone	urine	0.0019167256428402927	0.000707714083510262	0.00015824967993629098	8.0	hr			HPLC	from text	count*mole	dimensionless

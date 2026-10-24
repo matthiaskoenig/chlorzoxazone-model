@@ -1,0 +1,15 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	pm	sd	se	unit	method	comments
+Liangpunsakul2005	20	alcohol	MDZ_IV	Tab2_MDZ_IV_alcohol_clearance	clearance	midazolam	plasma	36.9	NA	12.0	2.68328157299975	l/hr	LC/MS	NA
+Liangpunsakul2005	20	alcohol	MDZ_PO	Tab2_MDZ_PO_alcohol_clearance	clearance	midazolam	plasma	149.0	NA	88.0	19.6773982019981	l/hr	LC/MS	NA
+Liangpunsakul2005	20	alcohol	MDZ_IV	Tab2_MDZ_IV_alcohol_clearance	clearance	midazolam	plasma	0.22727273	0.28787878	0.06060605	0.0135519247647751	l/hr/kg	LC/MS	from fig3
+Liangpunsakul2005	20	alcohol	MDZ_PO	Tab2_MDZ_PO_alcohol_clearance	clearance	midazolam	plasma	1.7651515	2.871212	1.1060605	0.247322646522741	l/hr/kg	LC/MS	from fig3
+Liangpunsakul2005	20	alcohol	MDZ_IV, MDZ_PO	Tab2_MDZ_IV, MDZ_PO_alcohol_cmax	cmax	midazolam	plasma	15.5	NA	5.5	1.22983738762488	mg/l	LC/MS	based on values from iv and po dose?
+Liangpunsakul2005	20	alcohol	MDZ_IV, MDZ_PO	Tab2_MDZ_IV, MDZ_PO_alcohol_bioavailability	bioavailability	midazolam	plasma	0.28	NA	0.09	0.0201246117974981	dimensionless	LC/MS	NA
+Liangpunsakul2005	20	alcohol	MDZ_IV, MDZ_PO	Tab2_MDZ_IV, MDZ_PO_alcohol_thalf	thalf	midazolam	plasma	5.1	NA	2.8	0.626099033699941	hr	LC/MS	NA
+Liangpunsakul2005	20	no_alcohol	MDZ_IV	Tab2_MDZ_IV_no_alcohol_clearance	clearance	midazolam	plasma	36.6	NA	14.1	3.1528558482747	l/hr	LC/MS	NA
+Liangpunsakul2005	20	no_alcohol	MDZ_PO	Tab2_MDZ_PO_no_alcohol_clearance	clearance	midazolam	plasma	120.0	NA	84.0	18.7829710109982	l/hr	LC/MS	NA
+Liangpunsakul2005	20	no_alcohol	MDZ_IV	Tab2_MDZ_IV_no_alcohol_clearance	clearance	midazolam	plasma	0.22727273	0.31060606	0.08333333	0.0186338990671423	l/hr/kg	LC/MS	from fig3
+Liangpunsakul2005	20	no_alcohol	MDZ_PO	Tab2_MDZ_PO_no_alcohol_clearance	clearance	midazolam	plasma	1.3636364	2.3484848	0.9848484	0.22021879699319	l/hr/kg	LC/MS	from fig3
+Liangpunsakul2005	20	no_alcohol	MDZ_IV, MDZ_PO	Tab2_MDZ_IV, MDZ_PO_no_alcohol_cmax	cmax	midazolam	plasma	20.7	NA	8.7	1.94537914042482	mg/l	LC/MS	based on values from iv and po dose?
+Liangpunsakul2005	20	no_alcohol	MDZ_IV, MDZ_PO	Tab2_MDZ_IV, MDZ_PO_no_alcohol_bioavailability	bioavailability	midazolam	plasma	0.38	NA	0.17	0.0380131556174964	dimensionless	LC/MS	NA
+Liangpunsakul2005	20	no_alcohol	MDZ_IV, MDZ_PO	Tab2_MDZ_IV, MDZ_PO_no_alcohol_thalf	thalf	midazolam	plasma	6.2	NA	3.6	0.804984471899924	hr	LC/MS	NA

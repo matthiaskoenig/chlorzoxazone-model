@@ -1,0 +1,4 @@
+study	form	name	measurement	substance	value	unit	time	time_unit	route	application	comments
+Leclercq1998	capsule	CZX500	dosing	chlorzoxazone	500	mg	0	day	oral	single dose	Sigma Chemicals Co. (St.Louis, Mo.)
+Leclercq1998	solution	WATERCRESS	dosing	watercress	50	mg	-1	day	oral	single dose	watergress homogenized with 250 ml water
+Leclercq1998	NR	ISONIAZID	dosing	isoniazid	300	mg	-7|-6|-5|-4|-3|-2|-1	day	oral	multiple dose	NA

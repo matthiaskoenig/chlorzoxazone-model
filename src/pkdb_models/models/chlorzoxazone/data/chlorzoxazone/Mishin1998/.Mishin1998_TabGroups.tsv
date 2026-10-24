@@ -1,0 +1,41 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	se	unit	comments
+Mishin1998	all	NA	species	16.0	homo sapiens	16.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	all	NA	healthy	16.0	N	16.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	all	NA	sex	16.0	M	16.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	weight	6.0	NA	6.0	NA	85.5	NA	NA	NA	NA	6.9	kg	NA
+Mishin1998	alcoholic_drinking	all	age	6.0	NA	6.0	NA	50.8	NA	NA	NA	NA	2.9	yr	NA
+Mishin1998	alcoholic_drinking	all	ethnicity	6.0	caucasian	3.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	ethnicity	6.0	hispanic	2.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	ethnicity	6.0	african american	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	smoking	6.0	Y	4.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	smoking	6.0	N	2.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	alcohol	6.0	Y	6.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	medication	6.0	Y	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	medication	6.0	N	5.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	disease	6.0	liver cirrhosis	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	disease	6.0	liver fibrosis	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking	all	abstinence alcohol	6.0	NA	6.0	NA	1.0	NA	1.0	1.0	NA	NA	day	NA
+Mishin1998	alcoholic_abstinent	all	weight	5.0	NA	5.0	NA	80.2	NA	NA	NA	NA	5.6	kg	NA
+Mishin1998	alcoholic_abstinent	all	age	5.0	NA	5.0	NA	51.4	NA	NA	NA	NA	3.2	yr	NA
+Mishin1998	alcoholic_abstinent	all	ethnicity	5.0	caucasian	3.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_abstinent	all	ethnicity	5.0	hispanic	2.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_abstinent	all	smoking	5.0	Y	5.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_abstinent	all	alcohol	5.0	N	5.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_abstinent	all	medication	5.0	Y	5.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_abstinent	all	abstinence alcohol	5.0	NA	5.0	NA	25.8	NA	16.0	45.0	NA	NA	day	NA
+Mishin1998	alcoholic_abstinent	all	disease	5.0	liver steatosis	3.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_abstinent	all	disease	5.0	liver fibrosis	2.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	weight	5.0	NA	5.0	NA	103.1	NA	NA	NA	NA	7.8	kg	NA
+Mishin1998	NALD	all	age	5.0	NA	5.0	NA	52.2	NA	NA	NA	NA	4.7	yr	NA
+Mishin1998	NALD	all	ethnicity	5.0	caucasian	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	ethnicity	5.0	hispanic	4.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	smoking	5.0	Y	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	smoking	5.0	N	4.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	alcohol	5.0	N	5.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	medication	5.0	Y	4.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	medication	5.0	N	1.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	NALD	all	disease	5.0	nash	4.0	NA	NA	NA	NA	NA	NA	NA	NA	2: drug-associated steatosis; 2: obesity-associated steatosis
+Mishin1998	NALD	all	disease	5.0	hepatitis	4.0	NA	NA	NA	NA	NA	NA	NA	NA	2: drug-associated steatosis; 2: obesity-associated steatosis
+Mishin1998	NALD	all	weight (categorial)	5.0	obese	2.0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Mishin1998	alcoholic_drinking_stopped	alcoholic_drinking	abstinence alcohol	6.0	NA	6.0	NA	NA	NA	8.0	NA	NA	NA	day	NA
+Mishin1998	alcoholic_drinking_stopped	alcoholic_drinking	alcohol	6.0	N	6.0	NA	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,11 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	time	time_unit	unit	method	comments
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_cmax_chlorzoxazone	cmax	chlorzoxazone	plasma	6.0	2.1	0.606217782649107	NA	NA	µg/ml	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_tmax_chlorzoxazone	tmax	chlorzoxazone	plasma	120.0	48.0	13.856406460551	NA	NA	min	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_thalf_chlorzoxazone	thalf	chlorzoxazone	urine	55.5	12.9	3.72390923627309	NA	NA	min	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_clearance_chlorzoxazone	clearance	chlorzoxazone	plasma	350.0	187.0	53.98225016923	NA	NA	ml/min	HPLC	NA
+Hukkanen2010	12	nicotine	CZX	Tab1_nicotine_auc_inf_chlorzoxazone	auc_inf	chlorzoxazone	plasma	852.0	326.0	94.108093877909	NA	NA	min*µg/ml	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_cmax_chlorzoxazone	cmax	chlorzoxazone	plasma	5.2	3.2	0.923760430703401	NA	NA	µg/ml	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_tmax_chlorzoxazone	tmax	chlorzoxazone	plasma	123.0	49.0	14.1450815951458	NA	NA	min	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_thalf_chlorzoxazone	thalf	chlorzoxazone	urine	60.9	21.8	6.29311793416692	NA	NA	min	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_clearance_chlorzoxazone	clearance	chlorzoxazone	plasma	449.0	290.0	83.7157890324957	NA	NA	ml/min	HPLC	NA
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_auc_inf_chlorzoxazone	auc_inf	chlorzoxazone	plasma	740.0	394.0	113.738003030356	NA	NA	min*µg/ml	HPLC	NA

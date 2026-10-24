@@ -1,0 +1,10 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	27.742748	0.013089100023590466	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	58.638084	0.044457802547770695	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	88.272385	0.08485347369662655	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	119.79823	0.11531948572776596	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	178.43633	0.09207504718093888	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	240.22699	0.06070633993866477	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	300.75662	0.03633353385232365	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	359.3947	0.022567413894786503	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	WATERCRESS, CZX500	all	WATERCRESS_CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	479.82346	0.010606684359518753	min	HPLC		mole/meter^3	dimensionless

@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	method	comments	mean_unit	count_unit
+Hukkanen2010	12	placebo	CZX	Tab1_placebo_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	0.0007534206180702997	0.00013269639065817412	3.8306148433494346e-05	24.0	hr	HPLC		count*mole	dimensionless

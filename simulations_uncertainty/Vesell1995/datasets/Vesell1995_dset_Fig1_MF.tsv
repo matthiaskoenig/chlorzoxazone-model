@@ -1,0 +1,6 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	time_unit	sigmaminus	value	method	comments	value_unit	count_unit
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	91.134315	0.0006390692228928649	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose	mole	dimensionless
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	38.74859	0.0009213807393834878	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose	mole	dimensionless
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	7.225266	0.0010912628475964648	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose	mole	dimensionless
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	2.3005784	0.0011178024444923476	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose	mole	dimensionless
+Vesell1995	1	MF	CZX250	all	Fig1_MF	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	0.0011302004742401379	HPLC	the axis says µg, the amounts are mg: 116-210 mg are 43-77 % of the dose	mole	dimensionless

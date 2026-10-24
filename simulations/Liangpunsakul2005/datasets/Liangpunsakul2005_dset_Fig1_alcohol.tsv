@@ -1,0 +1,10 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	0.25	hr	0.0033016723283793344	0.760854	0.0011855534324133048	0.0002650978065834353	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	0.5	hr	0.01477136942675159	5.7209554	0.018968636470865767	0.004241516058933757	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	1.0	hr	0.023664323543288505	7.4111695	0.020043918376975698	0.004481956402637491	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	1.5	hr	0.028899374852559563	7.85585	0.01743142250530785	0.0038977845666388062	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	2.0	hr	0.02956727412125501	7.4005046	0.01407807029959896	0.0031479522181924093	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	3.0	hr	0.022242421561689072	6.8036795	0.017883076786978057	0.003998777534253148	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	4.0	hr	0.012605181646614765	3.7658358	0.009604276952111346	0.002147581613965546	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	6.0	hr	0.0041942810804435	1.3136456	0.003553098018400566	0.000794496869986347	HPLC		mole/meter^3	dimensionless
+Liangpunsakul2005	20	CZX	alcohol	Fig1_CZX_alcohol	concentration	chlorzoxazone	serum	8.0	hr	0.0022909988794527006	0.72604066	0.0019909111229063454	0.0004451812607979027	HPLC		mole/meter^3	dimensionless

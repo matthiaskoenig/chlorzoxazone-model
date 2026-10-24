@@ -1,0 +1,11 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	time_unit	value	method	comments	value_unit	count_unit
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.75	hr	0.005359735665014011	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.004550849320974347	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.5	hr	0.007263398900625133	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.011592972623410216	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.5	hr	0.0126732900409571	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.5	hr	0.009029271933606378	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.5	hr	0.005391561220090536	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.5	hr	0.0036522095279154987	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.5	hr	0.002806716425953869	HPLC		mole/meter^3	dimensionless
+Dreisbach1995	1	TC_1	CZX500	all	Fig4_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.5	hr	0.0019498312136236255	HPLC		mole/meter^3	dimensionless

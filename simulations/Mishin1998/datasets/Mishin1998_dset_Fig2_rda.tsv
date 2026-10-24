@@ -1,0 +1,11 @@
+study	count	group	label	measurement	substance	tissue	intervention	time	time_unit	mean	pm	mean_se	mean_sd	method	mean_unit	count_unit
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	15	min	0.002832612632032765	0.74357307	0.0011745714054753177	0.0028771006098782114	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	30	min	0.006421394697133002	1.6467199	0.0024529311273981456	0.006008429636315315	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	45	min	0.011806331105841774	2.842419	0.00351172774304807	0.00860194108604338	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	60	min	0.017380727527484367	4.104646	0.004739589351153265	0.011609575500654288	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	90	min	0.030325488790687645	6.5890894	0.005183723323992239	0.01269747711154489	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	120	min	0.032302746820435435	7.265187	0.006850017784005173	0.016779048299803027	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	180	min	0.0305851616727743	6.981395	0.007038221599482647	0.01724005161536775	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	240	min	0.022344023496443193	5.128539	0.005294147445570165	0.01296795986470586	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	300	min	0.012495629446001293	3.089553	0.004154257383056692	0.010175810848678647	HPLC	mole/meter^3	dimensionless
+Mishin1998	6	alcoholic_drinking	Fig2_alcoholic_drinking	concentration	6-hydroxychlorzoxazone	plasma	CZX	360	min	0.008414439534382409	2.1808424	0.0033383218366027155	0.008177185096867427	HPLC	mole/meter^3	dimensionless

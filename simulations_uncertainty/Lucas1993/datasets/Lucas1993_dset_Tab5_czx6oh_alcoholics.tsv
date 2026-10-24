@@ -1,0 +1,6 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	excretion	excretion_sd	excretion_sd_square	mean	mean_sd	mean_se	time_unit	method	comments	mean_unit	count_unit
+Lucas1993	5	CZX500	alcoholics	Tab5_alcoholics_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	2	148.0	14.6	213.16	0.0007975856865703816	7.868075016167278e-05	3.5187101176435604e-05	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	alcoholics	Tab5_alcoholics_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	4	137.0	66.1	4369.21	0.0015358913558956673	0.00036480494167153804	0.00016314572962108107	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	alcoholics	Tab5_alcoholics_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	6	57.5	31.0	961.0	0.0018457641733132142	0.00040123847372920083	0.00017943930048935116	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	alcoholics	Tab5_alcoholics_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	8	18.0	10.7	114.49	0.0019427678378960984	0.00040536078714737013	0.0001812828550948685	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	alcoholics	Tab5_alcoholics_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	24	17.1	3.1	9.61	0.0020349213192498382	0.0005335201552058634	0.00023859721922828196	hr	HPLC		mole	dimensionless

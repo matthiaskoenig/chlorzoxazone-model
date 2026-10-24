@@ -1,0 +1,2 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	mean_sd	mean_se	time	time_unit	method	comments	mean_unit	count_unit
+Wang2003	14	DT1	CZX500	Tab3_DT1_recovery	recovery	6-hydroxychlorzoxazone	urine	0.0018105685303137534	0.000353857041755131	9.457227243893285e-05	24.0	hr	HPLC		count*mole	dimensionless

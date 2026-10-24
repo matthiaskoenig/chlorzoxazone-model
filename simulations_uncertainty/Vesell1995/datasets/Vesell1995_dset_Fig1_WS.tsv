@@ -1,0 +1,6 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	time_unit	sigmaminus	value	method	comments	value_unit	count_unit
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	125.976456	0.00027394666954084937	HPLC	outlier	mole	dimensionless
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	80.16793	0.0005208130523819789	HPLC	outlier	mole	dimensionless
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	61.1262	0.0006234306962707481	HPLC	outlier	mole	dimensionless
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	23.131653	0.0008281868236688942	HPLC	outlier	mole	dimensionless
+Vesell1995	1	WS	CZX250	all	Fig1_WS	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.0	0.0009528454408277647	HPLC	outlier	mole	dimensionless

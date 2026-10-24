@@ -1,0 +1,9 @@
+study	name	parent	measurement_type	group_count	choice	count	median	min	max	unit	comments
+Emery2003	all	NA	sex	32	MF	32	NA	NA	NA	NA	NA
+Emery2003	all	NA	species	33	homo sapiens	32	NA	NA	NA	NA	NA
+Emery2003	all	NA	healthy	32	Y	32	NA	NA	NA	NA	NA
+Emery2003	all	NA	alcohol	32	N	32	NA	NA	NA	NA	NA
+Emery2003	obese	all	weight	16	NA	16	172.0	104.0	273.0	kg	NA
+Emery2003	obese	all	bmi	26	NA	16	80.0	45.0	100.0	kg/m^2	NA
+Emery2003	control	all	weight	16	NA	16	59.0	48.0	93.0	kg	NA
+Emery2003	control	all	bmi	26	NA	16	21.0	18.0	26.0	kg/m^2	NA

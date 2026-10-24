@@ -1,0 +1,48 @@
+study	individual	label	measurement	substance	tissue	intervention	value	unit	time	time_unit	method	comments
+Witt2016	Subject_1	Tab2_CZX1_thalf	thalf	chlorzoxazone	plasma	CZX1	1.02	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX2_thalf	thalf	chlorzoxazone	plasma	CZX2	1.0	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX3_thalf	thalf	chlorzoxazone	plasma	CZX3	1.05	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX4_thalf	thalf	chlorzoxazone	plasma	CZX4	1.1	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX5_thalf	thalf	chlorzoxazone	plasma	CZX5	1.33	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX6_thalf	thalf	chlorzoxazone	plasma	CZX6	1.02	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX7_thalf	thalf	chlorzoxazone	plasma	CZX7	1.27	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX8_thalf	thalf	chlorzoxazone	plasma	CZX8	1.14	hr	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX1_cmax	cmax	chlorzoxazone	plasma	CZX1	0.04	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX2_cmax	cmax	chlorzoxazone	plasma	CZX2	0.08	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX3_cmax	cmax	chlorzoxazone	plasma	CZX3	0.59	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX4_cmax	cmax	chlorzoxazone	plasma	CZX4	0.87	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX5_cmax	cmax	chlorzoxazone	plasma	CZX5	8.23	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX6_cmax	cmax	chlorzoxazone	plasma	CZX6	9.06	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX7_cmax	cmax	chlorzoxazone	plasma	CZX7	51.5	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX8_cmax	cmax	chlorzoxazone	plasma	CZX8	76.6	ng/ml	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX2_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX2	0.033	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_1	Tab2_CZX3_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX3	0.02	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_2	Tab2_CZX4_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX4	0.029	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_1	Tab2_CZX5_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX5	0.014	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_2	Tab2_CZX6_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX6	0.023	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_1	Tab2_CZX7_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX7	0.027	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_2	Tab2_CZX8_metabolic ratio	metabolic ratio	6-hydroxychlorzoxazone/chlorzoxazone	plasma	CZX8	0.041	dimensionless	0.5	hr	HPLC MS/MS	MR at cmax
+Witt2016	Subject_1	Tab2_CZX1_auc_inf	auc_inf	chlorzoxazone	plasma	CZX1	3.96	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX2_auc_inf	auc_inf	chlorzoxazone	plasma	CZX2	7.12	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX3_auc_inf	auc_inf	chlorzoxazone	plasma	CZX3	51.2	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX4_auc_inf	auc_inf	chlorzoxazone	plasma	CZX4	74.6	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX5_auc_inf	auc_inf	chlorzoxazone	plasma	CZX5	878.0	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX6_auc_inf	auc_inf	chlorzoxazone	plasma	CZX6	1082.0	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX7_auc_inf	auc_inf	chlorzoxazone	plasma	CZX7	4842.0	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX8_auc_inf	auc_inf	chlorzoxazone	plasma	CZX8	6396.0	ng/ml*min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX1_vd	vd	chlorzoxazone	plasma	CZX1	55.5	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX2_vd	vd	chlorzoxazone	plasma	CZX2	60.7	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX3_vd	vd	chlorzoxazone	plasma	CZX3	44.4	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX4_vd	vd	chlorzoxazone	plasma	CZX4	63.8	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX5_vd	vd	chlorzoxazone	plasma	CZX5	32.7	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX6_vd	vd	chlorzoxazone	plasma	CZX6	40.9	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX7_vd	vd	chlorzoxazone	plasma	CZX7	56.9	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX8_vd	vd	chlorzoxazone	plasma	CZX8	77.2	l	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX1_clearance	clearance	chlorzoxazone	plasma	CZX1	631.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX2_clearance	clearance	chlorzoxazone	plasma	CZX2	702.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX3_clearance	clearance	chlorzoxazone	plasma	CZX3	488.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX4_clearance	clearance	chlorzoxazone	plasma	CZX4	670.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX5_clearance	clearance	chlorzoxazone	plasma	CZX5	285.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX6_clearance	clearance	chlorzoxazone	plasma	CZX6	462.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_1	Tab2_CZX7_clearance	clearance	chlorzoxazone	plasma	CZX7	516.0	ml/min	NA	NA	HPLC MS/MS	NA
+Witt2016	Subject_2	Tab2_CZX8_clearance	clearance	chlorzoxazone	plasma	CZX8	782.0	ml/min	NA	NA	HPLC MS/MS	NA

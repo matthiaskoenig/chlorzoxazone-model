@@ -1,0 +1,34 @@
+study	count	subjects	label	intervention	substance	time	time_unit	mean	mean_pm	se	sd	unit	method
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	0.0	hr	0.010318087	0.061820537	0.05150245	0.162865047078939	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	0.5	hr	1.5843924	2.2590568	0.6746644	2.1334761602309	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	1.0	hr	4.430489	5.0897384	0.6592494	2.08472965009941	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	1.5	hr	3.846576	4.3667154	0.5201394	1.64482520479339	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	2.0	hr	3.1596751	3.468602	0.3089269	0.976912634495072	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	3.0	hr	1.8322084	2.1308699	0.2986615	0.944450589402378	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	4.0	hr	1.035252	1.2308205	0.1955685	0.61844189858264	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	5.0	hr	0.5833268	0.6863141	0.1029873	0.325674438071059	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	6.0	hr	0.37861338	0.4352133	0.05659992	0.178984662583318	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	7.0	hr	0.2253672	0.29237318	0.06700598	0.211891513651689	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_CO	Dcaf, Dchlo, CO	chlorzoxazone	8.0	hr	0.16999327	0.24202631	0.07203304	0.227788473186015	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	0.0	hr	0.010353282	0.077306464	0.066953182	0.211724551715788	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	0.5	hr	1.610126	0.76543313	0.84469287	2.67115339250451	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	1.0	hr	3.488012	2.803012	0.685	2.16616019721534	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	1.5	hr	2.9555483	2.4610896	0.4944587	1.5636157008859	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	2.0	hr	2.3613873	2.1295733	0.231814	0.733060233514273	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	3.0	hr	1.6570649	1.4561877	0.2008772	0.635229481997175	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	4.0	hr	0.9630782	0.7828372	0.180241	0.569972087746409	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	5.0	hr	0.5214711	0.40298027	0.11849083	0.374700904643809	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	6.0	hr	0.28589138	0.20346986	0.08242152	0.260639731413121	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	7.0	hr	0.20471343	0.117106475	0.087606955	0.277037516671876	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Smoking	Dcaf, Dchlo,Smoking	chlorzoxazone	8.0	hr	0.17512593	0.09783705	0.07728888	0.244408898603435	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	0.0	hr	0.015503528	0.08762455	0.072121022	0.228066696699112	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	0.5	hr	2.3517613	3.0522122	0.7004509	2.21502023311483	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	1.0	hr	4.739504	5.203026	0.463522	1.46578526559657	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	1.5	hr	3.959846	4.4542694	0.4944234	1.5635040724845	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	2.0	hr	3.154525	3.5973933	0.4428683	1.40047253148675	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	3.0	hr	1.6468172	1.9145771	0.2677599	0.846731150058919	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	4.0	hr	0.7982879	1.0815866	0.2832987	0.895869150164744	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	5.0	hr	0.42880186	0.69141155	0.26260969	0.830444756030743	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	6.0	hr	0.2188854	0.43015102	0.21126562	0.668080550487622	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	7.0	hr	0.18935068	0.2820023	0.09265162	0.29299014810441	microg/ml	HPLC
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	8.0	hr	0.14417166	0.24197352	0.09780186	0.309276637000915	microg/ml	HPLC

@@ -1,0 +1,10 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	mean	time_unit	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	0.23602872	0.0009453792757725878	hr	0.39785013	0.0014009885586223163	0.00033978963573421495	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	0.49769497	0.004098025477707005	hr	1.6664232	0.0057299009200283075	0.0013897051010353266	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	0.9831158	0.013619787685774947	hr	4.3189588	0.011851778721396554	0.002874478559986223	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	1.4840592	0.022599355980184	hr	7.416468	0.021140134465675864	0.005127235725984819	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	1.999611	0.028015469450342056	hr	8.366347	0.021326043878273176	0.005172325381569243	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	2.9897294	0.029519771762208064	hr	8.090996	0.018197826728001885	0.004413621279778826	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	3.9950008	0.018277695211134697	hr	4.6775723	0.00930883640009436	0.0022577244546578552	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	5.9781556	0.005606526598254304	hr	1.5499313	0.0035343751474404333	0.000857211885497346	HPLC		mole/meter^3	dimensionless
+Chalasani2003	17	CZX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	7.975335	0.001661781788157584	hr	0.5005373	0.0012901956829440902	0.0003129184163820234	HPLC		mole/meter^3	dimensionless

@@ -1,0 +1,5 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Puris2019	6	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	1	hr	0.004740504836046237	984.2	0.0010639301722104272	0.0026061571125265393	HPLC		mole/meter^3	dimensionless
+Puris2019	6	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	2	hr	0.003204765274828969	651.6	0.0006381221986317528	0.0015628686010851617	HPLC		mole/meter^3	dimensionless
+Puris2019	6	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	4	hr	0.002713493748525596	516.9	0.0003349846661948573	0.0008203585751356451	HPLC		mole/meter^3	dimensionless
+Puris2019	6	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	serum	6	hr	0.0010226468506723283	201.6	0.00016631280962491152	0.0004074074074074074	HPLC		mole/meter^3	dimensionless

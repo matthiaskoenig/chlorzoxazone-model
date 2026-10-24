@@ -1,0 +1,5 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Puris2019	7	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	obese	Fig1_obese_chlorzoxazone	concentration	chlorzoxazone	serum	1	hr	0.0023177636234961076	419.0	0.0001533380514272234	0.00040569709837225766	HPLC		mole/meter^3	dimensionless
+Puris2019	7	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	obese	Fig1_obese_chlorzoxazone	concentration	chlorzoxazone	serum	2	hr	0.0017769521113470159	349.1	0.0002819061099315876	0.0007460485963670677	HPLC		mole/meter^3	dimensionless
+Puris2019	7	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	obese	Fig1_obese_chlorzoxazone	concentration	chlorzoxazone	serum	4	hr	0.0011329322953526776	226.8	0.0002046473224817174	0.0005414602500589761	HPLC		mole/meter^3	dimensionless
+Puris2019	7	MEL, NIC, BUP, REP, LOS, OME,CZX, MID, DEX	obese	Fig1_obese_chlorzoxazone	concentration	chlorzoxazone	serum	6	hr	0.0006446095777305968	143.5	0.00020169851380042464	0.0005336164189667375	HPLC		mole/meter^3	dimensionless

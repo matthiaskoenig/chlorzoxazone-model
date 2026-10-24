@@ -1,0 +1,15 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Rajnarayana2008	12	all	CZX	Tab1_REF_cmax	cmax	chlorzoxazone	serum	2.408	0.99	0.285788383248865	µg/ml	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_REF_tmax	tmax	chlorzoxazone	serum	2.166	0.38	0.109696551146029	hr	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_REF_auc_end	auc_end	chlorzoxazone	serum	6.71	2.18	0.629311793416692	µg/ml*hr	8.0	hr	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_REF_auc_inf	auc_inf	chlorzoxazone	serum	6.88	2.18	0.629311793416692	µg/ml*hr	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_REF_thalf	thalf	chlorzoxazone	serum	1.15	0.42	0.121243556529821	hr	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_REF_clearance	clearance	chlorzoxazone	serum	658.85	251.82	72.6941723936658	ml/hr/kg	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	CZX	Tab1_REF_vd	vd	chlorzoxazone	serum	847.61	851.75	245.879045891132	ml/kg	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_cmax	cmax	chlorzoxazone	serum	3.675	1.62	0.467653718043597	µg/ml	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_tmax	tmax	chlorzoxazone	serum	2.0	0.42	0.121243556529821	hr	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_auc_end	auc_end	chlorzoxazone	serum	11.08	3.79	1.09407876011434	µg/ml*hr	8.0	hr	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_auc_inf	auc_inf	chlorzoxazone	serum	11.408	3.73	1.07675825203865	µg/ml*hr	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_thalf	thalf	chlorzoxazone	serum	1.43	0.57	0.164544826719043	hr	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_clearance	clearance	chlorzoxazone	serum	393.45	132.35	38.2061540636235	ml/hr/kg	NA	NA	HPLC	NA
+Rajnarayana2008	12	all	DIOSMIN, CZX	Tab1_TEST_vd	vd	chlorzoxazone	serum	610.1	610.97	176.371846983393	ml/kg	NA	NA	HPLC	NA

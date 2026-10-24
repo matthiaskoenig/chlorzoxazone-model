@@ -1,0 +1,5 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	2	hr	0.020708585161594715	3919.5103	0.0024071868365180466	0.009628747346072187	HPLC		mole/meter^3	dimensionless
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	4	hr	0.008719460368011325	1716.5599	0.0014041531021467327	0.005616612408586931	HPLC		mole/meter^3	dimensionless
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	8	hr	0.000588371113470158	160.99529	0.00036111750412833217	0.0014444700165133287	HPLC		mole/meter^3	dimensionless
+Burckart1998	16	CZX250	healthy	Fig1_healthy_chlorzoxazone	concentration	chlorzoxazone	plasma	10	hr	7.362513564519935e-05	66.898895	0.000320918949044586	0.001283675796178344	HPLC		mole/meter^3	dimensionless

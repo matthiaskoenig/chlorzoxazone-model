@@ -1,0 +1,11 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	se	sd	unit	method	comments
+Girre1994	20	CZX500	healthy	Fig3_healthy	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	111.3367	167.7168	56.3801	252.139472356472	mg	HPLC	NA
+Girre1994	20	CZX500	healthy	Fig3_healthy	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	268.6693	306.50333	37.83403	169.198925885533	mg	HPLC	NA
+Girre1994	20	CZX500	healthy	Fig3_healthy	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	322.14548	345.14264	22.99716	102.846426098878	mg	HPLC	NA
+Girre1994	20	CZX500	healthy	Fig3_healthy	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	349.6539	363.7489	14.095	63.0347562857191	mg	HPLC	NA
+Girre1994	20	CZX500	healthy	Fig3_healthy	cumulative amount	6-hydroxychlorzoxazone	urine	24	hr	385.75937	357.56934	28.19003	126.069646735517	mg	HPLC	NA
+Girre1994	15	CZX500	alcoholics	Fig3_alcoholics	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	116.5296	187.74657	71.21697	275.822138777353	mg	HPLC	NA
+Girre1994	15	CZX500	alcoholics	Fig3_alcoholics	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	267.92667	344.33734	76.41067	295.937252382551	mg	HPLC	NA
+Girre1994	15	CZX500	alcoholics	Fig3_alcoholics	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	344.39996	357.75235	13.35239	51.7135841020665	mg	HPLC	NA
+Girre1994	15	CZX500	alcoholics	Fig3_alcoholics	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	378.58496	391.1971	12.61214	48.8466081800364	mg	HPLC	NA
+Girre1994	15	CZX500	alcoholics	Fig3_alcoholics	cumulative amount	6-hydroxychlorzoxazone	urine	24	hr	416.916	438.43027	21.51427	83.3244094158098	mg	HPLC	NA

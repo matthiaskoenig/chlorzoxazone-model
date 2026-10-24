@@ -1,0 +1,5 @@
+study	name	parent	measurement_type	group_count	choice	count	min	max	unit	comments
+Desiraju1983	all	NA	sex	23	M	23	NA	NA	NA	NA
+Desiraju1983	all	NA	species	23	homo sapiens	23	NA	NA	NA	NA
+Desiraju1983	all	NA	healthy	23	Y	23	NA	NA	NA	NA
+Desiraju1983	all	NA	age	23	NA	23	20.0	39.0	yr	NA

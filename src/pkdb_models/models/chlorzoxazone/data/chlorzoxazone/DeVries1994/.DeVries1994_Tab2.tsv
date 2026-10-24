@@ -1,0 +1,154 @@
+study	individual	group	label	measurement_type	substance	tissue	intervention	value	unit	method	time	time_unit	comments
+DeVries1994	Subject_1	all	Fig1_Subject_1	tmax	chlorzoxazone	blood	CZX	1.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_1	all	Fig1_Subject_1	cmax	chlorzoxazone	blood	CZX	3.53	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_1	all	Fig1_Subject_1	auc_inf	chlorzoxazone	blood	CZX	405.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_1	all	Fig1_Subject_1	kel	chlorzoxazone	blood	CZX	0.626	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_1	all	Fig1_Subject_1	thalf	chlorzoxazone	blood	CZX	1.11	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_1	all	Fig1_Subject_1	vd	chlorzoxazone	blood	CZX	59.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_1	all	Fig1_Subject_1	clearance	chlorzoxazone	blood	CZX	617.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_1	all	Fig1_Subject_1	recovery	6-hydroxychlorzoxazone	urine	CZX	0.27	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_1	all	Fig1_Subject_1	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	167.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	tmax	chlorzoxazone	blood	CZX	1.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	cmax	chlorzoxazone	blood	CZX	7.34	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	auc_inf	chlorzoxazone	blood	CZX	841.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	kel	chlorzoxazone	blood	CZX	0.719	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	thalf	chlorzoxazone	blood	CZX	0.96	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	vd	chlorzoxazone	blood	CZX	25.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_2	all	Fig1_Subject_2	clearance	chlorzoxazone	blood	CZX	297.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_2	all	Fig1_Subject_2	recovery	6-hydroxychlorzoxazone	urine	CZX	0.33	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_2	all	Fig1_Subject_2	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	99.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	tmax	chlorzoxazone	blood	CZX	1.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	cmax	chlorzoxazone	blood	CZX	4.97	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	auc_inf	chlorzoxazone	blood	CZX	459.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	kel	chlorzoxazone	blood	CZX	0.763	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	thalf	chlorzoxazone	blood	CZX	0.91	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	vd	chlorzoxazone	blood	CZX	43.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_3	all	Fig1_Subject_3	clearance	chlorzoxazone	blood	CZX	544.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_3	all	Fig1_Subject_3	recovery	6-hydroxychlorzoxazone	urine	CZX	0.19	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_3	all	Fig1_Subject_3	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	102.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	tmax	chlorzoxazone	blood	CZX	3.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	cmax	chlorzoxazone	blood	CZX	2.36	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	auc_inf	chlorzoxazone	blood	CZX	571.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	kel	chlorzoxazone	blood	CZX	0.491	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	thalf	chlorzoxazone	blood	CZX	1.41	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	vd	chlorzoxazone	blood	CZX	54.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_4	all	Fig1_Subject_4	clearance	chlorzoxazone	blood	CZX	438.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_4	all	Fig1_Subject_4	recovery	6-hydroxychlorzoxazone	urine	CZX	0.26	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_4	all	Fig1_Subject_4	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	115.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	tmax	chlorzoxazone	blood	CZX	1.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	cmax	chlorzoxazone	blood	CZX	5.13	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	auc_inf	chlorzoxazone	blood	CZX	722.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	kel	chlorzoxazone	blood	CZX	0.699	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	thalf	chlorzoxazone	blood	CZX	0.99	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	vd	chlorzoxazone	blood	CZX	30.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_5	all	Fig1_Subject_5	clearance	chlorzoxazone	blood	CZX	346.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_5	all	Fig1_Subject_5	recovery	6-hydroxychlorzoxazone	urine	CZX	0.47	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_5	all	Fig1_Subject_5	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	161.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	tmax	chlorzoxazone	blood	CZX	0.75	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	cmax	chlorzoxazone	blood	CZX	7.39	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	auc_inf	chlorzoxazone	blood	CZX	969.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	kel	chlorzoxazone	blood	CZX	0.603	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	thalf	chlorzoxazone	blood	CZX	1.15	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	vd	chlorzoxazone	blood	CZX	26.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_6	all	Fig1_Subject_6	clearance	chlorzoxazone	blood	CZX	258.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_6	all	Fig1_Subject_6	recovery	6-hydroxychlorzoxazone	urine	CZX	0.05	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_6	all	Fig1_Subject_6	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	12.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	tmax	chlorzoxazone	blood	CZX	2.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	cmax	chlorzoxazone	blood	CZX	4.24	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	auc_inf	chlorzoxazone	blood	CZX	511.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	kel	chlorzoxazone	blood	CZX	0.91	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	thalf	chlorzoxazone	blood	CZX	0.76	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	vd	chlorzoxazone	blood	CZX	32.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_7	all	Fig1_Subject_7	clearance	chlorzoxazone	blood	CZX	490.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_7	all	Fig1_Subject_7	recovery	6-hydroxychlorzoxazone	urine	CZX	0.13	dimensionless	HPLC	10.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_7	all	Fig1_Subject_7	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	63.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	tmax	chlorzoxazone	blood	CZX	0.8	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	cmax	chlorzoxazone	blood	CZX	5.04	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	auc_inf	chlorzoxazone	blood	CZX	523.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	kel	chlorzoxazone	blood	CZX	0.803	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	thalf	chlorzoxazone	blood	CZX	0.86	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	vd	chlorzoxazone	blood	CZX	36.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_8	all	Fig1_Subject_8	clearance	chlorzoxazone	blood	CZX	478.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_8	all	Fig1_Subject_8	recovery	6-hydroxychlorzoxazone	urine	CZX	0.49	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_8	all	Fig1_Subject_8	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	234.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	tmax	chlorzoxazone	blood	CZX	1.48	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	cmax	chlorzoxazone	blood	CZX	4.48	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	auc_inf	chlorzoxazone	blood	CZX	608.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	kel	chlorzoxazone	blood	CZX	0.89	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	thalf	chlorzoxazone	blood	CZX	0.78	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	vd	chlorzoxazone	blood	CZX	28.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_9	all	Fig1_Subject_9	clearance	chlorzoxazone	blood	CZX	411.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_9	all	Fig1_Subject_9	recovery	6-hydroxychlorzoxazone	urine	CZX	0.56	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_9	all	Fig1_Subject_9	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	229.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	tmax	chlorzoxazone	blood	CZX	1.53	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	cmax	chlorzoxazone	blood	CZX	3.07	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	auc_inf	chlorzoxazone	blood	CZX	388.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	kel	chlorzoxazone	blood	CZX	0.63	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	thalf	chlorzoxazone	blood	CZX	1.1	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	vd	chlorzoxazone	blood	CZX	61.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_10	all	Fig1_Subject_10	clearance	chlorzoxazone	blood	CZX	644.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_10	all	Fig1_Subject_10	recovery	6-hydroxychlorzoxazone	urine	CZX	0.49	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_10	all	Fig1_Subject_10	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	316.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	tmax	chlorzoxazone	blood	CZX	1.05	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	cmax	chlorzoxazone	blood	CZX	3.4	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	auc_inf	chlorzoxazone	blood	CZX	656.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	kel	chlorzoxazone	blood	CZX	0.212	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	thalf	chlorzoxazone	blood	CZX	3.27	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	vd	chlorzoxazone	blood	CZX	108.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_11	all	Fig1_Subject_11	clearance	chlorzoxazone	blood	CZX	381.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_11	all	Fig1_Subject_11	recovery	6-hydroxychlorzoxazone	urine	CZX	0.6	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_11	all	Fig1_Subject_11	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	227.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	tmax	chlorzoxazone	blood	CZX	0.52	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	cmax	chlorzoxazone	blood	CZX	3.14	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	auc_inf	chlorzoxazone	blood	CZX	520.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	kel	chlorzoxazone	blood	CZX	0.611	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	thalf	chlorzoxazone	blood	CZX	1.13	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	vd	chlorzoxazone	blood	CZX	47.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_12	all	Fig1_Subject_12	clearance	chlorzoxazone	blood	CZX	480.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_12	all	Fig1_Subject_12	recovery	6-hydroxychlorzoxazone	urine	CZX	0.51	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_12	all	Fig1_Subject_12	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	247.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	tmax	chlorzoxazone	blood	CZX	2.02	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	cmax	chlorzoxazone	blood	CZX	3.89	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	auc_inf	chlorzoxazone	blood	CZX	846.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	kel	chlorzoxazone	blood	CZX	0.457	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	thalf	chlorzoxazone	blood	CZX	1.52	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	vd	chlorzoxazone	blood	CZX	39.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_13	all	Fig1_Subject_13	clearance	chlorzoxazone	blood	CZX	296.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_13	all	Fig1_Subject_13	recovery	6-hydroxychlorzoxazone	urine	CZX	0.68	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_13	all	Fig1_Subject_13	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	200.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	tmax	chlorzoxazone	blood	CZX	0.51	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	cmax	chlorzoxazone	blood	CZX	9.21	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	auc_inf	chlorzoxazone	blood	CZX	900.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	kel	chlorzoxazone	blood	CZX	0.72	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	thalf	chlorzoxazone	blood	CZX	0.96	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	vd	chlorzoxazone	blood	CZX	23.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_14	all	Fig1_Subject_14	clearance	chlorzoxazone	blood	CZX	278.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_14	all	Fig1_Subject_14	recovery	6-hydroxychlorzoxazone	urine	CZX	0.21	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_14	all	Fig1_Subject_14	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	58.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	tmax	chlorzoxazone	blood	CZX	1.5	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	cmax	chlorzoxazone	blood	CZX	7.01	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	auc_inf	chlorzoxazone	blood	CZX	795.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	kel	chlorzoxazone	blood	CZX	0.654	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	thalf	chlorzoxazone	blood	CZX	1.06	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	vd	chlorzoxazone	blood	CZX	29.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_15	all	Fig1_Subject_15	clearance	chlorzoxazone	blood	CZX	314.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_15	all	Fig1_Subject_15	recovery	6-hydroxychlorzoxazone	urine	CZX	0.38	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_15	all	Fig1_Subject_15	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	120.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	tmax	chlorzoxazone	blood	CZX	2.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	cmax	chlorzoxazone	blood	CZX	5.89	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	auc_inf	chlorzoxazone	blood	CZX	562.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	kel	chlorzoxazone	blood	CZX	0.696	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	thalf	chlorzoxazone	blood	CZX	1.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	vd	chlorzoxazone	blood	CZX	38.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_16	all	Fig1_Subject_16	clearance	chlorzoxazone	blood	CZX	445.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_16	all	Fig1_Subject_16	recovery	6-hydroxychlorzoxazone	urine	CZX	0.78	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_16	all	Fig1_Subject_16	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	345.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	tmax	chlorzoxazone	blood	CZX	2.0	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	cmax	chlorzoxazone	blood	CZX	4.82	microg/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	auc_inf	chlorzoxazone	blood	CZX	889.0	µg*min/ml	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	kel	chlorzoxazone	blood	CZX	0.569	1/hr	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	thalf	chlorzoxazone	blood	CZX	1.22	hr	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	vd	chlorzoxazone	blood	CZX	30.0	L	HPLC	NA	NA	over bioavailiability
+DeVries1994	Subject_17	all	Fig1_Subject_17	clearance	chlorzoxazone	blood	CZX	281.0	ml/min	HPLC	NA	NA	NA
+DeVries1994	Subject_17	all	Fig1_Subject_17	recovery	6-hydroxychlorzoxazone	urine	CZX	0.25	dimensionless	HPLC	8.0	hr	mass of 6-hydroxychlorzoxazone (free and glucuronidated) over the 250 mg dose; urine 0-10 h (subjects 1-7) or 0-8 h (8-17)
+DeVries1994	Subject_17	all	Fig1_Subject_17	clearance_partial	6-hydroxychlorzoxazone	blood	CZX	71.0	ml/min	HPLC	NA	NA	NA

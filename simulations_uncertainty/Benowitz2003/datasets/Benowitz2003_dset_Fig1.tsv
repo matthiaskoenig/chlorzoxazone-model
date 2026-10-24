@@ -1,0 +1,12 @@
+study	count	subjects	label	intervention	substance	time	time_unit	mean	mean_pm	mean_se	mean_sd	method	mean_unit	count_unit
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	0.0	hr	9.143387591413069e-05	0.08762455	0.0004253421915546119	0.0013450501102802075	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	0.5	hr	0.013869788275536683	3.0522122	0.0041309913894786495	0.013063341785296235	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	1.0	hr	0.027951781080443498	5.203026	0.002733675395140363	0.00864464063220435	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	1.5	hr	0.0233536565227648	4.4542694	0.0029159200283085628	0.009220948764357747	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	2.0	hr	0.01860418141071007	3.5973933	0.0026118677754187304	0.008259451117520345	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	3.0	hr	0.009712297711724462	1.9145771	0.0015791454352441611	0.004993696332029481	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	4.0	hr	0.0047079965793819295	1.0815866	0.001670787331917905	0.005283493454616324	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	5.0	hr	0.0025289092946449627	0.69141155	0.0015487714673271997	0.004897645411835001	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	6.0	hr	0.0012909023354564753	0.43015102	0.0012459637886293934	0.0039400834541614875	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	7.0	hr	0.0011167178579853736	0.2820023	0.0005464238027836753	0.0017279437845270698	HPLC	mole/meter^3	dimensionless
+Benowitz2003	10	10G	chlorzoxazone_Air	Dcaf, Dchlo	chlorzoxazone	8.0	hr	0.0008502692852087756	0.24197352	0.0005767979476291577	0.001823995264218654	HPLC	mole/meter^3	dimensionless

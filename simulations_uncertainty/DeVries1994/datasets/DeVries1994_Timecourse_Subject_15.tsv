@@ -1,0 +1,11 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	t_actual	method	comments	value_unit	count_unit
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	30	min	0.0007973907171502712	30.28604	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	45	min	0.002050813517338995	43.807514	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	60	min	0.002208703467799009	58.008636	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	90	min	0.04151826492097192	88.73008	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	120	min	0.033997611464968144	117.088806	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	150	min	0.02143771526303373	150.53972	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	180	min	0.015211074545883461	187.94756	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	240	min	0.0063197900448218915	241.45145	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	390	min	0.001553012090115593	387.53098	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless
+DeVries1994	1	Subject_15	Fig2_Subject_15	concentration	chlorzoxazone	blood	CZX	480	min	0.0006565615711252652	481.2473	HPLC	Subject 12 and 15 got same marker	mole/meter^3	dimensionless

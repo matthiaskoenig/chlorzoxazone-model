@@ -1,0 +1,21 @@
+study	count	group	individual	intervention	tissue	measurement_type	substance	label	value	time	time_unit	method	comments	value_unit	count_unit
+Ernstgard2004	1	men	A1	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	2.6332974			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A2	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	2.584825			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A3	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	3.610279			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A4	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	3.495516			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A5	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	3.7233517			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A6	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	4.7486825			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A7	CZX250		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	2.9437983			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A8	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	5.1540327			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A9	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	5.3326035			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A10	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	5.8385253			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A11	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.593846			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A12	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.1377697			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A13	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.3827367			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A14	CZX500		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	9.465989			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A15	CZX750		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	7.7409883			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A16	CZX750		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	8.03346			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A17	CZX750		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	8.73165			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A18	CZX750		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	10.668148			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A19	CZX750		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	11.074501			HPLC		mg/kg	dimensionless
+Ernstgard2004	1	men	A20	CZX750		dosing	chlorzoxazone	dosing_cmax_chlorzoxazone	11.400373			HPLC		mg/kg	dimensionless

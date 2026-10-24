@@ -1,0 +1,2 @@
+study	count	label	subjects	intervention	measurement	substance	time	time_unit	tissue	mean	mean_sd	method	mean_unit	count_unit
+Benowitz2003	9	Tab1_recovery_Dcaf_Dchlo	9G	Dcaf, Dchlo	recovery	6-hydroxychlorzoxazone	24.0	hr	urine	0.0007902807265864592	0.0001887237556027365	HPLC	count*mole	dimensionless

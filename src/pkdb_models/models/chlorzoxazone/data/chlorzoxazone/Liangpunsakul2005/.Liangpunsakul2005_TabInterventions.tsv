@@ -1,0 +1,4 @@
+study	form	name	measurement	substance	value	unit	time	time_end	time_unit	route	application	comments
+Liangpunsakul2005	solution	MDZ_IV	dosing	midazolam	0.05	mg/kg/min	0	0.5	hr	iv	constant infusion	NA
+Liangpunsakul2005	tablet	MDZ_PO	dosing	midazolam	5.0	mg	1	NA	day	oral	single dose	NA
+Liangpunsakul2005	tablet	CZX	dosing	chlorzoxazone	500.0	mg	8	NA	hr	oral	single dose	NA

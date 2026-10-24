@@ -1,0 +1,19 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	sd	min	max	unit	substance	comments
+Hukkanen2010	all	NA	sex	12	M	7	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	sex	12	F	12	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	healthy	12	Y	11	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	healthy	12	N	1	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	disease	12	hcv	1	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	age	12	NA	12	NA	NA	24.0	65.0	yr	NA	NA
+Hukkanen2010	all	NA	ethnicity	12	hispanic	1	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	ethnicity	12	caucasian	7	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	ethnicity	12	black	3	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	ethnicity	12	asian	1	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	alcohol amount	12	NA	5	6.3	11.3	NA	NA	g/day	NA	NA
+Hukkanen2010	all	NA	alcohol	12	N	7	NA	NA	NA	NA	NA	NA	NA
+Hukkanen2010	all	NA	medication amount	12	NA	12	533.0	355.0	NA	NA	mg/day	NA	NA
+Hukkanen2010	all	NA	smoking amount (cigarettes)	12	NA	12	19.0	5.0	NA	NA	1/day	NA	NA
+Hukkanen2010	all	NA	concentration	12	NA	12	259.0	153.0	NA	NA	ng/ml	cotinine	NA
+Hukkanen2010	nicotine	all	medication amount	12	NA	12	21.0	NA	NA	NA	mg/day	nicotine	NA
+Hukkanen2010	placebo	all	medication amount	12	NA	12	21.0	NA	NA	NA	mg/day	placebo	NA

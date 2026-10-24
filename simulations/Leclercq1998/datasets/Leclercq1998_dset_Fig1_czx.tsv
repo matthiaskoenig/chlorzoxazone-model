@@ -1,0 +1,10 @@
+study	count	individual	intervention	group	label	measurement	substance	tissue	time	value	time_unit	method	comments	value_unit	count_unit
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	28.373266	0.005867527482896908	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	61.160152	0.03520516336400094	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	90.79445	0.0670252182118424	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	129.8865	0.08598184713375795	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	179.06683	0.04919696272705826	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	240.8575	0.022567413894786503	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	301.38715	0.012637750648737907	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	374.5271	0.004964831033262561	min	HPLC		mole/meter^3	dimensionless
+Leclercq1998	1	Subject4	CZX500	all	CZX500_chlorzoxazone	concentration	chlorzoxazone	plasma	480.45398	0.0013540447629157818	min	HPLC		mole/meter^3	dimensionless

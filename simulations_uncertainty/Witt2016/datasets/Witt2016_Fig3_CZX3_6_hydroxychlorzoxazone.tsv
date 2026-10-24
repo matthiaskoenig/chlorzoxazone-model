@@ -1,0 +1,4 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit	count_unit
+Witt2016	1	Subject_1	Fig3_CZX3_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	CZX3	0.5	hr	6.23022795861177e-08	HPLC MS/MS	mole/meter^3	dimensionless
+Witt2016	1	Subject_1	Fig3_CZX3_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	CZX3	1.0	hr	3.21792552274197e-08	HPLC MS/MS	mole/meter^3	dimensionless
+Witt2016	1	Subject_1	Fig3_CZX3_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	CZX3	2.0	hr	1.691731192067256e-08	HPLC MS/MS	mole/meter^3	dimensionless

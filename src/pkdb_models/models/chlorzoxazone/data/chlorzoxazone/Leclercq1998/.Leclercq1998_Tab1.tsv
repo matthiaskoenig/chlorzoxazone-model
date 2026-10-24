@@ -1,0 +1,61 @@
+study	individual	group	intervention	label	measurement_type	substance	tissue	value	unit	method	comments
+Leclercq1998	Subject1	all	CZX500	Subject1_CZX500	auc_inf	chlorzoxazone	plasma	40.22	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject2	all	CZX500	Subject2_CZX500	auc_inf	chlorzoxazone	plasma	50.6	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject3	all	CZX500	Subject3_CZX500	auc_inf	chlorzoxazone	plasma	38.0	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject4	all	CZX500	Subject4_CZX500	auc_inf	chlorzoxazone	plasma	34.6	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject5	all	CZX500	Subject5_CZX500	auc_inf	chlorzoxazone	plasma	34.5	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject6	all	CZX500	Subject6_CZX500	auc_inf	chlorzoxazone	plasma	36.5	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject7	all	CZX500	Subject7_CZX500	auc_inf	chlorzoxazone	plasma	54.6	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject8	all	CZX500	Subject8_CZX500	auc_inf	chlorzoxazone	plasma	65.7	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject9	all	CZX500	Subject9_CZX500	auc_inf	chlorzoxazone	plasma	76.2	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject10	all	CZX500	Subject10_CZX500	auc_inf	chlorzoxazone	plasma	36.6	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject1	all	WATERCRESS, CZX500	Subject1_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	61.7	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject2	all	WATERCRESS, CZX500	Subject2_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	92.7	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject3	all	WATERCRESS, CZX500	Subject3_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	62.5	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject4	all	WATERCRESS, CZX500	Subject4_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	56.9	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject5	all	WATERCRESS, CZX500	Subject5_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	61.3	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject6	all	WATERCRESS, CZX500	Subject6_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	43.2	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject7	all	WATERCRESS, CZX500	Subject7_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	68.6	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject8	all	WATERCRESS, CZX500	Subject8_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	87.3	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject9	all	WATERCRESS, CZX500	Subject9_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	113.2	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject10	all	WATERCRESS, CZX500	Subject10_WATERCRESS_CZX500	auc_inf	chlorzoxazone	plasma	61.9	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject1	all	ISONIAZID, CZX500	Subject1_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	76.5	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject2	all	ISONIAZID, CZX500	Subject2_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	113.1	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject3	all	ISONIAZID, CZX500	Subject3_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	77.3	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject4	all	ISONIAZID, CZX500	Subject4_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	115.9	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject5	all	ISONIAZID, CZX500	Subject5_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	87.8	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject6	all	ISONIAZID, CZX500	Subject6_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	103.1	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject7	all	ISONIAZID, CZX500	Subject7_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	103.5	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject8	all	ISONIAZID, CZX500	Subject8_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	119.2	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject9	all	ISONIAZID, CZX500	Subject9_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	167.0	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject10	all	ISONIAZID, CZX500	Subject10_ISONIAZID_CZX500	auc_inf	chlorzoxazone	plasma	85.4	µg/ml*hr	HPLC	NA
+Leclercq1998	Subject1	all	CZX500	Subject1_CZX500	thalf	chlorzoxazone	plasma	1.2	hr	HPLC	NA
+Leclercq1998	Subject2	all	CZX500	Subject2_CZX500	thalf	chlorzoxazone	plasma	0.9	hr	HPLC	NA
+Leclercq1998	Subject3	all	CZX500	Subject3_CZX500	thalf	chlorzoxazone	plasma	1.1	hr	HPLC	NA
+Leclercq1998	Subject4	all	CZX500	Subject4_CZX500	thalf	chlorzoxazone	plasma	0.8	hr	HPLC	NA
+Leclercq1998	Subject5	all	CZX500	Subject5_CZX500	thalf	chlorzoxazone	plasma	0.8	hr	HPLC	NA
+Leclercq1998	Subject6	all	CZX500	Subject6_CZX500	thalf	chlorzoxazone	plasma	1.1	hr	HPLC	NA
+Leclercq1998	Subject7	all	CZX500	Subject7_CZX500	thalf	chlorzoxazone	plasma	0.5	hr	HPLC	NA
+Leclercq1998	Subject8	all	CZX500	Subject8_CZX500	thalf	chlorzoxazone	plasma	1.1	hr	HPLC	NA
+Leclercq1998	Subject9	all	CZX500	Subject9_CZX500	thalf	chlorzoxazone	plasma	1.3	hr	HPLC	NA
+Leclercq1998	Subject10	all	CZX500	Subject10_CZX500	thalf	chlorzoxazone	plasma	1.3	hr	HPLC	NA
+Leclercq1998	Subject1	all	WATERCRESS, CZX500	Subject1_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.4	hr	HPLC	NA
+Leclercq1998	Subject2	all	WATERCRESS, CZX500	Subject2_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.6	hr	HPLC	NA
+Leclercq1998	Subject3	all	WATERCRESS, CZX500	Subject3_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.4	hr	HPLC	NA
+Leclercq1998	Subject4	all	WATERCRESS, CZX500	Subject4_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	0.9	hr	HPLC	NA
+Leclercq1998	Subject5	all	WATERCRESS, CZX500	Subject5_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.2	hr	HPLC	NA
+Leclercq1998	Subject6	all	WATERCRESS, CZX500	Subject6_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.1	hr	HPLC	NA
+Leclercq1998	Subject7	all	WATERCRESS, CZX500	Subject7_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.4	hr	HPLC	NA
+Leclercq1998	Subject8	all	WATERCRESS, CZX500	Subject8_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.0	hr	HPLC	NA
+Leclercq1998	Subject9	all	WATERCRESS, CZX500	Subject9_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	2.5	hr	HPLC	NA
+Leclercq1998	Subject10	all	WATERCRESS, CZX500	Subject10_WATERCRESS_CZX500	thalf	chlorzoxazone	plasma	1.6	hr	HPLC	NA
+Leclercq1998	Subject1	all	ISONIAZID, CZX500	Subject1_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.9	hr	HPLC	NA
+Leclercq1998	Subject2	all	ISONIAZID, CZX500	Subject2_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.4	hr	HPLC	NA
+Leclercq1998	Subject3	all	ISONIAZID, CZX500	Subject3_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.9	hr	HPLC	NA
+Leclercq1998	Subject4	all	ISONIAZID, CZX500	Subject4_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.5	hr	HPLC	NA
+Leclercq1998	Subject5	all	ISONIAZID, CZX500	Subject5_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.9	hr	HPLC	NA
+Leclercq1998	Subject6	all	ISONIAZID, CZX500	Subject6_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.4	hr	HPLC	NA
+Leclercq1998	Subject7	all	ISONIAZID, CZX500	Subject7_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.7	hr	HPLC	NA
+Leclercq1998	Subject8	all	ISONIAZID, CZX500	Subject8_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	1.8	hr	HPLC	NA
+Leclercq1998	Subject9	all	ISONIAZID, CZX500	Subject9_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	4.4	hr	HPLC	NA
+Leclercq1998	Subject10	all	ISONIAZID, CZX500	Subject10_ISONIAZID_CZX500	thalf	chlorzoxazone	plasma	2.2	hr	HPLC	NA

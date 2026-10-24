@@ -1,0 +1,22 @@
+study	count	label	subjects	intervention	measurement	substance	time	time_unit	tissue	mean	sd	unit	method
+Benowitz2003	10	Tab1_clearance_Dcaf_Dchlo_Smoking	10G	Dcaf, Dchlo,Smoking	clearance	chlorzoxazone	NA	NA	plasma	488.0	144.0	ml/min	HPLC
+Benowitz2003	10	Tab1_clearance_Dcaf_Dchlo_CO	10G	Dcaf, Dchlo,CO	clearance	chlorzoxazone	NA	NA	plasma	414.0	131.0	ml/min	HPLC
+Benowitz2003	10	Tab1_clearance_Dcaf_Dchlo	10G	Dcaf, Dchlo	clearance	chlorzoxazone	NA	NA	plasma	396.0	115.0	ml/min	HPLC
+Benowitz2003	10	Tab1_clearance_Dcaf_Dchlo_Smoking	10G	Dcaf, Dchlo,Smoking	clearance	chlorzoxazone	NA	NA	plasma	5.9	1.5	ml/min/kg	HPLC
+Benowitz2003	10	Tab1_clearance_Dcaf_Dchlo_CO	10G	Dcaf, Dchlo,CO	clearance	chlorzoxazone	NA	NA	plasma	5.0	1.4	ml/min/kg	HPLC
+Benowitz2003	10	Tab1_clearance_Dcaf_Dchlo	10G	Dcaf, Dchlo	clearance	chlorzoxazone	NA	NA	plasma	4.8	1.0	ml/min/kg	HPLC
+Benowitz2003	10	Tab1_thalf_Dcaf_Dchlo_Smoking	10G	Dcaf, Dchlo,Smoking	thalf	chlorzoxazone	NA	NA	plasma	66.0	9.9	min	HPLC
+Benowitz2003	10	Tab1_thalf_Dcaf_Dchlo_CO	10G	Dcaf, Dchlo,CO	thalf	chlorzoxazone	NA	NA	plasma	62.6	9.9	min	HPLC
+Benowitz2003	10	Tab1_thalf_Dcaf_Dchlo	10G	Dcaf, Dchlo	thalf	chlorzoxazone	NA	NA	plasma	62.2	9.0	min	HPLC
+Benowitz2003	10	Tab1_cmax_Dcaf_Dchlo_Smoking	10G	Dcaf, Dchlo,Smoking	cmax	chlorzoxazone	NA	NA	plasma	4.0	2.2	microg/ml	HPLC
+Benowitz2003	10	Tab1_cmax_Dcaf_Dchlo_CO	10G	Dcaf, Dchlo,CO	cmax	chlorzoxazone	NA	NA	plasma	4.8	2.0	microg/ml	HPLC
+Benowitz2003	10	Tab1_cmax_Dcaf_Dchlo	10G	Dcaf, Dchlo	cmax	chlorzoxazone	NA	NA	plasma	4.9	1.2	microg/ml	HPLC
+Benowitz2003	10	Tab1_tmax_Dcaf_Dchlo_Smoking	10G	Dcaf, Dchlo,Smoking	tmax	chlorzoxazone	NA	NA	plasma	84.0	42.0	min	HPLC
+Benowitz2003	10	Tab1_tmax_Dcaf_Dchlo_CO	10G	Dcaf, Dchlo,CO	tmax	chlorzoxazone	NA	NA	plasma	84.0	52.0	min	HPLC
+Benowitz2003	10	Tab1_tmax_Dcaf_Dchlo	10G	Dcaf, Dchlo	tmax	chlorzoxazone	NA	NA	plasma	69.0	20.0	min	HPLC
+Benowitz2003	9	Tab1_recovery_Dcaf_Dchlo_Smoking	9G	Dcaf, Dchlo,Smoking	recovery	6-hydroxychlorzoxazone	24.0	hr	urine	47.2	8.6	percent	HPLC
+Benowitz2003	9	Tab1_recovery_Dcaf_Dchlo_CO	9G	Dcaf, Dchlo,CO	recovery	6-hydroxychlorzoxazone	24.0	hr	urine	47.6	16.2	percent	HPLC
+Benowitz2003	9	Tab1_recovery_Dcaf_Dchlo	9G	Dcaf, Dchlo	recovery	6-hydroxychlorzoxazone	24.0	hr	urine	53.6	12.8	percent	HPLC
+Benowitz2003	9	Tab1_clearance_Dcaf_Dchlo_Smoking	9G	Dcaf, Dchlo,Smoking	clearance	6-hydroxychlorzoxazone	24.0	hr	urine	236.0	96.0	ml/min	HPLC
+Benowitz2003	9	Tab1_clearance_Dcaf_Dchlo_CO	9G	Dcaf, Dchlo,CO	clearance	6-hydroxychlorzoxazone	24.0	hr	urine	194.0	84.0	ml/min	HPLC
+Benowitz2003	9	Tab1_clearance_Dcaf_Dchlo	9G	Dcaf, Dchlo	clearance	6-hydroxychlorzoxazone	24.0	hr	urine	210.0	78.0	ml/min	HPLC

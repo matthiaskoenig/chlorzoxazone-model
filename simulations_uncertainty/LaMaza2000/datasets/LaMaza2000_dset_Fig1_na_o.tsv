@@ -1,0 +1,12 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	method	comments	mean_unit	count_unit
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	0.0	hr	0.0	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	0.5	hr	0.023124283439490443	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	1.0	hr	0.05853674805378626	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	1.5	hr	0.07060315522528897	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	2.0	hr	0.06933099787685773	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	3.0	hr	0.048531316348195325	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	4.0	hr	0.025976409530549655	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	5.0	hr	0.012374773531493275	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	6.0	hr	0.0054413157584335915	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	7.0	hr	0.003248049068176456	HPLC		mole/meter^3	dimensionless
+LaMaza2000	11	CZX750	nonalcoholics_obese	Fig1_nonalcoholics_obese	concentration	chlorzoxazone	serum	8.0	hr	0.0026328279075253595	HPLC		mole/meter^3	dimensionless

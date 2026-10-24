@@ -1,0 +1,19 @@
+{
+  "sets": [
+    {
+      "sid": "ALCOHOL_20261020_043001__556d3_0",
+      "values": {
+        "LI__ETHEL_VMAX": 0.048524543205177066,
+        "GU__Ka_abs_eth": 2.473946784194836,
+        "Kp_ethanol": 0.5043942564436962
+      },
+      "units": {
+        "LI__ETHEL_VMAX": "(mmol)/(min)/(kg)",
+        "GU__Ka_abs_eth": "1/(hr)",
+        "Kp_ethanol": "dimensionless"
+      },
+      "cost": 2.7521363371641074,
+      "provenance": "optimization 'ALCOHOL_20261020_043001__556d3', run '0'"
+    }
+  ]
+}

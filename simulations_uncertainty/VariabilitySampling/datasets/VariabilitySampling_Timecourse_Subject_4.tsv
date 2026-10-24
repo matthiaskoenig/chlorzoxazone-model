@@ -1,0 +1,12 @@
+study	count	individual	label	measurement	substance	tissue	intervention	time	time_unit	value	t_actual	method	value_unit	count_unit
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	30	min	0.0009813934300542577	27.915316	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	45	min	0.0016906269167256426	44.75343	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	60	min	0.002026080915310214	59.946934	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	90	min	0.0031672202170323184	88.3491	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	120	min	0.003680849846661948	119.107414	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	150	min	0.012035000589761735	148.4052	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	180	min	0.01415661240858693	179.9635	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	240	min	0.012520702995989619	240.22678	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	360	min	0.006110569120075489	359.49356	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	480	min	0.0008025408704883227	480.18423	HPLC	mole/meter^3	dimensionless
+DeVries1994	1	Subject_4	Fig1_Subject_4	concentration	chlorzoxazone	blood	CZX	600	min	0.0006957588228355743	601.1235	HPLC	mole/meter^3	dimensionless

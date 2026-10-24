@@ -1,0 +1,11 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	0.25	hr	0.0028936722694031607	0.26749906	0.0013160651686718564	0.0003799152897018931	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	0.5	hr	0.004668689195564991	0.5126829	0.001645081623024298	0.00047489415894599255	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	1.0	hr	0.010061353503184711	1.2820143	0.002500523708421797	0.0007218390180861818	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	2.0	hr	0.015845425807973577	1.8276032	0.005066921443736729	0.0014626942297520462	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	3.0	hr	0.0152467209247464	1.7149174	0.005132794291106392	0.0014817100828326253	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	4.0	hr	0.010173253715498936	1.1224428	0.0035535155697098367	0.0010258115853707475	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	5.0	hr	0.005692016985138003	0.49650735	0.00276380661712668	0.0007978422471930761	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	6.0	hr	0.0031191442557206885	0.37265208	0.0009213848785090822	0.0002659809038172345	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	7.0	hr	0.0020596072186836512	0.2265052	0.000723766218447747	0.00020893331052558207	HPLC		mole/meter^3	dimensionless
+Bedada2017	12	CZX250	all	Fig2_chlorzoxazone_CZX250	concentration	chlorzoxazone	plasma	8.0	hr	0.001000209601321066				HPLC		mole/meter^3	dimensionless

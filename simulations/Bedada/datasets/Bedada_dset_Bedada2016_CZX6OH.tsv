@@ -1,0 +1,11 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.25	hr	0.00035494729467557657	0.09206799	0.00014121561758999781	4.076543741468204e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.00047326309549471866	0.12181303	0.00018319858805777107	5.288487706515628e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.0005508680480707048	0.13479698	0.0001755653427462815	5.0681348947467124e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.0006730004311273981	0.15934844	0.00018574304807070487	5.3619399401861386e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.0009299873895236042	0.22780925	0.0002976977258029747	8.593793106474347e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.0009287151864625996	0.21293673	0.00021882054322052165	6.316804976629391e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.0007086223862901487	0.15934844	0.00015012109290795427	4.333622670072375e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.0006068454138823021	0.13904627	0.00014248779370553996	4.113268302606434e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.00048089636775167056	0.11378659	0.0001323100883811166	3.8194632571670074e-05	HPLC		mole/meter^3	dimensionless
+Bedada2016	12	CZX250	all	Fig2_6-hydroxychlorzoxazone_CZX250	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.00030024218581590855	0.06798867	6.61550441905583e-05	1.9097316285834766e-05	HPLC		mole/meter^3	dimensionless

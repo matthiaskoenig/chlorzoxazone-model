@@ -1,0 +1,6 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	2	hr	0.000403297626104764	21.61372275	0.00011709347886904129	0.0002868192754365165	HPLC	calculated from recovery and dose	mole	dimensionless
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	4	hr	0.0012280529343608538	101.3384925	0.00027839693096297537	0.0006819304268161243	HPLC	calculated from recovery and dose	mole	dimensionless
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	6	hr	0.001695747534490192	176.7191475	0.0003034883931957259	0.0007433917061866783	HPLC	calculated from recovery and dose	mole	dimensionless
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	8	hr	0.0021546560276999352	335.191575	0.00014218374810418785	0.0003482776325716749	HPLC	calculated from recovery and dose	mole	dimensionless
+Frye1998	CZX750	6	dose_250_and_750	Fig4_CZX750_amount	cumulative amount	6-hydroxychlorzoxazone	urine	10	hr	0.002329671938995473	386.131275	0.00010156188265672395	0.0002487747898253934	HPLC	calculated from recovery and dose	mole	dimensionless

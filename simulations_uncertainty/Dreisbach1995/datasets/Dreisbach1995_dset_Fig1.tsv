@@ -1,0 +1,6 @@
+time	study	intervention	group	measurement	substance	tissue	time_unit	method	comments	mean	mean_sd	count	mean_unit	count_unit
+4	Dreisbach1995	CZX500	all	cumulative amount	6-hydroxychlorzoxazone	urine	hr	HPLC		1.115796146749762	0.34619414048968344	15	mmole	dimensionless
+5	Dreisbach1995	CZX500	all	cumulative amount	6-hydroxychlorzoxazone	urine	hr	HPLC		1.3116175082829424	0.3418777921603465	15	mmole	dimensionless
+6	Dreisbach1995	CZX500	all	cumulative amount	6-hydroxychlorzoxazone	urine	hr	HPLC		1.456037426821538	0.3161941207629471	15	mmole	dimensionless
+7	Dreisbach1995	CZX500	all	cumulative amount	6-hydroxychlorzoxazone	urine	hr	HPLC		1.5399287215352293	0.28692916359670734	15	mmole	dimensionless
+8	Dreisbach1995	CZX500	all	cumulative amount	6-hydroxychlorzoxazone	urine	hr	HPLC		1.5929248246697	0.2738903157658004	15	mmole	dimensionless

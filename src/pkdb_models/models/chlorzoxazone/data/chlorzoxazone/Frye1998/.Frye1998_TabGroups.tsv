@@ -1,0 +1,11 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	min	max	sd	unit	value	substance	comments
+Frye1998	all	NA	sex	16	M	16	NA	NA	NA	NA	NA	NA	NA	NA
+Frye1998	all	NA	healthy	16	Y	16	NA	NA	NA	NA	NA	NA	NA	NA
+Frye1998	all	NA	species	16	homo sapiens	16	NA	NA	NA	NA	NA	NA	NA	NA
+Frye1998	all	NA	fasting	16	Y	16	NA	NA	NA	NA	NA	NA	NA	NA
+Frye1998	all	NA	alcohol	16	N	16	NA	NA	NA	NA	NA	NA	NA	NA
+Frye1998	all	NA	smoking	16	N	16	NA	NA	NA	NA	NA	NA	NA	NA
+Frye1998	all	NA	weight	16	NA	16	79.7	60.8	117.5	14.1	kg	NA	NA	NA
+Frye1998	all	NA	age	16	NA	16	23.7	18.0	38.0	4.9	yr	NA	NA	NA
+Frye1998	all	NA	dosing	16	NA	16	NA	NA	NA	NA	mg	250.0	chlorzoxazone	NA
+Frye1998	dose_250_and_750	all	dosing	6	NA	6	NA	NA	NA	NA	mg	750.0	chlorzoxazone	NA

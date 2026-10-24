@@ -1,0 +1,6 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	excretion	excretion_sd	excretion_sd_square	mean	mean_sd	mean_se	time_unit	method	comments	mean_unit	count_unit
+Lucas1993	5	CZX500	healthy	Tab5_healthy_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	2	135.0	43.7	1909.69	0.0007275274843716318	0.00023550334123733567	0.00010532029598700258	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	healthy	Tab5_healthy_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	4	132.0	26.8	718.24	0.001438887691312783	0.0002762628784615941	0.00012354851517997736	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	healthy	Tab5_healthy_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	6	47.5	23.2	538.24	0.0016948695839620609	0.0003032373906818544	0.00013561188377685763	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	healthy	Tab5_healthy_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	8	38.7	10.1	102.01	0.0019034274628152619	0.00030808362815726455	0.0001377791870628821	hr	HPLC		mole	dimensionless
+Lucas1993	5	CZX500	healthy	Tab5_healthy_6-hydroxychlorzoxazone	cumulative amount	6-hydroxychlorzoxazone	urine	24	28.5	19.8	392.04	0.0020570165984048288	0.00035298555723216216	0.00015785999137745205	hr	HPLC		mole	dimensionless

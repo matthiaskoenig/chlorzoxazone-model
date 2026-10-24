@@ -1,0 +1,10 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	mean	mean_plus_std	mean_sd	mean_se	method	comments	mean_unit	count_unit
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.0003093668085794352	87.62035	0.00016282736042250485	6.647399153323076e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.00040697790472084505	118.16928	0.00022984727311920676	9.383475631869692e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.00034237247251562837	96.96724	0.00018019295106704033	7.356346422675793e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.00026730946324638935	82.594124	0.000177797909032119	7.258569241041227e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.00018660088381116622	72.12333	0.00020207841129553784	8.24981659510568e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.00010543924337141625	45.0157	0.00013715452683768053	5.599310111086334e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	6.107848674283251e-05	28.097162	9.033971761155422e-05	3.688103527590515e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	4.2110109937486525e-05	20.107786	6.625260832075879e-05	2.7047514085721706e-05	HPLC MS/MS		mole/meter^3	dimensionless
+Hohmann2019	CZX250	6	all	Fig2B_CZX250	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	2.595843554645398e-05	12.550549	4.167763364949343e-05	1.7014822687984854e-05	HPLC MS/MS		mole/meter^3	dimensionless

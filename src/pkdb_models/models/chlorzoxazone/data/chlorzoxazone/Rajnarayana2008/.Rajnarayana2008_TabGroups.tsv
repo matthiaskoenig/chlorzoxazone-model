@@ -1,0 +1,7 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	sd	min	max	unit	comments
+Rajnarayana2008	all	NA	sex	12	M	12	NA	NA	NA	NA	NA	NA
+Rajnarayana2008	all	NA	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA
+Rajnarayana2008	all	NA	healthy	12	Y	12	NA	NA	NA	NA	NA	NA
+Rajnarayana2008	all	NA	age	12	NA	12	25.0	3.0	22.0	28.0	yr	NA
+Rajnarayana2008	all	NA	weight	12	NA	12	61.8	6.6	54.0	70.0	kg	NA
+Rajnarayana2008	all	NA	height	12	NA	12	172.4	5.0	165.0	180.0	cm	NA

@@ -1,0 +1,15 @@
+study	name	parent	measurement_type	group_count	choice	count	mean	min	max	unit	comments
+OShea1994	all	NA	sex	24	M	6	NA	NA	NA	NA	NA
+OShea1994	all	NA	sex	24	F	18	NA	NA	NA	NA	NA
+OShea1994	all	NA	species	24	homo sapiens	24	NA	NA	NA	NA	NA
+OShea1994	all	NA	healthy	24	Y	24	NA	NA	NA	NA	NA
+OShea1994	obese_women	all	sex	9	F	9	NA	NA	NA	NA	NA
+OShea1994	obese_women	all	bmi	9	NA	9	NA	35.2	49.8	kg/m^2	NA
+OShea1994	obese_women	all	age	9	NA	9	NA	24.0	48.0	yr	NA
+OShea1994	obese_women	all	weight	9	NA	9	NA	96.0	145.0	kg	NA
+OShea1994	control_women	all	sex	9	F	9	NA	NA	NA	NA	NA
+OShea1994	control_women	all	weight	9	NA	9	NA	54.0	86.0	kg	NA
+OShea1994	healthy	all	sex	6	M	6	NA	NA	NA	NA	NA
+OShea1994	healthy	all	age	6	NA	6	NA	21.0	28.0	yr	NA
+OShea1994	healthy	all	bmi	6	NA	6	NA	22.6	30.2	kg/m^2	NA
+OShea1994	fasting	healthy	fasting (duration)	6	NA	6	38.0	NA	NA	hr	NA

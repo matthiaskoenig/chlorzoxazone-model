@@ -1,0 +1,19 @@
+study	count	intervention	group	label	measurement	substance	tissue	time	time_unit	mean	pm	sd	se	unit	method	comments
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	0.5	hr	0.30131742	0.017765878	0.283551542	0.0818542795514167	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	1.0	hr	0.7743072	0.22206837	0.55223883	0.159417618578732	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	2.0	hr	2.2499847	1.2052392	1.0447455	0.301592047829825	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	3.0	hr	1.6735151	0.9496345	0.7238806	0.208966329635574	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	4.0	hr	0.98507464	0.5298813	0.45519334	0.131402998691162	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	5.0	hr	0.49818778	0.2444259	0.25376188	0.0732547448640328	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	6.0	hr	0.28738979	0.1455682	0.14182159	0.0409403665817004	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	7.0	hr	0.18094724	0.07650017	0.10444707	0.0301512719902838	µg/ml	HPLC	NA
+Rajnarayana2008	12	CZX	all	Fig1_CZX_REF	concentration	chlorzoxazone	serum	8.0	hr	0.08958278	0.022449145	0.067133635	0.019379811119464	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	0.5	hr	0.8983018	1.6446315	0.74633	0.215447	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	1.0	hr	2.2817392	3.3563662	1.07463	0.310218	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	2.0	hr	3.6305206	5.2723727	1.64185	0.473962	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	3.0	hr	2.2257233	3.069007	0.843284	0.243435	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	4.0	hr	1.3507463	1.9402986	0.589552	0.170189	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	5.0	hr	0.8339781	1.2518886	0.41791	0.12064	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	6.0	hr	0.46640265	0.66046304	0.19406	0.0560204	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	7.0	hr	0.31524506	0.4421718	0.126927	0.0366406	µg/ml	HPLC	NA
+Rajnarayana2008	12	DIOSMIN, CZX	all	Fig1_CZX_TEST	concentration	chlorzoxazone	serum	8.0	hr	0.1716418	0.23883651	0.0671947	0.0193974	µg/ml	HPLC	NA

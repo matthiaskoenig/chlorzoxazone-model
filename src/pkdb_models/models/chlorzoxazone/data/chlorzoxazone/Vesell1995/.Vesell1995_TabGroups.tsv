@@ -1,0 +1,9 @@
+study	name	parent	measurement_type	group_count	choice	count	value	min	max	unit	comments
+Vesell1995	all	NA	sex	62	M	38	NA	NA	NA	NA	NA
+Vesell1995	all	NA	sex	62	F	24	NA	NA	NA	NA	NA
+Vesell1995	all	NA	species	62	homo sapiens	62	NA	NA	NA	NA	NA
+Vesell1995	all	NA	healthy	62	Y	62	NA	NA	NA	NA	NA
+Vesell1995	all	NA	smoking	62	N	62	NA	NA	NA	NA	NA
+Vesell1995	all	NA	alcohol	62	N	62	NA	NA	NA	NA	NA
+Vesell1995	all	NA	age	62	NA	62	NA	24.0	56.0	yr	NA
+Vesell1995	all	NA	weight	62	NA	62	NA	49.0	83.0	kg	NA

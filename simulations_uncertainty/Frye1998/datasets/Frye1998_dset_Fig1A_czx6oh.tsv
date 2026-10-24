@@ -1,0 +1,16 @@
+study	intervention	count	group	label	measurement	substance	tissue	time	time_unit	mean	pm	mean_se	mean_sd	method	comments	mean_unit	count_unit
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.5	hr	0.0008096669001940075	215.60631	0.00035225544298340164	0.0014090217719336065	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	0.75	hr	0.0032799637314076314	769.91693	0.0008691898038370339	0.0034767592153481354	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.0	hr	0.004956211467988791	1104.8785	0.000998080944169002	0.003992323776676008	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.25	hr	0.006233762664367321	1350.4077	0.0010437093123518	0.0041748372494072	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.5	hr	0.007277471976719121	1497.2183	0.0007911758999784436	0.0031647035999137745	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	1.75	hr	0.007575488251778401	1540.7606	0.0007278131062729037	0.0029112524250916147	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	2.0	hr	0.007575488251778401	1531.952	0.0006803427462815263	0.002721370985126105	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	3.0	hr	0.006526349967665446	1282.4924	0.00038512017676223324	0.001540480707048933	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	4.0	hr	0.00400884673420996	820.038	0.00041041388230222037	0.0016416555292088815	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	5.0	hr	0.00269903605302867	555.28156	0.00029342762448803623	0.001173710497952145	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	6.0	hr	0.0017759793058848893	365.37805	0.0001930767945677948	0.0007723071782711792	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	7.0	hr	0.001230487443414529	245.99808	9.521895882733347e-05	0.0003808758353093334	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	8.0	hr	0.0009952834662642811	202.42834	9.562157792627721e-05	0.00038248631170510885	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	9.0	hr	0.0007733682366889416	153.72723	5.5082021987497305e-05	0.00022032808794998868	HPLC		mole/meter^3	dimensionless
+Frye1998	CZX250	16	all	Fig1A_6-hydroxychlorzoxazone	concentration	6-hydroxychlorzoxazone	plasma	10.0	hr	0.0006662635266221168	131.6802	4.337324854494509e-05	0.0001734929941797801	HPLC		mole/meter^3	dimensionless

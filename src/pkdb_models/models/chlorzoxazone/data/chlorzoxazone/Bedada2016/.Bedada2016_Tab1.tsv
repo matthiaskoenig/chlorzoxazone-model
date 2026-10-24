@@ -1,0 +1,17 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+Bedada2016	12	all	CZX250	Tab1_CZX250	cmax	chlorzoxazone	plasma	2.55	0.87	0.251147367097487	µg/ml	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab1_CZX250	tmax	chlorzoxazone	plasma	2.08	0.29	0.0837157890324957	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab1_CZX250	kel	chlorzoxazone	plasma	0.57	0.15	0.0433012701892219	1/hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab1_CZX250	thalf	chlorzoxazone	plasma	1.29	0.33	0.0952627944162883	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab1_CZX250	auc_end	chlorzoxazone	plasma	7.61	1.92	0.554256258422041	µg/ml*hr	8.0	hr	HPLC	units in table seem to make no sense
+Bedada2016	12	all	CZX250	Tab1_CZX250	auc_inf	chlorzoxazone	plasma	7.82	1.91	0.551369507076093	µg/ml*hr	NA	NA	HPLC	units in table seem to make no sense
+Bedada2016	12	all	CZX250	Tab1_CZX250	clearance	chlorzoxazone	plasma	33.93	8.99	2.59518946000737	l/hr	NA	NA	HPLC	NA
+Bedada2016	12	all	CZX250	Tab1_CZX250	vd	chlorzoxazone	plasma	65.44	30.41	8.77861084302826	l	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	cmax	chlorzoxazone	plasma	3.92	1.48	0.427239199200323	µg/ml	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	tmax	chlorzoxazone	plasma	2.17	0.58	0.167431578064991	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	kel	chlorzoxazone	plasma	0.42	0.12	0.0346410161513775	1/hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	thalf	chlorzoxazone	plasma	1.74	0.42	0.121243556529821	hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	auc_end	chlorzoxazone	plasma	13.03	4.05	1.16913429510899	µg/ml*hr	8.0	hr	HPLC	units in table seem to make no sense
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	auc_inf	chlorzoxazone	plasma	13.77	4.04	1.16624754376304	µg/ml*hr	NA	NA	HPLC	units in table seem to make no sense
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	clearance	chlorzoxazone	plasma	19.58	5.47	1.57905298623363	l/hr	NA	NA	HPLC	NA
+Bedada2016	12	all	RSV500,CZX250	Tab1_RSV500,CZX250	vd	chlorzoxazone	plasma	50.71	23.46	6.77231865759431	l	NA	NA	HPLC	NA

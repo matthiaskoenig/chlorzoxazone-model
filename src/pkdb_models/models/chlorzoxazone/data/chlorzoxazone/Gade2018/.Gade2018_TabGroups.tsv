@@ -1,0 +1,13 @@
+study	name	parent	measurement_type	group_count	choice	count	median	min	max	unit	comments
+Gade2018	all	NA	sex	70	MF	70	NA	NA	NA	NA	NA
+Gade2018	all	NA	species	70	homo sapiens	70	NA	NA	NA	NA	NA
+Gade2018	all	NA	abstinence alcohol	70	NA	70	NA	3.0	NA	day	NA
+Gade2018	all	NA	healthy	70	Y	36	NA	NA	NA	NA	NA
+Gade2018	obese	all	age	34	NA	34	14.06	11.04	16.68	yr	NA
+Gade2018	obese	all	weight	34	NA	34	78.0	56.2	123.9	kg	NA
+Gade2018	obese	all	sex	34	F	20	33.5	NA	NA	NA	NA
+Gade2018	obese	all	sex	34	M	14	6.4	NA	NA	NA	NA
+Gade2018	nonobese	all	age	36	NA	36	14.4	11.08	17.74	yr	NA
+Gade2018	nonobese	all	weight	36	NA	36	56.0	33.2	75.8	kg	NA
+Gade2018	nonobese	all	sex	36	F	15	33.5	NA	NA	NA	NA
+Gade2018	nonobese	all	sex	36	M	21	6.4	NA	NA	NA	NA

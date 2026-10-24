@@ -1,0 +1,12 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	proxy	mean	sd	se	unit	time	time_unit	method	comments
+Dreisbach1995	10	all	CZX500	Tab4_kabs_chlorzoxazone	kabs	chlorzoxazone	plasma	NA	3.11	4.67	1.47678366729863	1/hr	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_kel_chlorzoxazone	kel	chlorzoxazone	plasma	NA	0.57	0.17	0.0537587202228624	1/hr	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_thalf_chlorzoxazone	thalf	chlorzoxazone	plasma	NA	1.31	0.38	0.120166551086398	hr	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_auc_inf_chlorzoxazone	auc_inf	chlorzoxazone	plasma	NA	34.2	4.89	1.54635377582234	µg*hr/ml	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_tmax_chlorzoxazone	tmax	chlorzoxazone	plasma	NA	1.45	0.44	0.139140217047409	hr	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_cmax_chlorzoxazone	cmax	chlorzoxazone	plasma	NA	11.11	4.41	1.39456444813426	µg/ml	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_clearance_partial_6-hydroxychlorzoxazone	clearance_partial	6-hydroxychlorzoxazone	plasma	NA	8.71	1.83	0.578696811810813	l/hr	NA	NA	HPLC	NA
+Dreisbach1995	10	all	CZX500	Tab4_excretion rate_6-hydroxychlorzoxazone	excretion rate	6-hydroxychlorzoxazone	urine	NA	0.6	0.14	0.0442718872423573	1/hr	NA	NA	HPLC	urinary appearance rate constant (UKapp) of 6-hydroxychlorzoxazone
+Dreisbach1995	10	all	CZX500	Tab4_rd_6-hydroxychlorzoxazone	rd	6-hydroxychlorzoxazone	urine	NA	0.64	0.15	0.0474341649025257	1/hr	NA	NA	HPLC	urinary disappearance rate constant (UKdisp) of 6-hydroxychlorzoxazone
+Dreisbach1995	10	all	CZX500	Tab4_recovery_6-hydroxychlorzoxazone	recovery	6-hydroxychlorzoxazone	urine	1.72	0.5833036	0.0712173	0.022520887680751	dimensionless	8.0	hr	HPLC	1.72 +- 0.21 mmol 6-hydroxychlorzoxazone in 8 hr over the dose of 2.949 mmol (fraction, not percent)
+Dreisbach1995	10	all	CZX500	Tab4_tmax_6-hydroxychlorzoxazone	tmax	6-hydroxychlorzoxazone	urine	NA	1.99	0.38	0.120166551086398	hr	NA	NA	HPLC	time of the maximal urinary excretion rate of 6-hydroxychlorzoxazone

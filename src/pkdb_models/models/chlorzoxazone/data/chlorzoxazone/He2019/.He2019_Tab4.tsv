@@ -1,0 +1,11 @@
+study	count	group	intervention	label	measurement_type	substance	tissue	mean	sd	se	unit	time	time_unit	method	comments
+He2019	20	all	TEST	CZX400_TEST	thalf	chlorzoxazone	plasma	0.97	0.31	0.0693181073024935	hr	NA	NA	LC MS/MS	NA
+He2019	20	all	TEST	CZX400_TEST	cmax	chlorzoxazone	plasma	9.96	1.98	0.442741459544958	µg/ml	NA	NA	LC MS/MS	NA
+He2019	20	all	TEST	CZX400_TEST	tmax	chlorzoxazone	plasma	2.03	0.95	0.21242645786248	hr	NA	NA	LC MS/MS	NA
+He2019	20	all	TEST	CZX400_TEST	auc_end	chlorzoxazone	plasma	27.57	5.46	1.22089311571489	µg*hr/ml	8.0	hr	LC MS/MS	NA
+He2019	20	all	TEST	CZX400_TEST	auc_inf	chlorzoxazone	plasma	28.21	5.61	1.25443413537738	µg*hr/ml	NA	NA	LC MS/MS	NA
+He2019	20	all	REF	CZX400_REF	thalf	chlorzoxazone	plasma	1.08	0.25	0.0559016994374947	hr	NA	NA	LC MS/MS	NA
+He2019	20	all	REF	CZX400_REF	cmax	chlorzoxazone	plasma	10.37	2.66	0.594794082014944	µg/ml	NA	NA	LC MS/MS	NA
+He2019	20	all	REF	CZX400_REF	tmax	chlorzoxazone	plasma	1.8	0.85	0.190065778087482	hr	NA	NA	LC MS/MS	NA
+He2019	20	all	REF	CZX400_REF	auc_end	chlorzoxazone	plasma	27.71	4.88	1.0912011730199	µg*hr/ml	8.0	hr	LC MS/MS	NA
+He2019	20	all	REF	CZX400_REF	auc_inf	chlorzoxazone	plasma	28.4	4.96	1.1090897168399	µg*hr/ml	NA	NA	LC MS/MS	NA

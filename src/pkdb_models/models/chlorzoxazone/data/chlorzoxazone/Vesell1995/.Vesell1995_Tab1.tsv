@@ -1,0 +1,7 @@
+study	count	intervention	group	label	measurement	substance	tissue	mean	sd	unit	method	comments
+Vesell1995	24	CZX500	all	Tab1_vd_CZX500_chlorzoxazone	vd	chlorzoxazone	plasma	13.3	3.1	l	HPLC	NA
+Vesell1995	24	CZX500	all	Tab1_clearance_CZX500_chlorzoxazone	clearance	chlorzoxazone	plasma	323.0	105.0	ml/min	HPLC	NA
+Vesell1995	24	CZX500	all	Tab1_thalf_CZX500_chlorzoxazone	thalf	chlorzoxazone	plasma	1.19	0.24	hr	HPLC	NA
+Vesell1995	24	CZX500	all	Tab1_auc_inf_CZX500_chlorzoxazone	auc_inf	chlorzoxazone	plasma	25.8	12.3	mg*hr/l	HPLC	NA
+Vesell1995	24	CZX500	all	Tab1_thalf_CZX500_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	urine	1.27	0.15	hr	HPLC	NA
+Vesell1995	62	CZX250	all	Tab1_thalf_CZX250_6-hydroxychlorzoxazone	thalf	6-hydroxychlorzoxazone	urine	1.42	0.33	hr	HPLC	NA
